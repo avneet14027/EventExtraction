@@ -1,0 +1,2287 @@
+###############################################################################
+30 injured, Forces wreaked havoc in Pulwama village after barging into residential houses.
+###############################################################################
+
+
+Extracted triples 
+1.2:	30; injured; <_>; 
+
+1.5:	Forces; wreaked; havoc;
+	 <_>; #1.2;
+	 in; Pulwama village;
+	 after; #1.11;
+
+1.11:	Forces; barging into; residential houses;
+
+
+
+
+
+###############################################################################
+Teargas shell hit boy at Bandipora
+###############################################################################
+
+
+Extracted triples 
+1.3:	Teargas shell; hit; boy;
+	 at; Bandipora;
+
+
+
+
+
+###############################################################################
+A high-level team of the National Investigation Agency (NIA) arrived in Kashmir for carrying out investigations into flow of funds into some suspicious bank accounts in Jammu and Kashmir which were allegedly used in financially supporting the ongoing uprising in the region. T
+###############################################################################
+
+
+Extracted triples 
+1.12:	A high-level team of the National Investigation Agency; arrived in; Kashmir;
+	 for; #1.16;
+
+1.16:	A high-level team of the National Investigation Agency; carrying out; investigations into flow of funds;
+	 into; some suspicious bank accounts in Jammu and Kashmir<ctx#1.35>;
+
+1.35:	which; were used in; #1.38;
+	 <_>; allegedly;
+
+1.38:	which; supporting; the ongoing uprising;
+	 <_>; financially;
+	 in; the region;
+
+1.10:	A high-level team of the National Investigation Agency; <be>; NIA;
+
+
+
+
+
+###############################################################################
+The main opposition party National Conference (NC) accused Chief Minister Mehbooba Mufti on making provocative statements saying this would make situation worse in Kashmir.
+###############################################################################
+
+
+Extracted triples 
+1.10:	The main opposition party National Conference; accused; Chief Minister Mehbooba Mufti<ctx#1.16>;
+
+1.16:	Chief Minister Mehbooba Mufti; making; provocative statements;
+	 <_>; #1.19;
+
+1.19:	Chief Minister Mehbooba Mufti<ctx#1.16>; saying; #1.22;
+
+1.22:	this; would make; worse;
+	 in; Kashmir;
+
+1.8:	The main opposition party National Conference; <be>; NC;
+
+
+
+
+
+###############################################################################
+Amid curfew and restrictions, bruit growers in the Valley faced a huge loss of around Rs. 900 crore from last 49 days of unrest
+###############################################################################
+
+
+Extracted triples 
+1.11:	bruit growers in the Valley; faced; a huge loss of around Rs. 900 crore;
+	 <_>; Amid curfew and restrictions;
+	 from; last 49 days of unrest;
+
+1.9:	Valley; <be>; bruit growers in the;
+
+1.18:	crore; <be>; huge loss of around Rs. 900;
+
+
+
+
+
+###############################################################################
+Union Home Minister, Rajnath Singhâ€™s second visit to Kashmir since the eruption of violence can be discerned as bearing a slight departure from his first that was on July 23-24
+###############################################################################
+
+
+Extracted triples 
+1.21:	Union Home Minister; can be discerned as; #1.23;
+
+1.23:	Union Home Minister; bearing; a slight departure from his first<ctx#1.33>;
+
+1.31:	that; was on; July 23-24;
+	 <_>; a slight departure from his first<ctx#1.33>;
+
+
+
+
+
+###############################################################################
+Criticizing the former Chief Minister, Mufti Muhammad Sayeed for giving a dozen of inhuman massacres that stoked a rebellion costing Kashmiris two generations
+###############################################################################
+
+
+Extracted triples 
+1.1:	<_>; Criticizing; the former Chief Minister;
+
+1.11:	Mufti Muhammad Sayeed; giving; a dozen of inhuman massacres<ctx#1.18>;
+
+1.18:	that; stoked; a rebellion<ctx#1.21>;
+	 <_>; a dozen of inhuman massacres;
+
+1.21:	a rebellion; costing; two generations;
+
+1.9:	the former Chief Minister; <be>; Mufti Muhammad Sayeed;
+
+
+
+
+
+###############################################################################
+Under fire, Govt relocated BSF from SP School; 2 other Schools to be set free soon, say officials
+###############################################################################
+
+
+Extracted triples 
+1.5:	Govt; relocated; #1.20;
+	 <_>; Under fire;
+
+1.16:	2 other Schools; be set; free;
+	 <_>; soon;
+
+1.20:	BSF from SP School; say; officials;
+
+
+
+
+
+###############################################################################
+Geelani would march on August 27 to 15 Corps of Indian Army at Badami Bagh, Srinagar at 2 PM and give the letter to GOC-in-charge, asking him to vacate J&K.  
+###############################################################################
+
+
+Extracted triples 
+1.3:	Geelani; would march on; August 27;
+	 to; 15 Corps of Indian Army at Badami Bagh;
+	 and; #1.22;
+
+1.22:	Geelani; give; the letter;
+	 to; GOC-in-charge;
+	 <_>; #1.28;
+
+1.28:	Geelani; asking; him;
+	 to; #1.31;
+
+1.31:	him; vacate; J&K;
+
+1.17:	at Badami Bagh; <be>; Srinagar at 2 PM;
+
+
+
+
+
+###############################################################################
+7 soldiers, including 2 officers and 6 militants killed in twin attacks at Nagrota and Samba in Jammu division
+###############################################################################
+
+
+Extracted triples 
+1.4:	<_>; including; <_>; 
+
+1.10:	6 militants;  andkilled in; twin attacks;
+	 at; Nagrota and Samba;
+	 in; Jammu division;
+
+
+
+
+
+###############################################################################
+Parents of students of different private schools of Srinagar protested at Press Enclave, Srinagar demanding waiving off school fee for the unrest period
+###############################################################################
+
+
+Extracted triples 
+1.10:	Parents of students of different private schools of Srinagar; protested at; Press Enclave;
+
+1.16:	Srinagar; demanding; #1.17;
+
+1.17:	Srinagar<ctx#1.16>; waiving off; school fee for the unrest period;
+
+1.15:	<_>; <be>; Srinagar;
+
+
+
+
+
+###############################################################################
+two Kashmiri students were assaulted in Grugaon, Haryana forcing their families to call them back from the college. 
+###############################################################################
+
+
+Extracted triples 
+1.5:	two Kashmiri students; were assaulted in; Grugaon Haryana;
+	 <_>; #1.10;
+
+1.10:	two Kashmiri students; forcing; their families;
+	 to; #1.14;
+
+1.14:	their families; call; them;
+	 <_>; back;
+	 from; the college;
+
+
+
+
+
+###############################################################################
+The Jammu and Kashmir High Court issued notice to the Government for its objections to a petition seeking directions to private schools for not collecting tuition fee from the students since July this year
+###############################################################################
+
+
+Extracted triples 
+1.7:	The Jammu and Kashmir High Court; issued; notice;
+	 to; the Government for its objections;
+	 to; a petition<ctx#1.18>;
+
+1.18:	<_>; seeking; directions to private schools;
+	 for; #1.25;
+
+1.25:	<_>; not collecting; tuition fee;
+	 from; the students;
+	 since; July;
+	 <_>; this year;
+
+
+
+
+
+###############################################################################
+With marked ease in hartals, examinations have begun, though students had launched boycott campaign against examination for a long time, demanding postponement of exams till March, 2017, release of arrested students, relaxation in syllabus and for paying attention towards injured students.
+###############################################################################
+
+
+Extracted triples 
+1.9:	examinations; have begun though; #1.14;
+	 <_>; With marked ease in hartals;
+
+1.14:	students; had launched; boycott campaign against examination;
+	 for; a long time;
+	 <_>; #1.24;
+
+1.24:	students; demanding; postponement of exams;
+	 till; March 2017 and paying;
+
+1.35:	<_>; arrested; <_>; 
+
+1.43:	<_>; paying; attention towards injured students;
+
+1.46:	<_>; injured; <_>; 
+
+1.33:	<_>; <be>; release of arrested students;
+
+1.38:	<_>; <be>; relaxation in syllabus;
+
+
+
+
+
+###############################################################################
+Referring upon ceasefire agreement between India and Pakistan announced on November 23, 2003
+###############################################################################
+
+
+Extracted triples 
+1.1:	<_>; Referring upon; #1.9;
+
+1.9:	ceasefire agreement between India and Pakistan; announced on; November 23 2003;
+
+
+
+
+
+###############################################################################
+Mehbooba Mufti met the Prime Minister and sought CBMs for Kashmir; Urged Rajnath Singh  and Manohar Parrikar to open more LoC trade points; Described demonetisation as historic decision
+###############################################################################
+
+
+Extracted triples 
+1.3:	Mehbooba Mufti; met; the Prime Minister;
+	 and; #1.8;
+
+1.8:	Mehbooba Mufti; sought; CBMs;
+	 for; Kashmir;
+
+1.13:	trade points; Urged and; Rajnath Singh Manohar Parrikar;
+	 to; #1.20;
+
+1.20:	Manohar Parrikar; open; more LoC;
+
+1.26:	<_>; Described; demonetisation;
+	 as; historic decision;
+	 <_>; #1.13;
+
+
+
+
+
+###############################################################################
+Militants managed to flee after exchange of fire with security forces in Hanzishart-Langate area of Handwara town in Kupwara district
+###############################################################################
+
+
+Extracted triples 
+1.2:	Militants; managed to; #1.4;
+
+1.4:	Militants; flee after; exchange of fire;
+	 with; security forces in Hanzishart-Langate area of Handwara town;
+	 in; Kupwara district;
+
+
+
+
+
+###############################################################################
+Kashmir observed complete strike on the second consecutive day on April 14 in protest against the killing of three youths and an aged woman in firing and shelling by government forces in Handwara town (district Kupwara)
+###############################################################################
+
+
+Extracted triples 
+1.2:	Kashmir; observed; complete strike;
+	 on; the second consecutive day on April 14;
+
+1.28:	<_>; shelling by; government forces in Handwara;
+
+1.37:	district; <be>; Kupwara;
+
+
+
+
+
+###############################################################################
+With tension continuing in Kashmir in the wake of death of four civilians since April 12, 2016 in clashes with government forces, Chief Minister, Mehbooba Mufti held a meeting with top Police and intelligence officials of the State in Srinagar to review the situation and directed that no harm should come to civilians while dealing with law and issues.
+###############################################################################
+
+
+Extracted triples 
+1.3:	<_>; continuing; <_>; 
+
+1.30:	Mehbooba Mufti; held; a meeting;
+	 with; top Police and intelligence officials of the State in Srinagar;
+	 to; #1.45;
+	 and; #1.49;
+	 <_>; With tension continuing in Kashmir in the wake of death of four civilians since April 12 2016 in clashes with government forces;
+
+1.45:	Mehbooba Mufti; review; the situation;
+
+1.49:	Mehbooba Mufti; directed that; #1.54;
+
+1.54:	no harm; should come to; civilians;
+	 while; #1.58;
+
+1.58:	no harm; dealing with; law and issues;
+
+1.26:	with government forces; <be>; Chief Minister;
+
+
+
+
+
+###############################################################################
+Meanwhile, the Handwara school girl who was allegedly molested by an Army soldier on April 12, 2016 - the incident that led to four killings by security forces - was in preventive custody along with her father, even as a rights group demanded their immediate release.
+###############################################################################
+
+
+Extracted triples 
+1.10:	who; was molested by; an Army soldier;
+	 <_>; allegedly;
+	 <_>; the Handwara school girl;
+	 on; April 12 2016;
+
+1.24:	that; led to; four killings;
+	 <_>; the incident;
+	 by; security forces;
+
+1.32:	the Handwara school girl<ctx#1.10>; was in; Meanwhile preventive custody along with her father;
+	 as; #1.46;
+
+1.46:	a rights group; demanded; their immediate release;
+	 <_>; even;
+
+
+
+
+
+###############################################################################
+A demonstration was staged in Muzaffarabad on April 14 to condemn the recent incident of molestation of a girl and cold-blooded killing of four innocent people by forces in Handwara area of J&K.
+###############################################################################
+
+
+Extracted triples 
+1.4:	A demonstration; was staged in; Muzaffarabad on April 14;
+	 to; #1.11;
+
+1.11:	A demonstration; condemn; the recent incident of molestation of a girl and cold-blooded killing of four innocent people;
+	 by; forces in Handwara area of J&K;
+
+
+
+
+
+###############################################################################
+The demonstrators, who were holding banners and placards, marched from press club to Garhipan Chowk.
+###############################################################################
+
+
+Extracted triples 
+1.6:	who; were holding and; banners placards;
+	 <_>; The demonstrators;
+
+1.11:	The demonstrators<ctx#1.6>; marched from; press club;
+	 to; Garhipan Chowk;
+
+
+
+
+
+###############################################################################
+Director General of Police, K. Rajendra Kumar along with IGP, Kashmir, S.J.M. Gilani visited Handwara (district Kupwara) on April 14 and took stock of the situation there and later chaired a high level security meeting at Srinagar.
+###############################################################################
+
+
+Extracted triples 
+1.17:	Director General of Police Rajendra Kumar along with IGP; visited; Handwara;
+	 on; April 14;
+	 and; #1.27;
+	 and; there later;
+	 <_>; #1.35;
+
+1.27:	Director General of Police Rajendra Kumar along with IGP; took; stock of the situation;
+
+1.35:	<_>; chaired; a high level security meeting;
+	 at; Srinagar;
+
+1.6:	of Police Rajendra Kumar along with IGP; <be>; K.;
+
+1.13:	with IGP; <be>; Kashmir;
+
+1.16:	Kashmir; <be>; S.J.M. Gilani;
+
+1.21:	district; <be>; Kupwara;
+
+
+
+
+
+###############################################################################
+A security meeting at Handwara was attended by GOD Kilo Force, DIG/North Kashmir, Uttam Chand, DC Kupwara, Ghulam Jeelani and other officers.
+###############################################################################
+
+
+Extracted triples 
+1.7:	A security meeting at Handwara; was attended by; GOD Kilo Force DIG/North Kashmir Uttam Chand DC Kupwara Ghulam Jeelani and other officers;
+
+
+
+
+
+###############################################################################
+Ceremonial Border Personnel Meetings (BPMs) between Chinese and the Indian Army were held on April 14, 2016 on the Line of Actual Control (LAC) in Ladakh.
+###############################################################################
+
+
+Extracted triples 
+1.15:	Ceremonial Border Personnel Meetings between Chinese and the Indian Army; were held on; April 14 2016 on the Line of Actual Control in Ladakh;
+
+1.6:	Ceremonial Border Personnel Meetings between Chinese and the Indian Army; <be>; BPMs;
+
+1.28:	of Actual Control in Ladakh; <be>; LAC;
+
+
+
+
+
+###############################################################################
+In the midst of unrest, anti-Pakistan protests erupted in various parts of PoK on April 13, 2016 over Islamabadâ€™s discrimination in employment to local youth. Anti-Pak protests erupts in PoK.
+###############################################################################
+
+
+Extracted triples 
+1.3:	Anti-Pak protests; erupts; PoK;
+
+1.9:	anti-Pakistan protests; erupted in; various parts of PoK on April 13 2016 over Islamabadâ;
+	 <_>; ™ s discrimination;
+	 in; employment;
+	 to; local youth;
+
+
+
+
+
+###############################################################################
+About 100 students owing allegiance to J&K National Students Federation along with some members of J&K National Awami Party carried out demonstration rally in Muzaffarabad, condemning the oppressive rule by Pakistani authorities and the local PoK government.
+###############################################################################
+
+
+Extracted triples 
+1.4:	About 100 students; owing; allegiance;
+	 to; J&K National Students;
+
+1.20:	Federation; carried out; demonstration rally in Muzaffarabad;
+	 <_>; #1.27;
+	 <_>; About 100 students<ctx#1.4>;
+
+1.27:	Federation; condemning; the oppressive rule;
+	 by; Pakistani authorities and the local PoK government;
+
+
+
+
+
+###############################################################################
+The demonstrators raised slogans demanding for an independent Kashmir.
+###############################################################################
+
+
+Extracted triples 
+1.3:	The demonstrators; raised; slogans<ctx#1.5>;
+
+1.5:	slogans; demanding for; an independent Kashmir;
+
+
+
+
+
+###############################################################################
+Army kills two youth in Handwara after protests over girlâ€™s molestation.
+###############################################################################
+
+
+Extracted triples 
+1.2:	Army; kills; two youth in Handwara after protests over girlâ;
+	 <_>; ™ s molestation;
+
+
+
+
+
+###############################################################################
+Army shot dead two in cold-blood on April 12 in Handwara town (District Kupwara) after protests erupted over molestation of a school girl by a soldier.
+###############################################################################
+
+
+Extracted triples 
+1.2:	Army; shot; dead two in cold-blood on April 12 in Handwara town;
+	 after; #1.19;
+
+1.19:	protests; erupted over; molestation of a school girl;
+	 by; a soldier;
+
+1.15:	dead two in cold-blood on April 12 in Handwara town; <be>; District Kupwara;
+
+
+
+
+
+###############################################################################
+Several people were injured in clashes over the killings that evoked widespread condemnation and a state-wide shutdown call by separatists for April 13.
+###############################################################################
+
+
+Extracted triples 
+1.4:	Several people; were injured in; clashes over the killings<ctx#1.11>;
+
+1.11:	that; evoked and; widespread condemnation a state-wide shutdown call;
+	 <_>; over the killings;
+	 by; separatists for April 13;
+
+
+
+
+
+###############################################################################
+A Police officials, who was among the officials recording her statement said, â€œShe told us that the soldier tried to molest her in the washroom.
+###############################################################################
+
+
+Extracted triples 
+1.6:	the officials; was among; #1.10;
+	 <_>; A Police officials<ctx#1.10>;
+	 <_>; her statement;
+
+1.10:	the officials; recording; her statement;
+	 <_>; A Police officials;
+
+1.13:	A Police officials<ctx#1.10>; said; <_>; 
+
+1.18:	â; told; us;
+	 that; #1.23;
+	 <_>; #1.13;
+
+1.23:	the soldier; tried to; #1.25;
+
+1.25:	the soldier; molest; her;
+	 in; the washroom;
+
+
+
+
+
+###############################################################################
+Kashmirâ€™s separatist leaders strongly condemned the killing of two youth in Army firing in Handwara and called for a complete shutdown on April 13 against the cold-blooded killings.
+###############################################################################
+
+
+Extracted triples 
+1.8:	Kashmirâ; condemned; the killing of two youth in Army firing;
+	 <_>; € ™ separatist leaders strongly;
+	 in; Handwara;
+	 and; #1.20;
+
+1.20:	Kashmirâ; called for; a complete shutdown on April 13 against the cold-blooded killings;
+
+1.15:	firing; <be>; the killing of two youth in Army;
+
+
+
+
+
+###############################################################################
+Bandipora village stage protest against NHPC, demand employment.
+###############################################################################
+
+
+Extracted triples 
+1.9:	against NHPC; <be>; demand employment;
+
+
+
+
+
+###############################################################################
+People from various villages in Bandipora district continued to stage protest on the third consecutive day against National Hydroelectric Power Corporation (NHPC), accusing the Corporation of acting like the East India Company.
+###############################################################################
+
+
+Extracted triples 
+1.8:	People from various villages in Bandipora district; continued to; stage protest;
+	 on; the third consecutive day against National Hydroelectric Power Corporation;
+	 <_>; #1.26;
+
+1.26:	People from various villages in Bandipora district; accusing; the Corporation<ctx#1.30>;
+
+1.30:	the Corporation; acting like; the East India Company;
+
+1.6:	district; <be>; People from various villages in Bandipora;
+
+1.23:	against National Hydroelectric Power Corporation; <be>; NHPC;
+
+
+
+
+
+###############################################################################
+Another ceasefire violation has been reported in Balakot sector in Mendhar tehsil of Poonch district, on April 11 morning.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Another ceasefire violation; has been reported in; Balakot sector in Mendhar tehsil of Poonch district;
+	 on; April 11;
+	 <_>; morning;
+
+
+
+
+
+###############################################################################
+Locals of Dhrati Trikundi in Balakot sector claimed that Pakistani troops fired 8 to 10 mortar shells near 88 and 90 Forward Posts in the wee hours between 1 AM to 2 AM on April 11.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Another ceasefire violation; has been reported in; Balakot sector in Mendhar tehsil of Poonch district;
+	 on; April 11;
+	 <_>; morning;
+
+
+
+
+
+###############################################################################
+Spontaneous hartal and violent protests erupted in Neewa (District Pulwama) when an Army vehicle crushed a Maruti car, resulting in the death of a bank employee and injuries to two of his associates.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Spontaneous hartal and violent protests; erupted in; Neewa;
+	 when; #1.17;
+
+1.17:	an Army vehicle; crushed; a Maruti car;
+	 <_>; #1.22;
+
+1.22:	an Army vehicle; resulting in; the death of a bank employee and injuries;
+	 to; two of his associates;
+
+1.11:	<_>; <be>; District Pulwama;
+
+1.15:	vehicle; <be>; an Army;
+
+1.19:	car; <be>; Maruti;
+
+
+
+
+
+###############################################################################
+Jamaat-e-Islami (JeI) J&K condemned massacre of the workers of JeI Bangladesh and its student wing Islami Chhatra Shiber by Bangladesh Government led by Sheikh Hasina.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Jamaat-e-Islami JeI J&K; condemned; massacre of the workers of JeI Bangladesh and its student wing;
+	 by; Bangladesh Government;
+
+1.24:	Jamaat-e-Islami JeI J&K<ctx#1.6>; led by; Sheikh Hasina;
+
+
+
+
+
+###############################################################################
+Congress in Jammu and Kashmir boycotted the swearing-in ceremony of the Mehbooba Mufti government in protest against the imposition of the Presidentâ€™s rule in Arunachal Pradesh and Uttrakhand, and termed the new PDP- BJP combine as an unholy alliance.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Congress in Jammu and Kashmir; boycotted; the swearing-in ceremony of the Mehbooba Mufti government in protest against the imposition of the Presidentâ;
+
+1.34:	™ and; termed; the new PDP;
+
+1.40:	BJP; combine as; an unholy alliance;
+
+
+
+
+
+###############################################################################
+A day after taking oath as a Cabinet Minister in Mehbooba Mufti - led coalition PDP-BJP government, Peoples Conference (PC) Chairman, Sajjad Gani Lone submitted his resignation to the Chief Minster.
+###############################################################################
+
+
+Extracted triples 
+1.4:	<_>; taking; oath;
+	 as; a Cabinet Minister in Mehbooba Mufti;
+
+1.14:	<_>; led; coalition PDP-BJP government;
+
+1.29:	Chairman Gani Lone; submitted; his resignation;
+	 to; the Chief Minster;
+	 <_>; Peoples Conference;
+
+1.20:	coalition PDP-BJP government; <be>; Peoples Conference;
+
+1.22:	Peoples Conference; <be>; PC;
+
+1.26:	Chairman Gani Lone; <be>; Sajjad;
+
+
+
+
+
+###############################################################################
+A Police official said that a militant was killed in an encounter between militants and forces at Gudoora village in South Kashmirâ€™s Pulwama district.
+###############################################################################
+
+
+Extracted triples 
+1.4:	A Police official; said that; #1.9;
+
+1.9:	a militant; was killed in; an encounter between militants and forces;
+	 at; Gudoora village;
+	 in; South Kashmirâ;
+
+
+
+
+
+###############################################################################
+According to a statement issued by Ummat-e-Islami, Police raided Ummat-e-Islami office in Anantnag and arrested Mirwaiz South Kashmir, Qazi Ahmed Yasir yet again.
+###############################################################################
+
+
+Extracted triples 
+1.1:	<_>; According; <_>; 
+
+1.5:	According a statement; issued by; Ummat-e-Islami;
+
+1.10:	Police; raided; Ummat-e-Islami office;
+	 in; Anantnag;
+	 and; #1.16;
+	 <_>; According a statement<ctx#1.5>;
+
+1.16:	Police; arrested yet; Mirwaiz South Kashmir;
+	 <_>; yet again;
+
+1.11:	office; <be>; Ummat-e-Islami;
+
+1.23:	Mirwaiz South Kashmir; <be>; Qazi Ahmed Yasir;
+
+
+
+
+
+###############################################################################
+Punjab Police issued a security alert about three suspected Pakistani militants heading to Kashmir in a car with arms and ammunition.
+###############################################################################
+
+
+Extracted triples 
+1.3:	Punjab Police; issued; #1.9;
+
+1.9:	a security; suspected; #1.12;
+
+1.12:	Pakistani militants; heading to; Kashmir;
+	 in; a car with arms and ammunition;
+
+1.10:	militants; <be>; Pakistani;
+
+
+
+
+
+###############################################################################
+Jammu â€˜bandhâ€™ call given by a section of local groups over NIT, Srinagar unrest failed to evoke much response in Jammu, though protesters were seen disrupting traffic and forcing shopkeepers to close their shops. The â€˜bandhâ€™ call was given by Shri Ram Sena, NPP Supremo, Bhim Sinh, Jammu Province Peopleâ€™s Forum and Shiv Sena.
+###############################################################################
+
+
+Extracted triples 
+1.8:	Jammu â; given; <_>; 
+
+1.9:	The â; was given by; Shri Ram Sena;
+
+1.20:	Srinagar unrest; failed to; #1.22;
+	 <_>; #1.8;
+
+1.22:	Srinagar unrest; evoke; much response;
+	 in; Jammu;
+	 though; #1.31;
+
+1.31:	protesters; were seen and; #1.32;
+
+1.32:	<_>; disrupting; traffic;
+	 and; #1.35;
+
+1.35:	<_>; forcing; shopkeepers;
+	 to; #1.38;
+
+1.38:	shopkeepers; close; their shops;
+
+1.16:	<_>; <be>; NPP Supremo;
+
+1.18:	unrest; <be>; Srinagar;
+
+1.19:	<_>; <be>; Bhim Sinh;
+
+1.23:	<_>; <be>; <_>; 
+
+
+
+
+
+###############################################################################
+Meanwhile, several Kashmiri students were allegedly thrashed after refusing to chant â€˜Bharat Mata Ki Jaiâ€™ at a college in Jammu. A group of Kashmiri students at Government Engineering and Technology College, Jammu, told local English Daily â€˜Greater Kashmirâ€™ over phone that their valuables, books and other goods were also thrown out by goons and local students who barged into their rooms and thrashed them.
+###############################################################################
+
+
+Extracted triples 
+1.8:	several Kashmiri students; were thrashed after; #1.10;
+	 <_>; allegedly;
+	 <_>; Meanwhile;
+
+1.10:	several Kashmiri students; refusing to; #1.12;
+
+1.12:	several Kashmiri students; chant; ˜Bharat;
+
+1.15:	A group of Kashmiri students at Government Engineering and Technology College; told; local English Daily â;
+	 over; phone;
+	 that; #1.37;
+
+1.37:	their valuables books and other goods; were thrown out by; goons and local students<ctx#1.45>;
+	 <_>; also;
+
+1.45:	who; barged into; their rooms;
+	 and; local students;
+	 and; #1.50;
+
+1.50:	who; thrashed; them;
+
+1.13:	A group of Kashmiri students at Government Engineering and Technology College; <be>; Jammu;
+
+
+
+
+
+###############################################################################
+The jewellers strike against the governmentâ€™s proposal of 1 percent excise duty tariff on gold ornaments entered 34th day on April 7. The Jewellersâ€™ Association of the Valley revealed that the strike would be indefinite till the Central Government takes up their concerns seriously.
+###############################################################################
+
+
+Extracted triples 
+1.3:	The jewellers; strike against; the governmentâ ™;
+	 <_>; s proposal of 1 percent<ctx#1.20>;
+
+1.9:	The Jewellersâ; revealed that; #1.14;
+
+1.14:	the strike; would be; indefinite seriously;
+	 till; #1.20;
+
+1.20:	excise duty tariff on gold ornaments; entered; 34th day;
+	 on; April 7;
+	 <_>; of 1 percent;
+
+
+
+
+
+###############################################################################
+Meanwhile, the outstation students continued to hold protest demonstration in the campus. They also took out a protest march within the campus. CRPF has been deployed in strength in the campus to maintain law and order.
+###############################################################################
+
+
+Extracted triples 
+1.3:	They; took out; a protest march;
+	 <_>; also;
+	 within; the campus;
+
+1.4:	CRPF; has been deployed in; strength in the campus;
+	 to; #1.11;
+
+1.6:	the outstation students; continued to; #1.8;
+	 <_>; Meanwhile;
+
+1.8:	the outstation students; hold; protest demonstration;
+	 in; the campus;
+
+1.11:	CRPF; maintain and; law order;
+
+1.6:	march; <be>; protest;
+
+
+
+
+
+###############################################################################
+Kashmiri students studying in Vyas Institute of Higher Education in Rajasthanâ€™s Jodhpur district said that they were thrashed by their fellow students and outsiders on April 7 to avenge the Police action on non-Kashmiri students at the NIT, Srinagar. Students told local English Daily â€˜Kashmir Readerâ€™ over phone on April 8, â€œAbout 40 persons armed with knives, baseball bats, hockey sticks and musical fire tongs attacked us during the annual college fest. Two Kashmiri students were severely beaten upâ€?.
+###############################################################################
+
+
+Extracted triples 
+1.2:	Students; told; <_>; 
+
+1.3:	Kashmiri students; studying in; Vyas Institute of Higher Education in Rajasthanâ;
+	 <_>; ™ s<ctx#1.17>;
+	 at; the NIT Srinagar;
+
+1.6:	Two Kashmiri students; were beaten; upâ;
+	 <_>; severely;
+
+1.17:	Jodhpur district; said that; #1.21;
+	 <_>; ™ s;
+
+1.21:	they; were thrashed; <_>; 
+	 on; April 7;
+	 to; #1.32;
+
+1.23:	€ œAbout 40 persons; armed with; knives;
+
+1.32:	they; avenge; the Police action;
+	 on; non-Kashmiri students;
+
+1.36:	baseball bats hockey sticks and musical fire tongs; attacked; us;
+	 <_>; #1.2;
+
+1.15:	district; <be>; Jodhpur;
+
+1.18:	on April 8; <be>; â;
+
+
+
+
+
+###############################################################################
+30 injured, Forces wreaked havoc in Pulwama village after barging into residential houses.
+###############################################################################
+
+
+Extracted triples 
+1.2:	30; injured; <_>; 
+
+1.5:	Forces; wreaked; havoc;
+	 <_>; #1.2;
+	 in; Pulwama village;
+	 after; #1.11;
+
+1.11:	Forces; barging into; residential houses;
+
+
+
+
+
+###############################################################################
+Teargas shell hit boy at Bandipora
+###############################################################################
+
+
+Extracted triples 
+1.3:	Teargas shell; hit; boy;
+	 at; Bandipora;
+
+
+
+
+
+###############################################################################
+A high-level team of the National Investigation Agency (NIA) arrived in Kashmir for carrying out investigations into flow of funds into some suspicious bank accounts in Jammu and Kashmir which were allegedly used in financially supporting the ongoing uprising in the region. T
+###############################################################################
+
+
+Extracted triples 
+1.12:	A high-level team of the National Investigation Agency; arrived in; Kashmir;
+	 for; #1.16;
+
+1.16:	A high-level team of the National Investigation Agency; carrying out; investigations into flow of funds;
+	 into; some suspicious bank accounts in Jammu and Kashmir<ctx#1.35>;
+
+1.35:	which; were used in; #1.38;
+	 <_>; allegedly;
+
+1.38:	which; supporting; the ongoing uprising;
+	 <_>; financially;
+	 in; the region;
+
+1.10:	A high-level team of the National Investigation Agency; <be>; NIA;
+
+
+
+
+
+###############################################################################
+The main opposition party National Conference (NC) accused Chief Minister Mehbooba Mufti on making provocative statements saying this would make situation worse in Kashmir.
+###############################################################################
+
+
+Extracted triples 
+1.10:	The main opposition party National Conference; accused; Chief Minister Mehbooba Mufti<ctx#1.16>;
+
+1.16:	Chief Minister Mehbooba Mufti; making; provocative statements;
+	 <_>; #1.19;
+
+1.19:	Chief Minister Mehbooba Mufti<ctx#1.16>; saying; #1.22;
+
+1.22:	this; would make; worse;
+	 in; Kashmir;
+
+1.8:	The main opposition party National Conference; <be>; NC;
+
+
+
+
+
+###############################################################################
+Amid curfew and restrictions, bruit growers in the Valley faced a huge loss of around Rs. 900 crore from last 49 days of unrest
+###############################################################################
+
+
+Extracted triples 
+1.11:	bruit growers in the Valley; faced; a huge loss of around Rs. 900 crore;
+	 <_>; Amid curfew and restrictions;
+	 from; last 49 days of unrest;
+
+1.9:	Valley; <be>; bruit growers in the;
+
+1.18:	crore; <be>; huge loss of around Rs. 900;
+
+
+
+
+
+###############################################################################
+Union Home Minister, Rajnath Singhâ€™s second visit to Kashmir since the eruption of violence can be discerned as bearing a slight departure from his first that was on July 23-24
+###############################################################################
+
+
+Extracted triples 
+1.21:	Union Home Minister; can be discerned as; #1.23;
+
+1.23:	Union Home Minister; bearing; a slight departure from his first<ctx#1.33>;
+
+1.31:	that; was on; July 23-24;
+	 <_>; a slight departure from his first<ctx#1.33>;
+
+
+
+
+
+###############################################################################
+Criticizing the former Chief Minister, Mufti Muhammad Sayeed for giving a dozen of inhuman massacres that stoked a rebellion costing Kashmiris two generations
+###############################################################################
+
+
+Extracted triples 
+1.1:	<_>; Criticizing; the former Chief Minister;
+
+1.11:	Mufti Muhammad Sayeed; giving; a dozen of inhuman massacres<ctx#1.18>;
+
+1.18:	that; stoked; a rebellion<ctx#1.21>;
+	 <_>; a dozen of inhuman massacres;
+
+1.21:	a rebellion; costing; two generations;
+
+1.9:	the former Chief Minister; <be>; Mufti Muhammad Sayeed;
+
+
+
+
+
+###############################################################################
+Under fire, Govt relocated BSF from SP School; 2 other Schools to be set free soon, say officials
+###############################################################################
+
+
+Extracted triples 
+1.5:	Govt; relocated; #1.20;
+	 <_>; Under fire;
+
+1.16:	2 other Schools; be set; free;
+	 <_>; soon;
+
+1.20:	BSF from SP School; say; officials;
+
+
+
+
+
+###############################################################################
+Geelani would march on August 27 to 15 Corps of Indian Army at Badami Bagh, Srinagar at 2 PM and give the letter to GOC-in-charge, asking him to vacate J&K.  
+###############################################################################
+
+
+Extracted triples 
+1.3:	Geelani; would march on; August 27;
+	 to; 15 Corps of Indian Army at Badami Bagh;
+	 and; #1.22;
+
+1.22:	Geelani; give; the letter;
+	 to; GOC-in-charge;
+	 <_>; #1.28;
+
+1.28:	Geelani; asking; him;
+	 to; #1.31;
+
+1.31:	him; vacate; J&K;
+
+1.17:	at Badami Bagh; <be>; Srinagar at 2 PM;
+
+
+
+
+
+###############################################################################
+7 soldiers, including 2 officers and 6 militants killed in twin attacks at Nagrota and Samba in Jammu division
+###############################################################################
+
+
+Extracted triples 
+1.4:	<_>; including; <_>; 
+
+1.10:	6 militants;  andkilled in; twin attacks;
+	 at; Nagrota and Samba;
+	 in; Jammu division;
+
+
+
+
+
+###############################################################################
+Parents of students of different private schools of Srinagar protested at Press Enclave, Srinagar demanding waiving off school fee for the unrest period
+###############################################################################
+
+
+Extracted triples 
+1.10:	Parents of students of different private schools of Srinagar; protested at; Press Enclave;
+
+1.16:	Srinagar; demanding; #1.17;
+
+1.17:	Srinagar<ctx#1.16>; waiving off; school fee for the unrest period;
+
+1.15:	<_>; <be>; Srinagar;
+
+
+
+
+
+###############################################################################
+two Kashmiri students were assaulted in Grugaon, Haryana forcing their families to call them back from the college. 
+###############################################################################
+
+
+Extracted triples 
+1.5:	two Kashmiri students; were assaulted in; Grugaon Haryana;
+	 <_>; #1.10;
+
+1.10:	two Kashmiri students; forcing; their families;
+	 to; #1.14;
+
+1.14:	their families; call; them;
+	 <_>; back;
+	 from; the college;
+
+
+
+
+
+###############################################################################
+The Jammu and Kashmir High Court issued notice to the Government for its objections to a petition seeking directions to private schools for not collecting tuition fee from the students since July this year
+###############################################################################
+
+
+Extracted triples 
+1.7:	The Jammu and Kashmir High Court; issued; notice;
+	 to; the Government for its objections;
+	 to; a petition<ctx#1.18>;
+
+1.18:	<_>; seeking; directions to private schools;
+	 for; #1.25;
+
+1.25:	<_>; not collecting; tuition fee;
+	 from; the students;
+	 since; July;
+	 <_>; this year;
+
+
+
+
+
+###############################################################################
+With marked ease in hartals, examinations have begun, though students had launched boycott campaign against examination for a long time, demanding postponement of exams till March, 2017, release of arrested students, relaxation in syllabus and for paying attention towards injured students.
+###############################################################################
+
+
+Extracted triples 
+1.9:	examinations; have begun though; #1.14;
+	 <_>; With marked ease in hartals;
+
+1.14:	students; had launched; boycott campaign against examination;
+	 for; a long time;
+	 <_>; #1.24;
+
+1.24:	students; demanding; postponement of exams;
+	 till; March 2017 and paying;
+
+1.35:	<_>; arrested; <_>; 
+
+1.43:	<_>; paying; attention towards injured students;
+
+1.46:	<_>; injured; <_>; 
+
+1.33:	<_>; <be>; release of arrested students;
+
+1.38:	<_>; <be>; relaxation in syllabus;
+
+
+
+
+
+###############################################################################
+Referring upon ceasefire agreement between India and Pakistan announced on November 23, 2003
+###############################################################################
+
+
+Extracted triples 
+1.1:	<_>; Referring upon; #1.9;
+
+1.9:	ceasefire agreement between India and Pakistan; announced on; November 23 2003;
+
+
+
+
+
+###############################################################################
+Mehbooba Mufti met the Prime Minister and sought CBMs for Kashmir; Urged Rajnath Singh  and Manohar Parrikar to open more LoC trade points; Described demonetisation as historic decision
+###############################################################################
+
+
+Extracted triples 
+1.3:	Mehbooba Mufti; met; the Prime Minister;
+	 and; #1.8;
+
+1.8:	Mehbooba Mufti; sought; CBMs;
+	 for; Kashmir;
+
+1.13:	trade points; Urged and; Rajnath Singh Manohar Parrikar;
+	 to; #1.20;
+
+1.20:	Manohar Parrikar; open; more LoC;
+
+1.26:	<_>; Described; demonetisation;
+	 as; historic decision;
+	 <_>; #1.13;
+
+
+
+
+
+###############################################################################
+Militants managed to flee after exchange of fire with security forces in Hanzishart-Langate area of Handwara town in Kupwara district
+###############################################################################
+
+
+Extracted triples 
+1.2:	Militants; managed to; #1.4;
+
+1.4:	Militants; flee after; exchange of fire;
+	 with; security forces in Hanzishart-Langate area of Handwara town;
+	 in; Kupwara district;
+
+
+
+
+
+###############################################################################
+Kashmir observed complete strike on the second consecutive day on April 14 in protest against the killing of three youths and an aged woman in firing and shelling by government forces in Handwara town (district Kupwara)
+###############################################################################
+
+
+Extracted triples 
+1.2:	Kashmir; observed; complete strike;
+	 on; the second consecutive day on April 14;
+
+1.28:	<_>; shelling by; government forces in Handwara;
+
+1.37:	district; <be>; Kupwara;
+
+
+
+
+
+###############################################################################
+With tension continuing in Kashmir in the wake of death of four civilians since April 12, 2016 in clashes with government forces, Chief Minister, Mehbooba Mufti held a meeting with top Police and intelligence officials of the State in Srinagar to review the situation and directed that no harm should come to civilians while dealing with law and issues.
+###############################################################################
+
+
+Extracted triples 
+1.3:	<_>; continuing; <_>; 
+
+1.30:	Mehbooba Mufti; held; a meeting;
+	 with; top Police and intelligence officials of the State in Srinagar;
+	 to; #1.45;
+	 and; #1.49;
+	 <_>; With tension continuing in Kashmir in the wake of death of four civilians since April 12 2016 in clashes with government forces;
+
+1.45:	Mehbooba Mufti; review; the situation;
+
+1.49:	Mehbooba Mufti; directed that; #1.54;
+
+1.54:	no harm; should come to; civilians;
+	 while; #1.58;
+
+1.58:	no harm; dealing with; law and issues;
+
+1.26:	with government forces; <be>; Chief Minister;
+
+
+
+
+
+###############################################################################
+Meanwhile, the Handwara school girl who was allegedly molested by an Army soldier on April 12, 2016 - the incident that led to four killings by security forces - was in preventive custody along with her father, even as a rights group demanded their immediate release.
+###############################################################################
+
+
+Extracted triples 
+1.10:	who; was molested by; an Army soldier;
+	 <_>; allegedly;
+	 <_>; the Handwara school girl;
+	 on; April 12 2016;
+
+1.24:	that; led to; four killings;
+	 <_>; the incident;
+	 by; security forces;
+
+1.32:	the Handwara school girl<ctx#1.10>; was in; Meanwhile preventive custody along with her father;
+	 as; #1.46;
+
+1.46:	a rights group; demanded; their immediate release;
+	 <_>; even;
+
+
+
+
+
+###############################################################################
+A demonstration was staged in Muzaffarabad on April 14 to condemn the recent incident of molestation of a girl and cold-blooded killing of four innocent people by forces in Handwara area of J&K.
+###############################################################################
+
+
+Extracted triples 
+1.4:	A demonstration; was staged in; Muzaffarabad on April 14;
+	 to; #1.11;
+
+1.11:	A demonstration; condemn; the recent incident of molestation of a girl and cold-blooded killing of four innocent people;
+	 by; forces in Handwara area of J&K;
+
+
+
+
+
+###############################################################################
+The demonstrators, who were holding banners and placards, marched from press club to Garhipan Chowk.
+###############################################################################
+
+
+Extracted triples 
+1.6:	who; were holding and; banners placards;
+	 <_>; The demonstrators;
+
+1.11:	The demonstrators<ctx#1.6>; marched from; press club;
+	 to; Garhipan Chowk;
+
+
+
+
+
+###############################################################################
+Director General of Police, K. Rajendra Kumar along with IGP, Kashmir, S.J.M. Gilani visited Handwara (district Kupwara) on April 14 and took stock of the situation there and later chaired a high level security meeting at Srinagar.
+###############################################################################
+
+
+Extracted triples 
+1.17:	Director General of Police Rajendra Kumar along with IGP; visited; Handwara;
+	 on; April 14;
+	 and; #1.27;
+	 and; there later;
+	 <_>; #1.35;
+
+1.27:	Director General of Police Rajendra Kumar along with IGP; took; stock of the situation;
+
+1.35:	<_>; chaired; a high level security meeting;
+	 at; Srinagar;
+
+1.6:	of Police Rajendra Kumar along with IGP; <be>; K.;
+
+1.13:	with IGP; <be>; Kashmir;
+
+1.16:	Kashmir; <be>; S.J.M. Gilani;
+
+1.21:	district; <be>; Kupwara;
+
+
+
+
+
+###############################################################################
+A security meeting at Handwara was attended by GOD Kilo Force, DIG/North Kashmir, Uttam Chand, DC Kupwara, Ghulam Jeelani and other officers.
+###############################################################################
+
+
+Extracted triples 
+1.7:	A security meeting at Handwara; was attended by; GOD Kilo Force DIG/North Kashmir Uttam Chand DC Kupwara Ghulam Jeelani and other officers;
+
+
+
+
+
+###############################################################################
+Ceremonial Border Personnel Meetings (BPMs) between Chinese and the Indian Army were held on April 14, 2016 on the Line of Actual Control (LAC) in Ladakh.
+###############################################################################
+
+
+Extracted triples 
+1.15:	Ceremonial Border Personnel Meetings between Chinese and the Indian Army; were held on; April 14 2016 on the Line of Actual Control in Ladakh;
+
+1.6:	Ceremonial Border Personnel Meetings between Chinese and the Indian Army; <be>; BPMs;
+
+1.28:	of Actual Control in Ladakh; <be>; LAC;
+
+
+
+
+
+###############################################################################
+In the midst of unrest, anti-Pakistan protests erupted in various parts of PoK on April 13, 2016 over Islamabadâ€™s discrimination in employment to local youth. Anti-Pak protests erupts in PoK.
+###############################################################################
+
+
+Extracted triples 
+1.3:	Anti-Pak protests; erupts; PoK;
+
+1.9:	anti-Pakistan protests; erupted in; various parts of PoK on April 13 2016 over Islamabadâ;
+	 <_>; ™ s discrimination;
+	 in; employment;
+	 to; local youth;
+
+
+
+
+
+###############################################################################
+About 100 students owing allegiance to J&K National Students Federation along with some members of J&K National Awami Party carried out demonstration rally in Muzaffarabad, condemning the oppressive rule by Pakistani authorities and the local PoK government.
+###############################################################################
+
+
+Extracted triples 
+1.4:	About 100 students; owing; allegiance;
+	 to; J&K National Students;
+
+1.20:	Federation; carried out; demonstration rally in Muzaffarabad;
+	 <_>; #1.27;
+	 <_>; About 100 students<ctx#1.4>;
+
+1.27:	Federation; condemning; the oppressive rule;
+	 by; Pakistani authorities and the local PoK government;
+
+
+
+
+
+###############################################################################
+The demonstrators raised slogans demanding for an independent Kashmir.
+###############################################################################
+
+
+Extracted triples 
+1.3:	The demonstrators; raised; slogans<ctx#1.5>;
+
+1.5:	slogans; demanding for; an independent Kashmir;
+
+
+
+
+
+###############################################################################
+Army kills two youth in Handwara after protests over girlâ€™s molestation.
+###############################################################################
+
+
+Extracted triples 
+1.2:	Army; kills; two youth in Handwara after protests over girlâ;
+	 <_>; ™ s molestation;
+
+
+
+
+
+###############################################################################
+Army shot dead two in cold-blood on April 12 in Handwara town (District Kupwara) after protests erupted over molestation of a school girl by a soldier.
+###############################################################################
+
+
+Extracted triples 
+1.2:	Army; shot; dead two in cold-blood on April 12 in Handwara town;
+	 after; #1.19;
+
+1.19:	protests; erupted over; molestation of a school girl;
+	 by; a soldier;
+
+1.15:	dead two in cold-blood on April 12 in Handwara town; <be>; District Kupwara;
+
+
+
+
+
+###############################################################################
+Several people were injured in clashes over the killings that evoked widespread condemnation and a state-wide shutdown call by separatists for April 13.
+###############################################################################
+
+
+Extracted triples 
+1.4:	Several people; were injured in; clashes over the killings<ctx#1.11>;
+
+1.11:	that; evoked and; widespread condemnation a state-wide shutdown call;
+	 <_>; over the killings;
+	 by; separatists for April 13;
+
+
+
+
+
+###############################################################################
+A Police officials, who was among the officials recording her statement said, â€œShe told us that the soldier tried to molest her in the washroom.
+###############################################################################
+
+
+Extracted triples 
+1.6:	the officials; was among; #1.10;
+	 <_>; A Police officials<ctx#1.10>;
+	 <_>; her statement;
+
+1.10:	the officials; recording; her statement;
+	 <_>; A Police officials;
+
+1.13:	A Police officials<ctx#1.10>; said; <_>; 
+
+1.18:	â; told; us;
+	 that; #1.23;
+	 <_>; #1.13;
+
+1.23:	the soldier; tried to; #1.25;
+
+1.25:	the soldier; molest; her;
+	 in; the washroom;
+
+
+
+
+
+###############################################################################
+Kashmirâ€™s separatist leaders strongly condemned the killing of two youth in Army firing in Handwara and called for a complete shutdown on April 13 against the cold-blooded killings.
+###############################################################################
+
+
+Extracted triples 
+1.8:	Kashmirâ; condemned; the killing of two youth in Army firing;
+	 <_>; € ™ separatist leaders strongly;
+	 in; Handwara;
+	 and; #1.20;
+
+1.20:	Kashmirâ; called for; a complete shutdown on April 13 against the cold-blooded killings;
+
+1.15:	firing; <be>; the killing of two youth in Army;
+
+
+
+
+
+###############################################################################
+Bandipora village stage protest against NHPC, demand employment.
+###############################################################################
+
+
+Extracted triples 
+1.9:	against NHPC; <be>; demand employment;
+
+
+
+
+
+###############################################################################
+People from various villages in Bandipora district continued to stage protest on the third consecutive day against National Hydroelectric Power Corporation (NHPC), accusing the Corporation of acting like the East India Company.
+###############################################################################
+
+
+Extracted triples 
+1.8:	People from various villages in Bandipora district; continued to; stage protest;
+	 on; the third consecutive day against National Hydroelectric Power Corporation;
+	 <_>; #1.26;
+
+1.26:	People from various villages in Bandipora district; accusing; the Corporation<ctx#1.30>;
+
+1.30:	the Corporation; acting like; the East India Company;
+
+1.6:	district; <be>; People from various villages in Bandipora;
+
+1.23:	against National Hydroelectric Power Corporation; <be>; NHPC;
+
+
+
+
+
+###############################################################################
+Another ceasefire violation has been reported in Balakot sector in Mendhar tehsil of Poonch district, on April 11 morning.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Another ceasefire violation; has been reported in; Balakot sector in Mendhar tehsil of Poonch district;
+	 on; April 11;
+	 <_>; morning;
+
+
+
+
+
+###############################################################################
+Locals of Dhrati Trikundi in Balakot sector claimed that Pakistani troops fired 8 to 10 mortar shells near 88 and 90 Forward Posts in the wee hours between 1 AM to 2 AM on April 11.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Another ceasefire violation; has been reported in; Balakot sector in Mendhar tehsil of Poonch district;
+	 on; April 11;
+	 <_>; morning;
+
+
+
+
+
+###############################################################################
+Spontaneous hartal and violent protests erupted in Neewa (District Pulwama) when an Army vehicle crushed a Maruti car, resulting in the death of a bank employee and injuries to two of his associates.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Spontaneous hartal and violent protests; erupted in; Neewa;
+	 when; #1.17;
+
+1.17:	an Army vehicle; crushed; a Maruti car;
+	 <_>; #1.22;
+
+1.22:	an Army vehicle; resulting in; the death of a bank employee and injuries;
+	 to; two of his associates;
+
+1.11:	<_>; <be>; District Pulwama;
+
+1.15:	vehicle; <be>; an Army;
+
+1.19:	car; <be>; Maruti;
+
+
+
+
+
+###############################################################################
+Jamaat-e-Islami (JeI) J&K condemned massacre of the workers of JeI Bangladesh and its student wing Islami Chhatra Shiber by Bangladesh Government led by Sheikh Hasina.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Jamaat-e-Islami JeI J&K; condemned; massacre of the workers of JeI Bangladesh and its student wing;
+	 by; Bangladesh Government;
+
+1.24:	Jamaat-e-Islami JeI J&K<ctx#1.6>; led by; Sheikh Hasina;
+
+
+
+
+
+###############################################################################
+Congress in Jammu and Kashmir boycotted the swearing-in ceremony of the Mehbooba Mufti government in protest against the imposition of the Presidentâ€™s rule in Arunachal Pradesh and Uttrakhand, and termed the new PDP- BJP combine as an unholy alliance.
+###############################################################################
+
+
+Extracted triples 
+1.6:	Congress in Jammu and Kashmir; boycotted; the swearing-in ceremony of the Mehbooba Mufti government in protest against the imposition of the Presidentâ;
+
+1.34:	™ and; termed; the new PDP;
+
+1.40:	BJP; combine as; an unholy alliance;
+
+
+
+
+
+###############################################################################
+A day after taking oath as a Cabinet Minister in Mehbooba Mufti - led coalition PDP-BJP government, Peoples Conference (PC) Chairman, Sajjad Gani Lone submitted his resignation to the Chief Minster.
+###############################################################################
+
+
+Extracted triples 
+1.4:	<_>; taking; oath;
+	 as; a Cabinet Minister in Mehbooba Mufti;
+
+1.14:	<_>; led; coalition PDP-BJP government;
+
+1.29:	Chairman Gani Lone; submitted; his resignation;
+	 to; the Chief Minster;
+	 <_>; Peoples Conference;
+
+1.20:	coalition PDP-BJP government; <be>; Peoples Conference;
+
+1.22:	Peoples Conference; <be>; PC;
+
+1.26:	Chairman Gani Lone; <be>; Sajjad;
+
+
+
+
+
+###############################################################################
+A Police official said that a militant was killed in an encounter between militants and forces at Gudoora village in South Kashmirâ€™s Pulwama district.
+###############################################################################
+
+
+Extracted triples 
+1.4:	A Police official; said that; #1.9;
+
+1.9:	a militant; was killed in; an encounter between militants and forces;
+	 at; Gudoora village;
+	 in; South Kashmirâ;
+
+
+
+
+
+###############################################################################
+According to a statement issued by Ummat-e-Islami, Police raided Ummat-e-Islami office in Anantnag and arrested Mirwaiz South Kashmir, Qazi Ahmed Yasir yet again.
+###############################################################################
+
+
+Extracted triples 
+1.1:	<_>; According; <_>; 
+
+1.5:	According a statement; issued by; Ummat-e-Islami;
+
+1.10:	Police; raided; Ummat-e-Islami office;
+	 in; Anantnag;
+	 and; #1.16;
+	 <_>; According a statement<ctx#1.5>;
+
+1.16:	Police; arrested yet; Mirwaiz South Kashmir;
+	 <_>; yet again;
+
+1.11:	office; <be>; Ummat-e-Islami;
+
+1.23:	Mirwaiz South Kashmir; <be>; Qazi Ahmed Yasir;
+
+
+
+
+
+###############################################################################
+Punjab Police issued a security alert about three suspected Pakistani militants heading to Kashmir in a car with arms and ammunition.
+###############################################################################
+
+
+Extracted triples 
+1.3:	Punjab Police; issued; #1.9;
+
+1.9:	a security; suspected; #1.12;
+
+1.12:	Pakistani militants; heading to; Kashmir;
+	 in; a car with arms and ammunition;
+
+1.10:	militants; <be>; Pakistani;
+
+
+
+
+
+###############################################################################
+Jammu â€˜bandhâ€™ call given by a section of local groups over NIT, Srinagar unrest failed to evoke much response in Jammu, though protesters were seen disrupting traffic and forcing shopkeepers to close their shops. The â€˜bandhâ€™ call was given by Shri Ram Sena, NPP Supremo, Bhim Sinh, Jammu Province Peopleâ€™s Forum and Shiv Sena.
+###############################################################################
+
+
+Extracted triples 
+1.8:	Jammu â; given; <_>; 
+
+1.9:	The â; was given by; Shri Ram Sena;
+
+1.20:	Srinagar unrest; failed to; #1.22;
+	 <_>; #1.8;
+
+1.22:	Srinagar unrest; evoke; much response;
+	 in; Jammu;
+	 though; #1.31;
+
+1.31:	protesters; were seen and; #1.32;
+
+1.32:	<_>; disrupting; traffic;
+	 and; #1.35;
+
+1.35:	<_>; forcing; shopkeepers;
+	 to; #1.38;
+
+1.38:	shopkeepers; close; their shops;
+
+1.16:	<_>; <be>; NPP Supremo;
+
+1.18:	unrest; <be>; Srinagar;
+
+1.19:	<_>; <be>; Bhim Sinh;
+
+1.23:	<_>; <be>; <_>; 
+
+
+
+
+
+###############################################################################
+Meanwhile, several Kashmiri students were allegedly thrashed after refusing to chant â€˜Bharat Mata Ki Jaiâ€™ at a college in Jammu. A group of Kashmiri students at Government Engineering and Technology College, Jammu, told local English Daily â€˜Greater Kashmirâ€™ over phone that their valuables, books and other goods were also thrown out by goons and local students who barged into their rooms and thrashed them.
+###############################################################################
+
+
+Extracted triples 
+1.8:	several Kashmiri students; were thrashed after; #1.10;
+	 <_>; allegedly;
+	 <_>; Meanwhile;
+
+1.10:	several Kashmiri students; refusing to; #1.12;
+
+1.12:	several Kashmiri students; chant; ˜Bharat;
+
+1.15:	A group of Kashmiri students at Government Engineering and Technology College; told; local English Daily â;
+	 over; phone;
+	 that; #1.37;
+
+1.37:	their valuables books and other goods; were thrown out by; goons and local students<ctx#1.45>;
+	 <_>; also;
+
+1.45:	who; barged into; their rooms;
+	 and; local students;
+	 and; #1.50;
+
+1.50:	who; thrashed; them;
+
+1.13:	A group of Kashmiri students at Government Engineering and Technology College; <be>; Jammu;
+
+
+
+
+
+###############################################################################
+The jewellers strike against the governmentâ€™s proposal of 1 percent excise duty tariff on gold ornaments entered 34th day on April 7. The Jewellersâ€™ Association of the Valley revealed that the strike would be indefinite till the Central Government takes up their concerns seriously.
+###############################################################################
+
+
+Extracted triples 
+1.3:	The jewellers; strike against; the governmentâ ™;
+	 <_>; s proposal of 1 percent<ctx#1.20>;
+
+1.9:	The Jewellersâ; revealed that; #1.14;
+
+1.14:	the strike; would be; indefinite seriously;
+	 till; #1.20;
+
+1.20:	excise duty tariff on gold ornaments; entered; 34th day;
+	 on; April 7;
+	 <_>; of 1 percent;
+
+
+
+
+
+###############################################################################
+Meanwhile, the outstation students continued to hold protest demonstration in the campus. They also took out a protest march within the campus. CRPF has been deployed in strength in the campus to maintain law and order.
+###############################################################################
+
+
+Extracted triples 
+1.3:	They; took out; a protest march;
+	 <_>; also;
+	 within; the campus;
+
+1.4:	CRPF; has been deployed in; strength in the campus;
+	 to; #1.11;
+
+1.6:	the outstation students; continued to; #1.8;
+	 <_>; Meanwhile;
+
+1.8:	the outstation students; hold; protest demonstration;
+	 in; the campus;
+
+1.11:	CRPF; maintain and; law order;
+
+1.6:	march; <be>; protest;
+
+
+
+
+
+###############################################################################
+Kashmiri students studying in Vyas Institute of Higher Education in Rajasthanâ€™s Jodhpur district said that they were thrashed by their fellow students and outsiders on April 7 to avenge the Police action on non-Kashmiri students at the NIT, Srinagar. Students told local English Daily â€˜Kashmir Readerâ€™ over phone on April 8, â€œAbout 40 persons armed with knives, baseball bats, hockey sticks and musical fire tongs attacked us during the annual college fest. Two Kashmiri students were severely beaten upâ€?.
+###############################################################################
+
+
+Extracted triples 
+1.2:	Students; told; <_>; 
+
+1.3:	Kashmiri students; studying in; Vyas Institute of Higher Education in Rajasthanâ;
+	 <_>; ™ s<ctx#1.17>;
+	 at; the NIT Srinagar;
+
+1.6:	Two Kashmiri students; were beaten; upâ;
+	 <_>; severely;
+
+1.17:	Jodhpur district; said that; #1.21;
+	 <_>; ™ s;
+
+1.21:	they; were thrashed; <_>; 
+	 on; April 7;
+	 to; #1.32;
+
+1.23:	€ œAbout 40 persons; armed with; knives;
+
+1.32:	they; avenge; the Police action;
+	 on; non-Kashmiri students;
+
+1.36:	baseball bats hockey sticks and musical fire tongs; attacked; us;
+	 <_>; #1.2;
+
+1.15:	district; <be>; Jodhpur;
+
+1.18:	on April 8; <be>; â;
+
+
+
+
+
+###############################################################################
+30 injured, Forces wreaked havoc in Pulwama village after barging into residential houses.
+###############################################################################
+
+
+Extracted triples 
+1.2:	30; injured; <_>; 
+
+1.5:	Forces; wreaked; havoc;
+	 <_>; #1.2;
+	 in; Pulwama village;
+	 after; #1.11;
+
+1.11:	Forces; barging into; residential houses;
+
+
+
+
+
+###############################################################################
+Teargas shell hit boy at Bandipora
+###############################################################################
+
+
+Extracted triples 
+1.3:	Teargas shell; hit; boy;
+	 at; Bandipora;
+
+
+
+
+
+###############################################################################
+A high-level team of the National Investigation Agency (NIA) arrived in Kashmir for carrying out investigations into flow of funds into some suspicious bank accounts in Jammu and Kashmir which were allegedly used in financially supporting the ongoing uprising in the region. T
+###############################################################################
+
+
+Extracted triples 
+1.12:	A high-level team of the National Investigation Agency; arrived in; Kashmir;
+	 for; #1.16;
+
+1.16:	A high-level team of the National Investigation Agency; carrying out; investigations into flow of funds;
+	 into; some suspicious bank accounts in Jammu and Kashmir<ctx#1.35>;
+
+1.35:	which; were used in; #1.38;
+	 <_>; allegedly;
+
+1.38:	which; supporting; the ongoing uprising;
+	 <_>; financially;
+	 in; the region;
+
+1.10:	A high-level team of the National Investigation Agency; <be>; NIA;
+
+
+
+
+
+###############################################################################
+The main opposition party National Conference (NC) accused Chief Minister Mehbooba Mufti on making provocative statements saying this would make situation worse in Kashmir.
+###############################################################################
+
+
+Extracted triples 
+1.10:	The main opposition party National Conference; accused; Chief Minister Mehbooba Mufti<ctx#1.16>;
+
+1.16:	Chief Minister Mehbooba Mufti; making; provocative statements;
+	 <_>; #1.19;
+
+1.19:	Chief Minister Mehbooba Mufti<ctx#1.16>; saying; #1.22;
+
+1.22:	this; would make; worse;
+	 in; Kashmir;
+
+1.8:	The main opposition party National Conference; <be>; NC;
+
+
+
+
+
+###############################################################################
+Amid curfew and restrictions, bruit growers in the Valley faced a huge loss of around Rs. 900 crore from last 49 days of unrest
+###############################################################################
+
+
+Extracted triples 
+1.11:	bruit growers in the Valley; faced; a huge loss of around Rs. 900 crore;
+	 <_>; Amid curfew and restrictions;
+	 from; last 49 days of unrest;
+
+1.9:	Valley; <be>; bruit growers in the;
+
+1.18:	crore; <be>; huge loss of around Rs. 900;
+
+
+
+
+
+###############################################################################
+Union Home Minister, Rajnath Singhâ€™s second visit to Kashmir since the eruption of violence can be discerned as bearing a slight departure from his first that was on July 23-24
+###############################################################################
+
+
+Extracted triples 
+1.21:	Union Home Minister; can be discerned as; #1.23;
+
+1.23:	Union Home Minister; bearing; a slight departure from his first<ctx#1.33>;
+
+1.31:	that; was on; July 23-24;
+	 <_>; a slight departure from his first<ctx#1.33>;
+
+
+
+
+
+###############################################################################
+Criticizing the former Chief Minister, Mufti Muhammad Sayeed for giving a dozen of inhuman massacres that stoked a rebellion costing Kashmiris two generations
+###############################################################################
+
+
+Extracted triples 
+1.1:	<_>; Criticizing; the former Chief Minister;
+
+1.11:	Mufti Muhammad Sayeed; giving; a dozen of inhuman massacres<ctx#1.18>;
+
+1.18:	that; stoked; a rebellion<ctx#1.21>;
+	 <_>; a dozen of inhuman massacres;
+
+1.21:	a rebellion; costing; two generations;
+
+1.9:	the former Chief Minister; <be>; Mufti Muhammad Sayeed;
+
+
+
+
+
+###############################################################################
+Under fire, Govt relocated BSF from SP School; 2 other Schools to be set free soon, say officials
+###############################################################################
+
+
+Extracted triples 
+1.5:	Govt; relocated; #1.20;
+	 <_>; Under fire;
+
+1.16:	2 other Schools; be set; free;
+	 <_>; soon;
+
+1.20:	BSF from SP School; say; officials;
+
+
+
+
+
+###############################################################################
+Geelani would march on August 27 to 15 Corps of Indian Army at Badami Bagh, Srinagar at 2 PM and give the letter to GOC-in-charge, asking him to vacate J&K.  
+###############################################################################
+
+
+Extracted triples 
+1.3:	Geelani; would march on; August 27;
+	 to; 15 Corps of Indian Army at Badami Bagh;
+	 and; #1.22;
+
+1.22:	Geelani; give; the letter;
+	 to; GOC-in-charge;
+	 <_>; #1.28;
+
+1.28:	Geelani; asking; him;
+	 to; #1.31;
+
+1.31:	him; vacate; J&K;
+
+1.17:	at Badami Bagh; <be>; Srinagar at 2 PM;
+
+
+
+
+
+###############################################################################
+7 soldiers, including 2 officers and 6 militants killed in twin attacks at Nagrota and Samba in Jammu division
+###############################################################################
+
+
+Extracted triples 
+1.4:	<_>; including; <_>; 
+
+1.10:	6 militants;  andkilled in; twin attacks;
+	 at; Nagrota and Samba;
+	 in; Jammu division;
+
+
+
+
+
+###############################################################################
+Parents of students of different private schools of Srinagar protested at Press Enclave, Srinagar demanding waiving off school fee for the unrest period
+###############################################################################
+
+
+Extracted triples 
+1.10:	Parents of students of different private schools of Srinagar; protested at; Press Enclave;
+
+1.16:	Srinagar; demanding; #1.17;
+
+1.17:	Srinagar<ctx#1.16>; waiving off; school fee for the unrest period;
+
+1.15:	<_>; <be>; Srinagar;
+
+
+
+
+
+###############################################################################
+two Kashmiri students were assaulted in Grugaon, Haryana forcing their families to call them back from the college. 
+###############################################################################
+
+
+Extracted triples 
+1.5:	two Kashmiri students; were assaulted in; Grugaon Haryana;
+	 <_>; #1.10;
+
+1.10:	two Kashmiri students; forcing; their families;
+	 to; #1.14;
+
+1.14:	their families; call; them;
+	 <_>; back;
+	 from; the college;
+
+
+
+
+
+###############################################################################
+The Jammu and Kashmir High Court issued notice to the Government for its objections to a petition seeking directions to private schools for not collecting tuition fee from the students since July this year
+###############################################################################
+
+
+Extracted triples 
+1.7:	The Jammu and Kashmir High Court; issued; notice;
+	 to; the Government for its objections;
+	 to; a petition<ctx#1.18>;
+
+1.18:	<_>; seeking; directions to private schools;
+	 for; #1.25;
+
+1.25:	<_>; not collecting; tuition fee;
+	 from; the students;
+	 since; July;
+	 <_>; this year;
+
+
+
+
+
+###############################################################################
+With marked ease in hartals, examinations have begun, though students had launched boycott campaign against examination for a long time, demanding postponement of exams till March, 2017, release of arrested students, relaxation in syllabus and for paying attention towards injured students.
+###############################################################################
+
+
+Extracted triples 
+1.9:	examinations; have begun though; #1.14;
+	 <_>; With marked ease in hartals;
+
+1.14:	students; had launched; boycott campaign against examination;
+	 for; a long time;
+	 <_>; #1.24;
+
+1.24:	students; demanding; postponement of exams;
+	 till; March 2017 and paying;
+
+1.35:	<_>; arrested; <_>; 
+
+1.43:

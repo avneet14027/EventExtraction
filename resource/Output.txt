@@ -1,0 +1,682 @@
+###############################################################################
+               QID       
+###############################################################################
+Question:  Question
+Option A: Option 1/A
+Hypothesis Hypothesis 1/A
+
+Extracted triples 
+
+
+
+
+Option B: Option 2/B
+Hypothesis Hypothesis 2/B
+
+Extracted triples 
+
+
+
+
+Option C: Option 3/C
+Hypothesis Hypothesis 3/C
+
+Extracted triples 
+
+
+
+
+Option D: Option 4/D
+Hypothesis Hypothesis 4/D
+
+Extracted triples 
+
+
+
+
+
+
+
+
+###############################################################################
+               Mercury_7175875       
+###############################################################################
+Question:  An astronomer observes that a planet rotates faster after a meteorite impact. Which is the most likely effect of this increase in rotation?
+Option A: Planetary density will decrease.
+Hypothesis An astronomer observes that a planet rotates faster after a meteorite impact. Planetary density will decrease is the most likely effect of this increase in rotation.
+
+Extracted triples 
+1.3:	An astronomer; observes that; #1.7;
+1.4:	<_>; will decrease; Planetary density;
+1.5:	Planetary density<ctx#1.4>; is; the most likely effect of this increase in rotation;
+	 of; this increase in rotation;
+1.7:	a planet; rotates; faster;
+	 after; a meteorite impact;
+
+
+
+
+Option B: Planetary years will become longer.
+Hypothesis An astronomer observes that a planet rotates faster after a meteorite impact. Planetary years will become longer is the most likely effect of this increase in rotation.
+
+Extracted triples 
+1.3:	An astronomer; observes that; #1.7;
+1.4:	<_>; will become; longer;
+	 <_>; Planetary years;
+1.6:	Planetary years<ctx#1.4>; is; <_>; 
+	 of; this increase in rotation;
+1.7:	a planet; rotates; faster;
+
+
+
+
+Option C: Planetary days will become shorter.
+Hypothesis An astronomer observes that a planet rotates faster after a meteorite impact. Planetary days will become shorter is the most likely effect of this increase in rotation.
+
+Extracted triples 
+1.3:	An astronomer; observes that; #1.7;
+1.4:	Planetary days; will become; shorter<ctx#1.10>;
+1.6:	<_>; is; <_>; 
+	 <_>; shorter<ctx#1.10>;
+	 of; this increase in rotation;
+1.7:	a planet; rotates; faster;
+
+
+
+
+Option D: Planetary gravity will become stronger.
+Hypothesis An astronomer observes that a planet rotates faster after a meteorite impact. Planetary gravity will become stronger is the most likely effect of this increase in rotation.
+
+Extracted triples 
+1.3:	An astronomer; observes that; #1.7;
+1.4:	Planetary days; will become; shorter<ctx#1.10>;
+1.6:	<_>; is; <_>; 
+	 <_>; shorter<ctx#1.10>;
+	 of; this increase in rotation;
+1.7:	a planet; rotates; faster;
+
+
+
+
+
+
+
+
+###############################################################################
+               Mercury_SC_409171       
+###############################################################################
+Question:  A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Which will most likely result from testing different building designs?
+Option A: buildings will be built faster
+Hypothesis A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Buildings will be built faster will most likely result from testing different building designs.
+
+Extracted triples 
+1.2:	They; made; several models of buildings;
+	 and; #1.8;
+1.4:	Buildings; will be built; faster;
+1.5:	A group of engineers; wanted to; #1.7;
+1.7:	A group; know how; #1.13;
+1.8:	They; tested; each for its ability<ctx#1.14>;
+1.11:	most likely result; testing; different building designs;
+1.13:	different building designs; would respond during; an earthquake;
+1.14:	for its ability; withstand; earthquake conditions;
+1.15:	conditions; <be>; earthquake;
+
+
+
+
+Option B: buildings will be made safer
+Hypothesis A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Buildings will be made safer will most likely result from testing different building designs.
+
+Extracted triples 
+1.2:	They; made; several models of buildings;
+	 and; #1.8;
+1.4:	Buildings; will be made; safer;
+1.5:	A group of engineers; wanted to; #1.7;
+1.7:	A group; know how; #1.13;
+1.8:	They; tested; each for its ability<ctx#1.14>;
+1.11:	most likely result; testing; different building designs;
+1.13:	different building designs; would respond during; an earthquake;
+1.14:	for its ability; withstand; earthquake conditions;
+1.15:	conditions; <be>; earthquake;
+
+
+
+
+Option C: building designs will look nicer
+Hypothesis A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Building designs will look nicer will most likely result from testing different building designs.
+
+Extracted triples 
+1.2:	They; made; several models of buildings;
+	 and; #1.8;
+1.4:	Building designs; will look; nicer;
+1.5:	A group of engineers; wanted to; #1.7;
+1.7:	A group; know how; #1.13;
+1.8:	They; tested; each for its ability<ctx#1.14>;
+1.11:	most likely result; testing; different building designs;
+1.13:	different building designs; would respond during; an earthquake;
+1.14:	for its ability; withstand; earthquake conditions;
+1.15:	conditions; <be>; earthquake;
+
+
+
+
+Option D: building materials will be cheaper
+Hypothesis A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Building materials will be cheaper will most likely result from testing different building designs.
+
+Extracted triples 
+1.2:	They; made; several models of buildings;
+	 and; #1.8;
+1.4:	Building designs; will look; nicer;
+1.5:	A group of engineers; wanted to; #1.7;
+1.7:	A group; know how; #1.13;
+1.8:	They; tested; each for its ability<ctx#1.14>;
+1.11:	most likely result; testing; different building designs;
+1.13:	different building designs; would respond during; an earthquake;
+1.14:	for its ability; withstand; earthquake conditions;
+1.15:	conditions; <be>; earthquake;
+
+
+
+
+
+
+
+
+###############################################################################
+               Mercury_SC_408547       
+###############################################################################
+Question:  The end result in the process of photosynthesis is the production of sugar and oxygen. Which step signals the beginning of photosynthesis?
+Option A: Chemical energy is absorbed through the roots.
+Hypothesis The end result in the process of photosynthesis is the production of sugar and oxygen. Chemical energy is absorbed through the roots step signals the beginning of photosynthesis.
+
+Extracted triples 
+1.4:	Chemical energy; is absorbed; the roots step;
+1.9:	<_>; is; the production of sugar and oxygen;
+	 of; sugar and oxygen;
+
+
+
+
+Option B: Light energy is converted to chemical energy.
+Hypothesis The end result in the process of photosynthesis is the production of sugar and oxygen. Light energy is converted to chemical energy step signals the beginning of photosynthesis.
+
+Extracted triples 
+1.4:	Light energy; is converted; chemical energy step;
+1.9:	<_>; is; the production of sugar and oxygen;
+	 of; sugar and oxygen;
+
+
+
+
+Option C: Chlorophyll in the leaf captures light energy.
+Hypothesis The end result in the process of photosynthesis is the production of sugar and oxygen. Chlorophyll in the leaf captures light energy step signals the beginning of photosynthesis.
+
+Extracted triples 
+1.5:	Chlorophyll in the leaf; captures; #1.9;
+1.9:	The end result in the process of photo###############################################################################
+               QID       
+###############################################################################
+Question:  Question
+Option A: Option 1/A
+Hypothesis Hypothesis 1/A
+
+Extracted triples 
+
+
+
+
+Option B: Option 2/B
+Hypothesis Hypothesis 2/B
+
+Extracted triples 
+
+
+
+
+Option C: Option 3/C
+Hypothesis Hypothesis 3/C
+
+Extracted triples 
+
+
+
+
+Option D: Option 4/D
+Hypothesis Hypothesis 4/D
+
+Extracted triples 
+
+
+
+
+
+
+
+
+###############################################################################
+               Mercury_7175875       
+###############################################################################
+Question:  An astronomer observes that a planet rotates faster after a meteorite impact. Which is the most likely effect of this increase in rotation?
+Option A: Planetary density will decrease.
+Hypothesis An astronomer observes that a planet rotates faster after a meteorite impact. Planetary density will decrease is the most likely effect of this increase in rotation.
+
+Extracted triples 
+1.3:	An astronomer; observes that; #1.7;
+1.4:	<_>; will decrease; Planetary density;
+1.5:	Planetary density<ctx#1.4>; is; the most likely effect of this increase in rotation;
+	 of; this increase in rotation;
+1.7:	a planet; rotates; faster;
+	 after; a meteorite impact;
+
+
+
+
+Option B: Planetary years will become longer.
+Hypothesis An astronomer observes that a planet rotates faster after a meteorite impact. Planetary years will become longer is the most likely effect of this increase in rotation.
+
+Extracted triples 
+1.3:	An astronomer; observes that; #1.7;
+1.4:	<_>; will become; longer;
+	 <_>; Planetary years;
+1.6:	Planetary years<ctx#1.4>; is; <_>; 
+	 of; this increase in rotation;
+1.7:	a planet; rotates; faster;
+
+
+
+
+Option C: Planetary days will become shorter.
+Hypothesis An astronomer observes that a planet rotates faster after a meteorite impact. Planetary days will become shorter is the most likely effect of this increase in rotation.
+
+Extracted triples 
+1.3:	An astronomer; observes that; #1.7;
+1.4:	Planetary days; will become; shorter<ctx#1.10>;
+1.6:	<_>; is; <_>; 
+	 <_>; shorter<ctx#1.10>;
+	 of; this increase in rotation;
+1.7:	a planet; rotates; faster;
+
+
+
+
+Option D: Planetary gravity will become stronger.
+Hypothesis An astronomer observes that a planet rotates faster after a meteorite impact. Planetary gravity will become stronger is the most likely effect of this increase in rotation.
+
+Extracted triples 
+1.3:	An astronomer; observes that; #1.7;
+1.4:	Planetary days; will become; shorter<ctx#1.10>;
+1.6:	<_>; is; <_>; 
+	 <_>; shorter<ctx#1.10>;
+	 of; this increase in rotation;
+1.7:	a planet; rotates; faster;
+
+
+
+
+
+
+
+
+###############################################################################
+               Mercury_SC_409171       
+###############################################################################
+Question:  A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Which will most likely result from testing different building designs?
+Option A: buildings will be built faster
+Hypothesis A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Buildings will be built faster will most likely result from testing different building designs.
+
+Extracted triples 
+1.2:	They; made; several models of buildings;
+	 and; #1.8;
+1.4:	Buildings; will be built; faster;
+1.5:	A group of engineers; wanted to; #1.7;
+1.7:	A group; know how; #1.13;
+1.8:	They; tested; each for its ability<ctx#1.14>;
+1.11:	most likely result; testing; different building designs;
+1.13:	different building designs; would respond during; an earthquake;
+1.14:	for its ability; withstand; earthquake conditions;
+1.15:	conditions; <be>; earthquake;
+
+
+
+
+Option B: buildings will be made safer
+Hypothesis A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Buildings will be made safer will most likely result from testing different building designs.
+
+Extracted triples 
+1.2:	They; made; several models of buildings;
+	 and; #1.8;
+1.4:	Buildings; will be made; safer;
+1.5:	A group of engineers; wanted to; #1.7;
+1.7:	A group; know how; #1.13;
+1.8:	They; tested; each for its ability<ctx#1.14>;
+1.11:	most likely result; testing; different building designs;
+1.13:	different building designs; would respond during; an earthquake;
+1.14:	for its ability; withstand; earthquake conditions;
+1.15:	conditions; <be>; earthquake;
+
+
+
+
+Option C: building designs will look nicer
+Hypothesis A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Building designs will look nicer will most likely result from testing different building designs.
+
+Extracted triples 
+1.2:	They; made; several models of buildings;
+	 and; #1.8;
+1.4:	Building designs; will look; nicer;
+1.5:	A group of engineers; wanted to; #1.7;
+1.7:	A group; know how; #1.13;
+1.8:	They; tested; each for its ability<ctx#1.14>;
+1.11:	most likely result; testing; different building designs;
+1.13:	different building designs; would respond during; an earthquake;
+1.14:	for its ability; withstand; earthquake conditions;
+1.15:	conditions; <be>; earthquake;
+
+
+
+
+Option D: building materials will be cheaper
+Hypothesis A group of engineers wanted to know how different building designs would respond during an earthquake. They made several models of buildings and tested each for its ability to withstand earthquake conditions. Building materials will be cheaper will most likely result from testing different building designs.
+
+Extracted triples 
+1.2:	They; made; several models of buildings;
+	 and; #1.8;
+1.4:	Building designs; will look; nicer;
+1.5:	A group of engineers; wanted to; #1.7;
+1.7:	A group; know how; #1.13;
+1.8:	They; tested; each for its ability<ctx#1.14>;
+1.11:	most likely result; testing; different building designs;
+1.13:	different building designs; would respond during; an earthquake;
+1.14:	for its ability; withstand; earthquake conditions;
+1.15:	conditions; <be>; earthquake;
+
+
+
+
+
+
+
+
+###############################################################################
+               Mercury_SC_408547       
+###############################################################################
+Question:  The end result in the process of photosynthesis is the production of sugar and oxygen. Which step signals the beginning of photosynthesis?
+Option A: Chemical energy is absorbed through the roots.
+Hypothesis The end result in the process of photosynthesis is the production of sugar and oxygen. Chemical energy is absorbed through the roots step signals the beginning of photosynthesis.
+
+Extracted triples 
+1.4:	Chemical energy; is absorbed; the roots step;
+1.9:	<_>; is; the production of sugar and oxygen;
+	 of; sugar and oxygen;
+
+
+
+
+Option B: Light energy is converted to chemical energy.
+Hypothesis The end result in the process of photosynthesis is the production of sugar and oxygen. Light energy is converted to chemical energy step signals the beginning of photosynthesis.
+
+Extracted triples 
+1.4:	Light energy; is converted; chemical energy step;
+1.9:	<_>; is; the production of sugar and oxygen;
+	 of; sugar and oxygen;
+
+
+
+
+Option C: Chlorophyll in the leaf captures light energy.
+Hypothesis The end result in the process of photosynthesis is the production of sugar and oxygen. Chlorophyll in the leaf captures light energy step signals the beginning of photosynthesis.
+
+Extracted triples 
+1.5:	Chlorophyll in the leaf; captures; #1.9;
+1.9:	The end result in the process of photosynthesis; is; the production of sugar and oxygen;
+	 of; sugar and oxygen;
+
+
+
+
+Option D: Sunlight is converted into chlorophyll.
+Hypothesis The end result in the process of photosynthesis is the production of sugar and oxygen. Sunlight is converted into chlorophyll step signals the beginning of photosynthesis.
+
+Extracted triples 
+1.5:	Chlorophyll in the leaf; captures; #1.9;
+1.9:	The end result in the process of photosynthesis; is; the production of sugar and oxygen;
+	 of; sugar and oxygen;
+
+
+
+
+
+
+
+
+###############################################################################
+               Mercury_407327       
+###############################################################################
+Question:  A physicist wants to determine the speed a car must reach to jump over a ramp. The physicist conducts three trials. In trials two and three, the speed of the car is increased by 20 miles per hour. What is the physicist investigating when he changes the speed?
+Option A: the control
+Hypothesis A physicist wants to determine the speed a car must reach to jump over a ramp. The physicist conducts three trials. In trials two and three, the speed of the car is increased by 20 miles per hour. The control is the physicist investigating when he changes the speed.
+
+Extracted triples 
+1.3:	A physicist; wants to; #1.5;
+1.5:	A physicist; determine; the speed<ctx#1.11>;
+1.6:	<_>; investigating when; #1.9;
+1.9:	he; changes; the speed;
+1.11:	a car; must reach to; #1.13;
+	 <_>; the speed;
+1.13:	a car; jump over; a ramp;
+
+
+
+
+Option B: the hypothesis statement
+Hypothesis A physicist wants to determine the speed a car must reach to jump over a ramp. The physicist conducts three trials. In trials two and three, the speed of the car is increased by 20 miles per hour. The hypothesis statement is the physicist investigating when he changes the speed.
+
+Extracted triples 
+1.3:	A physicist; wants to; #1.5;
+1.4:	The hypothesis statement; is; the physicist<ctx#1.7>;
+1.5:	A physicist; determine; the speed<ctx#1.11>;
+1.7:	the physicist; investigating when; #1.10;
+1.10:	he; changes; the speed;
+1.11:	<_>; must reach to; #1.13;
+	 <_>; the speed;
+1.13:	<_>; jump over; a ramp;
+
+
+
+
+Option C: the dependent (responding) variable
+Hypothesis A physicist wants to determine the speed a car must reach to jump over a ramp. The physicist conducts three trials. In trials two and three, the speed of the car is increased by 20 miles per hour. The dependent (responding) variable is the physicist investigating when he changes the speed.
+
+Extracted triples 
+1.3:	A physicist; wants to; #1.5;
+1.4:	<_>; responding; <_>; 
+1.5:	A physicist; determine; the speed<ctx#1.11>;
+1.7:	The dependent variable; is; the physicist<ctx#1.10>;
+1.10:	the physicist; investigating when; #1.13;
+1.11:	a car; must reach to; #1.13;
+	 <_>; the speed;
+1.13:	a car; jump over; a ramp;
+
+
+
+
+Option D: the independent (manipulated) variable
+Hypothesis A physicist wants to determine the speed a car must reach to jump over a ramp. The physicist conducts three trials. In trials two and three, the speed of the car is increased by 20 miles per hour. The independent (manipulated) variable is the physicist investigating when he changes the speed.
+
+Extracted triples 
+1.3:	A physicist; wants to; #1.5;
+1.4:	<_>; responding; <_>; 
+1.5:	A physicist; determine; the speed<ctx#1.11>;
+1.7:	The dependent variable; is; the physicist<ctx#1.10>;
+1.10:	the physicist; investigating when; #1.13;
+1.11:	a car; must reach to; #1.13;
+	 <_>; the speed;
+1.13:	a car; jump over; a ramp;
+
+
+
+
+
+
+
+
+###############################################################################
+               MCAS_2006_9_44       
+###############################################################################
+Question:  An astronaut drops a 1.0 kg object and a 5.0 kg object on the Moon. Both objects fall a total distance of 2.0 m vertically. Which of the following best describes the objects after they have fallen a distance of 1.0 m?
+Option A: They have each lost kinetic energy.
+Hypothesis An astronaut drops a 1.0 kg object and a 5.0 kg object on the Moon. Both objects fall a total distance of 2.0 m vertically. Which of the following best describes the objects after they have fallen a distance of 1.0 m?
+
+Extracted triples 
+1.3:	An astronaut; drops and; a 1.0 kg object a 5.0 kg object on the Moon;
+1.4:	<_>; following; <_>; 
+1.6:	Which of the following; describes; the objects<ctx#1.12>;
+1.12:	they; have fallen; a distance of 1.0 m;
+1.8:	m; <be>; total distance of 2.0;
+1.16:	m; <be>; distance of 1.0;
+
+
+
+
+Option B: They have each gained the same amount of potential energy.
+Hypothesis An astronaut drops a 1.0 kg object and a 5.0 kg object on the Moon. Both objects fall a total distance of 2.0 m vertically. Which of the following best describes the objects after they have fallen a distance of 1.0 m?
+
+Extracted triples 
+1.3:	An astronaut; drops and; a 1.0 kg object a 5.0 kg object on the Moon;
+1.4:	<_>; following; <_>; 
+1.6:	Which of the following; describes; the objects<ctx#1.12>;
+1.12:	they; have fallen; a distance of 1.0 m;
+1.8:	m; <be>; total distance of 2.0;
+1.16:	m; <be>; distance of 1.0;
+
+
+
+
+Option C: They have each lost the same amount of potential energy.
+Hypothesis An astronaut drops a 1.0 kg object and a 5.0 kg object on the Moon. Both objects fall a total distance of 2.0 m vertically. Which of the following best describes the objects after they have fallen a distance of 1.0 m?
+
+Extracted triples 
+1.3:	An astronaut; drops and; a 1.0 kg object a 5.0 kg object on the Moon;
+1.4:	<_>; following; <_>; 
+1.6:	Which of the following; describes; the objects<ctx#1.12>;
+1.12:	they; have fallen; a distance of 1.0 m;
+1.8:	m; <be>; total distance of 2.0;
+1.16:	m; <be>; distance of 1.0;
+
+
+
+
+Option D: They have each gained one-half of their maximum kinetic energy.
+Hypothesis An astronaut drops a 1.0 kg object and a 5.0 kg object on the Moon. Both objects fall a total distance of 2.0 m vertically. Which of the following best describes the objects after they have fallen a distance of 1.0 m?
+
+Extracted triples 
+1.3:	An astronaut; drops and; a 1.0 kg object a 5.0 kg object on the Moon;
+1.4:	<_>; following; <_>; 
+1.6:	Which of the following; describes; the objects<ctx#1.12>;
+1.12:	they; have fallen; a distance of 1.0 m;
+1.8:	m; <be>; total distance of 2.0;
+1.16:	m; <be>; distance of 1.0;
+
+
+
+
+
+
+
+
+###############################################################################
+               Mercury_7270393       
+###############################################################################
+Question:  Devil facial tumor disease (DFTD) is a disease that is decimating the population of Tasmanian devils. The disease passes from one animal to another through bites and is caused by parasites. The parasites cause cancerous tumors that spread throughout an infected animal's body and kill it. What is the best description of DFTD?
+Option A: a non-infectious, cell-cycle disease
+Hypothesis Devil facial tumor disease (DFTD) is a disease that is decimating the population of Tasmanian devils. The disease passes from one animal to another through bites and is caused by parasites. The parasites cause cancerous tumors that spread throughout an infected animal's body and kill it. A non-infectious, cell-cycle disease is the best description of DFTD.
+
+Extracted triples 
+1.3:	<_>; passes from; one animal to another through;
+	 <_>; The disease;
+1.6:	A non-infectious cell-cycle disease; is; the best description of DFTD;
+	 of; DFTD;
+1.7:	that; spread throughout; an infected animal 's body;
+	 <_>; cancerous tumors;
+	 and; #1.15;
+1.8:	Devil facial tumor disease; is; a disease<ctx#1.13>;
+1.10:	The disease<ctx#1.3>; bites and; #1.13;
+1.13:	that; is decimating; <_>; 
+	 <_>; a disease;
+1.15:	that; kill; it;
+1.6:	Devil facial tumor disease; <be>; DFTD;
+1.17:	devils; <be>; the population of Tasmanian;
+
+
+
+
+Option B: an infectious, cell-cycle disease
+Hypothesis Devil facial tumor disease (DFTD) is a disease that is decimating the population of Tasmanian devils. The disease passes from one animal to another through bites and is caused by parasites. The parasites cause cancerous tumors that spread throughout an infected animal's body and kill it. An infectious, cell-cycle disease is the best description of DFTD.
+
+Extracted triples 
+1.3:	<_>; passes from; one animal to another through;
+	 <_>; The disease;
+1.6:	An infectious cell-cycle disease; is; the best description of DFTD;
+	 of; DFTD;
+1.7:	that; spread throughout; an infected animal 's body;
+	 <_>; cancerous tumors;
+	 and; #1.15;
+1.8:	Devil facial tumor disease; is; a disease<ctx#1.13>;
+1.10:	The disease<ctx#1.3>; bites and; #1.13;
+1.13:	that; is decimating; <_>; 
+	 <_>; a disease;
+1.15:	that; kill; it;
+1.6:	Devil facial tumor disease; <be>; DFTD;
+1.17:	devils; <be>; the population of Tasmanian;
+
+
+
+
+Option C: a non-infectious, chronic disease
+Hypothesis Devil facial tumor disease (DFTD) is a disease that is decimating the population of Tasmanian devils. The disease passes from one animal to another through bites and is caused by parasites. The parasites cause cancerous tumors that spread throughout an infected animal's body and kill it. A non-infectious, chronic disease is the best description of DFTD.
+
+Extracted triples 
+1.3:	<_>; passes from; one animal to another through;
+	 <_>; The disease;
+1.6:	A non-infectious chronic disease; is; the best description of DFTD;
+	 of; DFTD;
+1.7:	that; spread throughout; an infected animal 's body;
+	 <_>; cancerous tumors;
+	 and; #1.15;
+1.8:	Devil facial tumor disease; is; a disease<ctx#1.13>;
+1.10:	The disease<ctx#1.3>; bites and; #1.13;
+1.13:	that; is decimating; <_>; 
+	 <_>; a disease;
+1.15:	that; kill; it;
+1.6:	Devil facial tumor disease; <be>; DFTD;
+1.17:	devils; <be>; the population of Tasmanian;
+
+
+
+
+Option D: an infectious, chronic disease
+Hypothesis Devil facial tumor disease (DFTD) is a disease that is decimating the population of Tasmanian devils. The disease passes from one animal to another through bites and is caused by parasites. The parasites cause cancerous tumors that spread throughout an infected animal's body and kill it. An infectious, chronic disease is the best description of DFTD.
+
+Extracted triples 
+1.3:	<_>; passes from; one animal to another through;
+	 <_>; The disease;
+1.6:	A non-infectious chronic disease; is; the best description of DFTD;
+	 of; DFTD;
+1.7:	that; spread throughout; an infected animal 's body;
+	 <_>; cancerous tumors;
+	 and; #1.15;
+1.8:	Devil facial tumor disease; is; a disease<ctx#1.13>;
+1.10:	The disease<ctx#1.3>; bites and; #1.13;
+1.13:	that; is decimating; <_>; 
+	 <_>; a disease;
+1.15:	that; kill; it;
+1.6:	Devil facial tumor disease; <be>; DFTD;
+1.17:	devils; <be>; the population of Tasmanian;
+
+
+
+
+
+
+
+
