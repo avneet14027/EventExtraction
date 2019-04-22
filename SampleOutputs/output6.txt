@@ -1,0 +1,728 @@
+Key: Event.headline, Value: ?4 youth booked under PSA in Ganderbal?- ( English 	Daily - Greater Kashmir )
+Key: Event.sentence, Value: (SSP) further said that Police would dealt strictly with the stone pelters and trouble mongers.
+Key: Event.location, Value: Central Kashmiri's Ganderbal
+Key: Event.date, Value: 11-08-2016
+Key: Node.name, Value: the stone pelters and trouble mongers
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: police
+Key: Predicate.name, Value: would dealt
+Key: Object.name, Value: strictly
+Key: Facet.name, Value: the stone pelters and trouble mongers
+**
+
+
+Key: Event.headline, Value: Book arsonists, hooligans quickly: Special DGP to officers; Chairs meeting of COs and District SPs ? (English Dailies ? Greater Kashmir/Rising Kashmir/Kashmir Images ? Urdu Dailies ? Aftab/Tameel-i-Irshad/Srinagar Times)
+Key: Event.sentence, Value: Vaid asked the Police officers to identify and book the elements behind mischievous acts of arson, hooliganism, posters and stone pelting incidents as quickly as possible.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-12-2016
+Key: Node.name, Value: the elements behind mischievous acts of arson posters and stone pelting incidents
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the police officers
+Key: Predicate.name, Value: identify
+Key: Object.name, Value: null
+Key: Facet.name, Value: as quickly
+**
+
+
+Key: Event.headline, Value: Book arsonists, hooligans quickly: Special DGP to officers; Chairs meeting of COs and District SPs ? (English Dailies ? Greater Kashmir/Rising Kashmir/Kashmir Images ? Urdu Dailies ? Aftab/Tameel-i-Irshad/Srinagar Times)
+Key: Event.sentence, Value: Vaid asked the Police officers to identify and book the elements behind mischievous acts of arson, hooliganism, posters and stone pelting incidents as quickly as possible.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-12-2016
+Key: Node.name, Value: the elements behind mischievous acts of arson posters and stone pelting incidents
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the police officers
+Key: Predicate.name, Value: identify
+Key: Object.name, Value: null
+Key: Facet.name, Value: the elements behind mischievous acts of arson posters and stone pelting incidents
+**
+
+
+Key: Event.headline, Value: Book arsonists, hooligans quickly: Special DGP to officers; Chairs meeting of COs and District SPs ? (English Dailies ? Greater Kashmir/Rising Kashmir/Kashmir Images ? Urdu Dailies ? Aftab/Tameel-i-Irshad/Srinagar Times)
+Key: Event.sentence, Value: Vaid asked the Police officers to identify and book the elements behind mischievous acts of arson, hooliganism, posters and stone pelting incidents as quickly as possible.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-12-2016
+Key: Node.name, Value: the elements behind mischievous acts of arson posters and stone pelting incidents
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the police officers
+Key: Predicate.name, Value: identify
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Kashmir people abandoned by Central and State Governments: Citizens Committee ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: said that there is no proportionality of State response as a stone pelting is met by bullets and pellet guns.
+Key: Event.location, Value: Kashmir;Delhi;Valley
+Key: Event.date, Value: 17-12-2016
+Key: Node.name, Value: a stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a stone pelting
+Key: Predicate.name, Value: is met
+Key: Object.name, Value: by bullets and pellet guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily: ?50 youth arrested in Srinagar on stone-pelting charges since January?
+Key: Event.sentence, Value: at least 50 youth also revealed that 82 stone pelting incidents took place in Srinagar on last two months.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 18-02-2016
+Key: Node.name, Value: 82 stone pelting incidents
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 82 stone pelting incidents
+Key: Predicate.name, Value: took
+Key: Object.name, Value: place
+Key: Facet.name, Value: last two months
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily: ?50 youth arrested in Srinagar on stone-pelting charges since January?
+Key: Event.sentence, Value: at least 50 youth also revealed that 82 stone pelting incidents took place in Srinagar on last two months.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 18-02-2016
+Key: Node.name, Value: 82 stone pelting incidents
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 82 stone pelting incidents
+Key: Predicate.name, Value: took
+Key: Object.name, Value: place
+Key: Facet.name, Value: srinagar
+**
+
+
+Key: Event.headline, Value: ?PSA only alternative to control stone pelting: IGP?:Rising Kashmir/English Daily ? 7.2.2016)
+Key: Event.sentence, Value: (IGP) Kashmir, S. J. M. Gilani told English Daily ??Rising Kashmir?, ?If legal action against the stone pelters does not stop along pelting incidents in the Valley, then we will have to take extreme steps to control the stone pelters?.
+Key: Event.location, Value: Kashmir;Valley
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: legal action against the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: legal action against the stone pelters
+Key: Predicate.name, Value: pelting
+Key: Object.name, Value: incidents
+Key: Facet.name, Value: the valley
+**
+
+
+Key: Event.headline, Value: ?PSA only alternative to control stone pelting: IGP?:Rising Kashmir/English Daily ? 7.2.2016)
+Key: Event.sentence, Value: (IGP) Kashmir, S. J. M. Gilani told English Daily ??Rising Kashmir?, ?If legal action against the stone pelters does not stop along pelting incidents in the Valley, then we will have to take extreme steps to control the stone pelters?.
+Key: Event.location, Value: Kashmir;Valley
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: legal action against the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: legal action against the stone pelters
+Key: Predicate.name, Value: does not stop
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?PSA only alternative to control stone pelting: IGP?:Rising Kashmir/English Daily ? 7.2.2016)
+Key: Event.sentence, Value: Inspector General of Police (IGP) Kashmir, S. J. M. Gilani claimed that invoking Public safety Act (PSA) against stone pelters was the only alternative left wit Police to control stone pelting incidents in the Valley.
+Key: Event.location, Value: Kashmir;Valley
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: public safety act against stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: public safety act against stone pelters
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: psa
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?PSA only alternative to control stone pelting: IGP?:Rising Kashmir/English Daily ? 7.2.2016)
+Key: Event.sentence, Value: Inspector General of Police (IGP) Kashmir, S. J. M. Gilani claimed that invoking Public safety Act (PSA) against stone pelters was the only alternative left wit Police to control stone pelting incidents in the Valley.
+Key: Event.location, Value: Kashmir;Valley
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: public safety act against stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: invoking
+Key: Object.name, Value: public safety act against stone pelters
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: don
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: fighting
+Key: Object.name, Value: against bullets
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: sacrificing
+Key: Object.name, Value: their lives
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: are giving
+Key: Object.name, Value: clear message
+Key: Facet.name, Value: in an<ctx#1.3>
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: are giving
+Key: Object.name, Value: clear message
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: are giving
+Key: Object.name, Value: clear message
+Key: Facet.name, Value: the world
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: fighting
+Key: Object.name, Value: against bullets
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: fighting
+Key: Object.name, Value: against bullets lives
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: sacrificing
+Key: Object.name, Value: their lives
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: sacrificing
+Key: Object.name, Value: their lives
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: sacrificing
+Key: Object.name, Value: the stone pelters
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: sacrificing
+Key: Object.name, Value: the stone pelters
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: sacrificing
+Key: Object.name, Value: the stone pelters
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: In an e-mailed statement to local news agency-KNS, LeT Spokesman, Dr Abdullah Gaznavi quoting the outfit Chief, Mehmood Shah, said,? The stone pelters by sacrificing The stone pelters by sacrificing their lives and fighting against bullets lives and fighting against bullets are giving clear message to the world that The stone pelters by sacrificing their lives and fighting against bullets don?t want to live in forcible control of India.?
+Key: Event.location, Value: India
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the stone pelters
+Key: Predicate.name, Value: sacrificing
+Key: Object.name, Value: the stone pelters
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Terming the stone pelters as advance party of freedom movement, Lashkar-e-Toiba (LeT) said that the stone throwers were giving a clear message to the world that the stone throwers are against forcible control of Jammu and Kashmir.
+Key: Event.location, Value: Lashkar-e-Toiba;Jammu;Kashmir
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: lashkar-e-toiba
+Key: Predicate.name, Value: terming
+Key: Object.name, Value: the stone pelters
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stone pelters advance party of freedom movement: LeT?? (English Dailies ? Greater Kashmir/Kashmir Reader ? Urdu Dailies ? Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Terming the stone pelters as advance party of freedom movement, Lashkar-e-Toiba (LeT) said that the stone throwers were giving a clear message to the world that the stone throwers are against forcible control of Jammu and Kashmir.
+Key: Event.location, Value: Lashkar-e-Toiba;Jammu;Kashmir
+Key: Event.date, Value: 03-09-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: lashkar-e-toiba
+Key: Predicate.name, Value: terming
+Key: Object.name, Value: the stone pelters
+Key: Facet.name, Value: advance party of freedom movement
+**
+
+
+Key: Event.headline, Value: ?PSA only alternative to control stone pelting: IGP?:Rising Kashmir/English Daily ? 7.2.2016)
+Key: Event.sentence, Value: (IGP) Kashmir, S. J. M. Gilani told English Daily ??Rising Kashmir?, ?If legal action against the stone pelters does not stop along pelting incidents in the Valley, then we will have to take extreme steps to control the stone pelters?.
+Key: Event.location, Value: Kashmir;Valley
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: then we
+Key: Predicate.name, Value: control
+Key: Object.name, Value: the stone pelters
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Protest calendar, stone pelting necessitate curfew: Naeem? ? (English Daily ? Kashmir Times)
+Key: Event.sentence, Value: Education Minister, Naeem Akhtar said that protest calendar by separatists and subsequent stone pelting forces the State Government to impose curfew.
+Key: Event.location, Value: Ganderbal;Srinagar
+Key: Event.date, Value: 28-07-2016
+Key: Node.name, Value: protest calendar by separatists and subsequent stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: protest calendar by separatists and subsequent stone pelting
+Key: Predicate.name, Value: forces
+Key: Object.name, Value: the state government
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Don?t complicate it? ? (English Daily ?Greater Kashmir)
+Key: Event.sentence, Value: While the incumbent Government is accused of backing out the incumbent Government poll promises by showing reluctance to withdraw cases against the ?stone pelters,? the Police are adding to the problem by producing a fresh breed of ?stone pelters?.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-07-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: withdraw
+Key: Object.name, Value: cases
+Key: Facet.name, Value: the stone pelters
+**
+
+
+Key: Event.headline, Value: ?Don?t complicate it? ? (English Daily ?Greater Kashmir)
+Key: Event.sentence, Value: While the incumbent Government is accused of backing out the incumbent Government poll promises by showing reluctance to withdraw cases against the ?stone pelters,? the Police are adding to the problem by producing a fresh breed of ?stone pelters?.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-07-2016
+Key: Node.name, Value: the stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: withdraw
+Key: Object.name, Value: cases
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Article by Shujaat Bukhari: ?Why is Geelani?s health a major concern?:(Rising Kashmir/English Daily)
+Key: Event.sentence, Value: Geelani came out with the appeal asking youth to deist from stone pelting on Police and paramilitary forces in 2010.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 16-03-2016
+Key: Node.name, Value: stone pelting on police and paramilitary forces in 2010
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: geelani
+Key: Predicate.name, Value: asking
+Key: Object.name, Value: youth
+Key: Facet.name, Value: stone pelting on police and paramilitary forces in 2010
+**
+
+
+Key: Event.headline, Value: Article by Shujaat Bukhari: ?Why is Geelani?s health a major concern?:(Rising Kashmir/English Daily)
+Key: Event.sentence, Value: Geelani came out with the appeal asking youth to deist from stone pelting on Police and paramilitary forces in 2010.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 16-03-2016
+Key: Node.name, Value: stone pelting on police and paramilitary forces in 2010
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: geelani
+Key: Predicate.name, Value: asking
+Key: Object.name, Value: youth
+Key: Facet.name, Value: deist
+**
+
+
+Key: Event.headline, Value: Article by Shujaat Bukhari: ?Why is Geelani?s health a major concern?:(Rising Kashmir/English Daily)
+Key: Event.sentence, Value: Geelani came out with the appeal asking youth to deist from stone pelting on Police and paramilitary forces in 2010.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 16-03-2016
+Key: Node.name, Value: stone pelting on police and paramilitary forces in 2010
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: geelani
+Key: Predicate.name, Value: asking
+Key: Object.name, Value: youth
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising  Kashmir/English Daily: ?Army defends Govt employee suspended over stone- pelting charge?
+Key: Event.sentence, Value: The Commanding Officer of 18 RR reported that no stone pelting incident took place in Khurhama area, where from an employee, Muhammad Ashraf Shah, was suspended by Deputy Commissioner Kupwara.
+Key: Event.location, Value: Khurhama;Kupwara
+Key: Event.date, Value: 14-05-2016
+Key: Node.name, Value: no stone pelting incident
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: no stone pelting incident
+Key: Predicate.name, Value: was suspended
+Key: Object.name, Value: by deputy commissioner kupwara
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising  Kashmir/English Daily: ?Army defends Govt employee suspended over stone- pelting charge?
+Key: Event.sentence, Value: The Commanding Officer of 18 RR reported that no stone pelting incident took place in Khurhama area, where from an employee, Muhammad Ashraf Shah, was suspended by Deputy Commissioner Kupwara.
+Key: Event.location, Value: Khurhama;Kupwara
+Key: Event.date, Value: 14-05-2016
+Key: Node.name, Value: no stone pelting incident
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: no stone pelting incident
+Key: Predicate.name, Value: took
+Key: Object.name, Value: place
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising  Kashmir/English Daily: ?Army defends Govt employee suspended over stone- pelting charge?
+Key: Event.sentence, Value: The Commanding Officer of 18 RR reported that no stone pelting incident took place in Khurhama area, where from an employee, Muhammad Ashraf Shah, was suspended by Deputy Commissioner Kupwara.
+Key: Event.location, Value: Khurhama;Kupwara
+Key: Event.date, Value: 14-05-2016
+Key: Node.name, Value: no stone pelting incident
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: no stone pelting incident
+Key: Predicate.name, Value: took
+Key: Object.name, Value: place
+Key: Facet.name, Value: khurhama area
+**
+
+
+Key: Event.headline, Value: ?Waging Exams? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: According to reports, a number of students have been jailed for a number of students alleged involvement in stone pelting.
+Key: Event.location, Value: 
+Key: Event.date, Value: 05-11-2016
+Key: Node.name, Value: alleged involvement in stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a number of students
+Key: Predicate.name, Value: have been jailed
+Key: Object.name, Value: for a number of students
+Key: Facet.name, Value: according reports
+**
+
+
+Key: Event.headline, Value: ?Waging Exams? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: According to reports, a number of students have been jailed for a number of students alleged involvement in stone pelting.
+Key: Event.location, Value: 
+Key: Event.date, Value: 05-11-2016
+Key: Node.name, Value: alleged involvement in stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a number of students
+Key: Predicate.name, Value: have been jailed
+Key: Object.name, Value: for a number of students
+Key: Facet.name, Value: alleged involvement in stone pelting
+**
+
+
+Key: Event.headline, Value: ?Tension between BJP and PDP? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: In his latest statement, BJP Minister, Chandra Prakash Ganga has expressed regret over BJP Minister, Chandra Prakash Ganga earlier statement that bullet is the answer for stone pelting, saying that BJP Minister, Chandra Prakash Ganga statement about stone pelters has been misquoted.
+Key: Event.location, Value: 
+Key: Event.date, Value: 22-04-2017
+Key: Node.name, Value: stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullet
+Key: Predicate.name, Value: is
+Key: Object.name, Value: the answer for stone pelting
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Tension between BJP and PDP? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: In his latest statement, BJP Minister, Chandra Prakash Ganga has expressed regret over BJP Minister, Chandra Prakash Ganga earlier statement that bullet is the answer for stone pelting, saying that BJP Minister, Chandra Prakash Ganga statement about stone pelters has been misquoted.
+Key: Event.location, Value: 
+Key: Event.date, Value: 22-04-2017
+Key: Node.name, Value: stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullet
+Key: Predicate.name, Value: is
+Key: Object.name, Value: the answer for stone pelting
+Key: Facet.name, Value: stone pelting
+**
+
+
+Key: Event.headline, Value: ?Tension between BJP and PDP? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: In his latest statement, BJP Minister, Chandra Prakash Ganga has expressed regret over BJP Minister, Chandra Prakash Ganga earlier statement that bullet is the answer for stone pelting, saying that BJP Minister, Chandra Prakash Ganga statement about stone pelters has been misquoted.
+Key: Event.location, Value: 
+Key: Event.date, Value: 22-04-2017
+Key: Node.name, Value: stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullet
+Key: Predicate.name, Value: is
+Key: Object.name, Value: the answer for stone pelting
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 27 youth arrested during raids in Pulwama ? (Urdu Dailies ? Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: these youth wanted by Police in connection with stone pelting.
+Key: Event.location, Value: Pulwama
+Key: Event.date, Value: 14-04-2017
+Key: Node.name, Value: stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: these youth
+Key: Predicate.name, Value: wanted
+Key: Object.name, Value: by police in connection
+Key: Facet.name, Value: stone pelting
+**
+
+
+Key: Event.headline, Value: 27 youth arrested during raids in Pulwama ? (Urdu Dailies ? Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Confirming the arrest of youth, SSP, Pulwama said that these youth wanted by Police in connection with stone pelting.
+Key: Event.location, Value: Pulwama
+Key: Event.date, Value: 14-04-2017
+Key: Node.name, Value: stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: these youth
+Key: Predicate.name, Value: wanted
+Key: Object.name, Value: by police in connection
+Key: Facet.name, Value: stone pelting
+**
+
+
+Key: Event.headline, Value: Police zeroed in on registration No. of vehicle, accused would be behind bars in 48 hours ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: Police claimed to have zeroed in on the registration number of vehicle that hit two women amid stone pelting at Parimpora Srinagar, causing the death of one on September 27.
+Key: Event.location, Value: Parimpora Srinagar
+Key: Event.date, Value: 27-09-2016
+Key: Node.name, Value: stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: two women
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Police zeroed in on registration No. of vehicle, accused would be behind bars in 48 hours ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: Police claimed to have zeroed in on the registration number of vehicle that hit two women amid stone pelting at Parimpora Srinagar, causing the death of one on September 27.
+Key: Event.location, Value: Parimpora Srinagar
+Key: Event.date, Value: 27-09-2016
+Key: Node.name, Value: stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: two women
+Key: Facet.name, Value: parimpora srinagar
+**
+
+
+Key: Event.headline, Value: Police zeroed in on registration No. of vehicle, accused would be behind bars in 48 hours ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: Police claimed to have zeroed in on the registration number of vehicle that hit two women amid stone pelting at Parimpora Srinagar, causing the death of one on September 27.
+Key: Event.location, Value: Parimpora Srinagar
+Key: Event.date, Value: 27-09-2016
+Key: Node.name, Value: stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: two women
+Key: Facet.name, Value: stone pelting
+**
+
+
+Key: Event.headline, Value: All India Muslim Majlis Mashawarat expressed concern over deteriorating situation in Valley ? (Urdu Dailies ? Srinagar Times/Tameel-i-Irshad )
+Key: Event.sentence, Value: Criticizing BJP leadership, Mashawarat President, Navid Hamid said that strong reaction by security forces against stone pelters at the behest of policy makers in Delhi has given serious jolt to efforts for normalising situation.
+Key: Event.location, Value: Delhi
+Key: Event.date, Value: 28-04-2017
+Key: Node.name, Value: strong reaction by security forces against stone pelters at the behest of policy makers in delhi
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: strong reaction by security forces against stone pelters at the behest of policy makers in delhi
+Key: Predicate.name, Value: has given
+Key: Object.name, Value: serious jolt
+Key: Facet.name, Value: efforts for normalising situation
+**
+
+
+Key: Event.headline, Value: Attempt to deviate from facts? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: It is true that stone pelting at encounter sites is a new phenomenon of Kashmir scenario which has become a matter of debate and discussion from New Delhi to Srinagar.
+Key: Event.location, Value: Kashmir;New Delhi;Srinagar
+Key: Event.date, Value: 04-04-2017
+Key: Node.name, Value: stone pelting at encounter sites
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: stone pelting at encounter sites
+Key: Predicate.name, Value: is
+Key: Object.name, Value: a new phenomenon of kashmir scenario
+Key: Facet.name, Value: kashmir scenario
+**
+
+
+Key: Event.headline, Value: Attempt to deviate from facts? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: It is true that stone pelting at encounter sites is a new phenomenon of Kashmir scenario which has become a matter of debate and discussion from New Delhi to Srinagar.
+Key: Event.location, Value: Kashmir;New Delhi;Srinagar
+Key: Event.date, Value: 04-04-2017
+Key: Node.name, Value: stone pelting at encounter sites
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: stone pelting at encounter sites
+Key: Predicate.name, Value: is
+Key: Object.name, Value: a new phenomenon of kashmir scenario
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Police Chief?s appeal to Kashmiri youth? ? (Urdu Daily ? Srinagar Times).
+Key: Event.sentence, Value: In case Kashmir issue is to be settled sincerely, there would be no stone pelting and youths won?t be playing with fire.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-04-2017
+Key: Node.name, Value: no stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: kashmir issue
+Key: Predicate.name, Value: is
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Police Chief?s appeal to Kashmiri youth? ? (Urdu Daily ? Srinagar Times).
+Key: Event.sentence, Value: In case Kashmir issue is to be settled sincerely, there would be no stone pelting and youths won?t be playing with fire.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-04-2017
+Key: Node.name, Value: no stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: kashmir issue
+Key: Predicate.name, Value: is
+Key: Object.name, Value: null
+Key: Facet.name, Value: no stone pelting
+**
+
+
+Key: Event.headline, Value: ?Police Chief?s appeal to Kashmiri youth? ? (Urdu Daily ? Srinagar Times).
+Key: Event.sentence, Value: In case Kashmir issue is to be settled sincerely, there would be no stone pelting and youths won?t be playing with fire.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-04-2017
+Key: Node.name, Value: no stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: kashmir issue
+Key: Predicate.name, Value: is
+Key: Object.name, Value: null
+Key: Facet.name, Value: in case
+**
+
+
+Key: Event.headline, Value: ?Discussion with some youth? -  by Hashim Qureshi (Chairman, Democratic Liberation Party) ? (Urdu Dailies - Chattan/Uqab)
+Key: Event.sentence, Value: our can make news and create a show, but can our drive out India from Kashmir by stone pelting?
+Key: Event.location, Value: India;Kashmir
+Key: Event.date, Value: 12-08-2017
+Key: Node.name, Value: can out india from kashmir by stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: our
+Key: Predicate.name, Value: can make
+Key: Object.name, Value: news
+Key: Facet.name, Value: can out india from kashmir by stone pelting
+**
+
+
+Key: Event.headline, Value: ?Discussion with some youth? -  by Hashim Qureshi (Chairman, Democratic Liberation Party) ? (Urdu Dailies - Chattan/Uqab)
+Key: Event.sentence, Value: our can make news and create a show, but can our drive out India from Kashmir by stone pelting?
+Key: Event.location, Value: India;Kashmir
+Key: Event.date, Value: 12-08-2017
+Key: Node.name, Value: can out india from kashmir by stone pelting
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: our
+Key: Predicate.name, Value: can make
+Key: Object.name, Value: news
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Present Government?s way of working not fruitful for future: Sagar ? (Urdu Daily ?Aftab)
+Key: Event.sentence, Value: Addressing a Provincial level meeting at party headquarters, Srinagar, Ali Muhammad Sagar said that although amnesty given by Government to stone pelters is a welcome step, but the decision was taken on the directives of Union Home Minister while the decision should have been taken by State Government itself.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 01-12-2017
+Key: Node.name, Value: amnesty given by government to stone pelters
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: amnesty given by government to stone pelters
+Key: Predicate.name, Value: is
+Key: Object.name, Value: a welcome step
+Key: Facet.name, Value: null
+**
+
+

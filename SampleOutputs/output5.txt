@@ -1,0 +1,156 @@
+Key: Event.headline, Value: Editorial:  ?Lahore ?.. Humanity ashamed?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: After Brussels, the Lahore bomb blast was the second sensational ?man-eating? incident.
+Key: Event.location, Value: Brussels;Lahore
+Key: Event.date, Value: 02-04-2016
+Key: Node.name, Value: the lahore bomb blast
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the lahore bomb blast
+Key: Predicate.name, Value: was
+Key: Object.name, Value: after brussels the second sensational man-eating incident
+Key: Facet.name, Value: after brussels
+**
+
+
+Key: Event.headline, Value: PDP and  NC two faces of same coin: Bita Karate ? (English Dailies ? Greater Kashmir/Kashmir Times/Kashmir Monitor ? Urdu Daily - Aftab)
+Key: Event.sentence, Value: Farooq Abdullah is the man, who pleaded and asked Delhi to shower bombs on Pakistan occupied Kashmir?.
+Key: Event.location, Value: Delhi;Pakistan;Kashmir
+Key: Event.date, Value: 07-12-2016
+Key: Node.name, Value: delhi to shower bombs on pakistan
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: delhi to shower bombs on pakistan
+Key: Predicate.name, Value: occupied
+Key: Object.name, Value: kashmir
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Fighting terrorism moral obligation for Pak, says Sharif?- Islamabad sharing intelligence with India on militant attacks?- Kashmir shouldn?t be pre- condition for Indo- Pak talks?:(Greater Kashmir/ Rising Kashmir/ Kashmir Images/ Kashmir Monitor/English Dailies- Aftab/Kashmir Uzma/ Urdu Dailies)
+Key: Event.sentence, Value: Pakistan Prime Minister Nawaz Sharif said that Pakistan was fighting terrorism as part to a moral obligation to eliminate the scourge from Pakistan, a day after a Taliban suicide bomber killed 17 people in the restive North-Western region.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-03-2016
+Key: Node.name, Value: a taliban suicide bomber
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a taliban suicide bomber
+Key: Predicate.name, Value: killed
+Key: Object.name, Value: 17 people
+Key: Facet.name, Value: the restive north-western region
+**
+
+
+Key: Event.headline, Value: ?Fighting terrorism moral obligation for Pak, says Sharif?- Islamabad sharing intelligence with India on militant attacks?- Kashmir shouldn?t be pre- condition for Indo- Pak talks?:(Greater Kashmir/ Rising Kashmir/ Kashmir Images/ Kashmir Monitor/English Dailies- Aftab/Kashmir Uzma/ Urdu Dailies)
+Key: Event.sentence, Value: Pakistan Prime Minister Nawaz Sharif said that Pakistan was fighting terrorism as part to a moral obligation to eliminate the scourge from Pakistan, a day after a Taliban suicide bomber killed 17 people in the restive North-Western region.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-03-2016
+Key: Node.name, Value: suicide bomber
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: suicide bomber
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: taliban
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Kashmir Times/English Daily: ?Hashim condemns Lahore blast?
+Key: Event.sentence, Value: Chairman Democratic Liberation Party, Hashim Quresh said that the terrorists responsible for the suicide bomb explosion in a park in Lahore are not humans.
+Key: Event.location, Value: Lahore
+Key: Event.date, Value: 30-03-2016
+Key: Node.name, Value: the terrorists responsible for the suicide bomb explosion in a park in lahore
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the terrorists responsible for the suicide bomb explosion in a park in lahore
+Key: Predicate.name, Value: are
+Key: Object.name, Value: not humans
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Lahore attack: Pak launches ?military operation? in Punjab?- ?Death toll rises to 72?- ?Modi calls up Sharif?:(Greater Kashmir/English Daily -  Kashmir Uzma/Uqab/Urdu Dailies) 
+Key: Event.sentence, Value: Pakistan launched a massive military operation in Punjab province in the wake of the deadly suicide bombing in Lahore, conducting raids and making several arrests.
+Key: Event.location, Value: Pakistan;Punjab;Lahore
+Key: Event.date, Value: 29-03-2016
+Key: Node.name, Value: the wake of the deadly suicide bombing in lahore
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pakistan
+Key: Predicate.name, Value: launched
+Key: Object.name, Value: a massive military operation
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Lahore attack: Pak launches ?military operation? in Punjab?- ?Death toll rises to 72?- ?Modi calls up Sharif?:(Greater Kashmir/English Daily -  Kashmir Uzma/Uqab/Urdu Dailies) 
+Key: Event.sentence, Value: Pakistan launched a massive military operation in Punjab province in the wake of the deadly suicide bombing in Lahore, conducting raids and making several arrests.
+Key: Event.location, Value: Pakistan;Punjab;Lahore
+Key: Event.date, Value: 29-03-2016
+Key: Node.name, Value: the wake of the deadly suicide bombing in lahore
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pakistan
+Key: Predicate.name, Value: launched
+Key: Object.name, Value: a massive military operation
+Key: Facet.name, Value: the wake of the deadly suicide bombing in lahore
+**
+
+
+Key: Event.headline, Value: ?Lahore attack: Pak launches ?military operation? in Punjab?- ?Death toll rises to 72?- ?Modi calls up Sharif?:(Greater Kashmir/English Daily -  Kashmir Uzma/Uqab/Urdu Dailies) 
+Key: Event.sentence, Value: Pakistan launched a massive military operation in Punjab province in the wake of the deadly suicide bombing in Lahore, conducting raids and making several arrests.
+Key: Event.location, Value: Pakistan;Punjab;Lahore
+Key: Event.date, Value: 29-03-2016
+Key: Node.name, Value: the wake of the deadly suicide bombing in lahore
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pakistan
+Key: Predicate.name, Value: launched
+Key: Object.name, Value: a massive military operation
+Key: Facet.name, Value: punjab province
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/Kashmir Images/Kashmir Monitor/English Dailies: ?Bomb scare on Srinagar- Delhi Indigo flight?
+Key: Event.sentence, Value: Highly placed Police sources told local English Daily ?Rising Kashmir? that the IndiGo?s Chennai Call Centre received a threatening call about a possible bomb in the form of liquid in the IndiGo?s Chennai Call Centre Srinagar- Jammu ? Delhi flight 6E 853.
+Key: Event.location, Value: Kashmir;Chennai Call Centre Srinagar;Jammu;Delhi
+Key: Event.date, Value: 24-03-2016
+Key: Node.name, Value: a possible bomb in the form of liquid
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: centre
+Key: Predicate.name, Value: received
+Key: Object.name, Value: a threatening call
+Key: Facet.name, Value: the indigo
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/Kashmir Images/Kashmir Monitor/English Dailies: ?Bomb scare on Srinagar- Delhi Indigo flight?
+Key: Event.sentence, Value: Highly placed Police sources told local English Daily ?Rising Kashmir? that the IndiGo?s Chennai Call Centre received a threatening call about a possible bomb in the form of liquid in the IndiGo?s Chennai Call Centre Srinagar- Jammu ? Delhi flight 6E 853.
+Key: Event.location, Value: Kashmir;Chennai Call Centre Srinagar;Jammu;Delhi
+Key: Event.date, Value: 24-03-2016
+Key: Node.name, Value: a possible bomb in the form of liquid
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: centre
+Key: Predicate.name, Value: received
+Key: Object.name, Value: a threatening call
+Key: Facet.name, Value: a possible bomb in the form of liquid
+**
+
+
+Key: Event.headline, Value: ?Wait for that morning? ? (Urdu Daily ? Uqab)
+Key: Event.sentence, Value: Both India and Pakistan have atom bombs capable to destroy the subcontinent.
+Key: Event.location, Value: India;Pakistan
+Key: Event.date, Value: 27-04-2017
+Key: Node.name, Value: atom bombs
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: atom bombs
+Key: Predicate.name, Value: destroy
+Key: Object.name, Value: the subcontinent
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Article 370 and Article 35/A are signs of J&K State?s identity: Mufti Azam  ? (Urdu Daily ? Uqab)
+Key: Event.sentence, Value: Court decisions are no less than a time bomb.
+Key: Event.location, Value: Pakistan;Azad Kashmir
+Key: Event.date, Value: 16-08-2017
+Key: Node.name, Value: a time bomb
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: court decisions
+Key: Predicate.name, Value: are
+Key: Object.name, Value: no less than a time bomb
+Key: Facet.name, Value: a time bomb
+**
+
+

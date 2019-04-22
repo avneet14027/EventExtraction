@@ -1,0 +1,2600 @@
+Key: Event.headline, Value: Rising Kashmir/English Daily ? 25.4.2016: ?SWC waits for Handwara girl to come out of trauma for unravelling truth? 
+Key: Event.sentence, Value: Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths has gone through a lot of trauma these days?, Mehjoor said that a very brave girl being vulnerable to threats, has agreed for Police protection only if it (Police) maintains distance from Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths and Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths family.
+Key: Event.location, Value: Handwara
+Key: Event.date, Value: 25-04-2016
+Key: Node.name, Value: civilian deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: civilian deaths
+Key: Predicate.name, Value: has gone
+Key: Object.name, Value: through a lot of trauma
+Key: Facet.name, Value: these days
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily ? 25.4.2016: ?SWC waits for Handwara girl to come out of trauma for unravelling truth? 
+Key: Event.sentence, Value: Providing a peep into the teenage girl?s mind whom Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths met on April 22, 2016, Mehjoor said, ?Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths is a very brave girl and is ready to fight, but right now Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths is not in good mental state.
+Key: Event.location, Value: Handwara
+Key: Event.date, Value: 25-04-2016
+Key: Node.name, Value: civilian deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of the controversy
+Key: Predicate.name, Value: give
+Key: Object.name, Value: civilian deaths
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily ? 25.4.2016: ?SWC waits for Handwara girl to come out of trauma for unravelling truth? 
+Key: Event.sentence, Value: Providing a peep into the teenage girl?s mind whom Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths met on April 22, 2016, Mehjoor said, ?Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths is a very brave girl and is ready to fight, but right now Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths is not in good mental state.
+Key: Event.location, Value: Handwara
+Key: Event.date, Value: 25-04-2016
+Key: Node.name, Value: civilian deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of the controversy
+Key: Predicate.name, Value: give
+Key: Object.name, Value: civilian deaths
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily ? 25.4.2016: ?SWC waits for Handwara girl to come out of trauma for unravelling truth? 
+Key: Event.sentence, Value: According to Chairperson of J&K State Women?s Commission (SWC), Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths was going through a lot of trauma even as Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths has dealt with the situation bravely.
+Key: Event.location, Value: Handwara
+Key: Event.date, Value: 25-04-2016
+Key: Node.name, Value: civilian deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of the controversy
+Key: Predicate.name, Value: give
+Key: Object.name, Value: civilian deaths
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily ? 25.4.2016: ?SWC waits for Handwara girl to come out of trauma for unravelling truth? 
+Key: Event.sentence, Value: According to Chairperson of J&K State Women?s Commission (SWC), Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths was going through a lot of trauma even as Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths has dealt with the situation bravely.
+Key: Event.location, Value: Handwara
+Key: Event.date, Value: 25-04-2016
+Key: Node.name, Value: civilian deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: civilian deaths
+Key: Predicate.name, Value: was going
+Key: Object.name, Value: through a lot of trauma
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily ? 25.4.2016: ?SWC waits for Handwara girl to come out of trauma for unravelling truth? 
+Key: Event.sentence, Value: Providing a peep into the teenage girl?s mind whom Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths met on April 22, 2016, Mehjoor said, ?Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths is a very brave girl and is ready to fight, but right now Nayeema Ahmed Mehjoor, the Handwara girl at the centre of the controversy that led to give civilian deaths is not in good mental state.
+Key: Event.location, Value: Handwara
+Key: Event.date, Value: 25-04-2016
+Key: Node.name, Value: civilian deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: is
+Key: Object.name, Value: null
+Key: Facet.name, Value: civilian deaths
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/English Daily:  ?India uses AFSPA to obscurer civilian killings in Kashmir: US report? 
+Key: Event.sentence, Value: Quoting NGOs, A report by the US State Department said that due to AFSPA immunity provisions, authorities did not hold the armed forces responsible for the deaths of civilians killed in Jammu and Kashmir in previous years.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 15-04-2016
+Key: Node.name, Value: responsible for the deaths of civilians
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: authorities
+Key: Predicate.name, Value: did not hold
+Key: Object.name, Value: responsible for the deaths of civilians
+Key: Facet.name, Value: due afspa immunity provisions
+**
+
+
+Key: Event.headline, Value: Article by Dr. Javid Iqbal: ?Handwara ---- Between two contradictory pictures?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: After the alleged molestation of a school girl by an Army Jawan in Handwara, a flood of public protests started resulting in the death of two local youth, followed by two more deaths, including a woman in the Kupwara district.
+Key: Event.location, Value: Handwara;Kupwara
+Key: Event.date, Value: 23-04-2016
+Key: Node.name, Value: in the death of two local youth including a woman in the kupwara district
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a flood of public protests
+Key: Predicate.name, Value: resulting
+Key: Object.name, Value: in the death of two local youth including a woman in the kupwara district
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Second innings?:(Greater Kashmir/English Daily )
+Key: Event.sentence, Value: Eighty-eight days after the death of former Chief Minister, Mufti Muhammad Sayeed the PDP- BJP government started the PDP- BJP government second innings.
+Key: Event.location, Value: Mehbooba Mufti
+Key: Event.date, Value: 05-04-2016
+Key: Node.name, Value: the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the death of former chief minister
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: mufti muhammad sayeed
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Second innings?:(Greater Kashmir/English Daily )
+Key: Event.sentence, Value: Interestingly without ascribing any reason, Eighty-eight days after the death of former Chief Minister did not include in Eighty-eight days after the death of former Chief Minister team four member of a 22 member Cabinet headed by Mehbooba Mufti;  Altaf Bukhari., Javed Mustafa, Ashraf Mir, and Abdul Majid Padder.
+Key: Event.location, Value: Mehbooba Mufti
+Key: Event.date, Value: 05-04-2016
+Key: Node.name, Value: eighty-eight days after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: eighty-eight days after the death of former chief minister
+Key: Predicate.name, Value: did not include
+Key: Object.name, Value: in eighty-eight days after the death of former chief minister team
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Second innings?:(Greater Kashmir/English Daily )
+Key: Event.sentence, Value: Interestingly without ascribing any reason, Eighty-eight days after the death of former Chief Minister did not include in Eighty-eight days after the death of former Chief Minister team four member of a 22 member Cabinet headed by Mehbooba Mufti;  Altaf Bukhari., Javed Mustafa, Ashraf Mir, and Abdul Majid Padder.
+Key: Event.location, Value: Mehbooba Mufti
+Key: Event.date, Value: 05-04-2016
+Key: Node.name, Value: eighty-eight days after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: eighty-eight days after the death of former chief minister
+Key: Predicate.name, Value: did not include
+Key: Object.name, Value: in eighty-eight days after the death of former chief minister team
+Key: Facet.name, Value: four member of a 22 member cabinet<ctx#1.37>
+**
+
+
+Key: Event.headline, Value: Editorial: ?Second innings?:(Greater Kashmir/English Daily )
+Key: Event.sentence, Value: Interestingly without ascribing any reason, Eighty-eight days after the death of former Chief Minister did not include in Eighty-eight days after the death of former Chief Minister team four member of a 22 member Cabinet headed by Mehbooba Mufti;  Altaf Bukhari., Javed Mustafa, Ashraf Mir, and Abdul Majid Padder.
+Key: Event.location, Value: Mehbooba Mufti
+Key: Event.date, Value: 05-04-2016
+Key: Node.name, Value: eighty-eight days after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: eighty-eight days after the death of former chief minister
+Key: Predicate.name, Value: ascribing
+Key: Object.name, Value: any reason
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Second innings?:(Greater Kashmir/English Daily )
+Key: Event.sentence, Value: Interestingly without ascribing any reason, Eighty-eight days after the death of former Chief Minister did not include in Eighty-eight days after the death of former Chief Minister team four member of a 22 member Cabinet headed by Mehbooba Mufti;  Altaf Bukhari., Javed Mustafa, Ashraf Mir, and Abdul Majid Padder.
+Key: Event.location, Value: Mehbooba Mufti
+Key: Event.date, Value: 05-04-2016
+Key: Node.name, Value: eighty-eight days after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: eighty-eight days after the death of former chief minister
+Key: Predicate.name, Value: ascribing
+Key: Object.name, Value: any reason
+Key: Facet.name, Value: interestingly
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Rising Kashmir/Kashmir Images/English Dailies ? Srinagar Times/Kashmir Uzma/Uqab/Urdu Dailies: ?Handwara killings: Army releases girl?s video?.  Legal Opinion: ?Circulating such video unlawful?
+Key: Event.sentence, Value: In the wake of death of four persons in Army and Police firing, Army released video of a Handwara school girl asserting that a Handwara school girl statement made it clear that Army was not involved in the molestation attempt.
+Key: Event.location, Value: Handwara
+Key: Event.date, Value: 14-04-2016
+Key: Node.name, Value: in the wake of death of four persons in army and police firing
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: army
+Key: Predicate.name, Value: released
+Key: Object.name, Value: video of a handwara school girl
+Key: Facet.name, Value: in the wake of death of four persons in army and police firing
+**
+
+
+Key: Event.headline, Value: ?CM reviews situation; says no harm should come to civilians?:(Kashmir Images/English Daily ? Srinagar Times/Urdu Daily)
+Key: Event.sentence, Value: With tension continuing in Kashmir in the wake of death of four civilians since April 12, 2016 in clashes with government forces, Chief Minister, Mehbooba Mufti held a meeting with top Police and intelligence officials of the State in Srinagar to review the situation and directed that no harm should come to civilians while dealing with law and issues.
+Key: Event.location, Value: Kashmir;Srinagar
+Key: Event.date, Value: 12-04-2016
+Key: Node.name, Value: with tension continuing in kashmir in the wake of death of four civilians since april 12 2016 in clashes with government forces
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mehbooba mufti
+Key: Predicate.name, Value: held
+Key: Object.name, Value: a meeting
+Key: Facet.name, Value: with tension continuing in kashmir in the wake of death of four civilians since april 12 2016 in clashes with government forces
+**
+
+
+Key: Event.headline, Value: ?CM reviews situation; says no harm should come to civilians?:(Kashmir Images/English Daily ? Srinagar Times/Urdu Daily)
+Key: Event.sentence, Value: With tension continuing in Kashmir in the wake of death of four civilians since April 12, 2016 in clashes with government forces, Chief Minister, Mehbooba Mufti held a meeting with top Police and intelligence officials of the State in Srinagar to review the situation and directed that no harm should come to civilians while dealing with law and issues.
+Key: Event.location, Value: Kashmir;Srinagar
+Key: Event.date, Value: 12-04-2016
+Key: Node.name, Value: with tension continuing in kashmir in the wake of death of four civilians since april 12 2016 in clashes with government forces
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mehbooba mufti
+Key: Predicate.name, Value: held
+Key: Object.name, Value: a meeting
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?CM reviews situation; says no harm should come to civilians?:(Kashmir Images/English Daily ? Srinagar Times/Urdu Daily)
+Key: Event.sentence, Value: With tension continuing in Kashmir in the wake of death of four civilians since April 12, 2016 in clashes with government forces, Chief Minister, Mehbooba Mufti held a meeting with top Police and intelligence officials of the State in Srinagar to review the situation and directed that no harm should come to civilians while dealing with law and issues.
+Key: Event.location, Value: Kashmir;Srinagar
+Key: Event.date, Value: 12-04-2016
+Key: Node.name, Value: with tension continuing in kashmir in the wake of death of four civilians since april 12 2016 in clashes with government forces
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mehbooba mufti
+Key: Predicate.name, Value: held
+Key: Object.name, Value: a meeting
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?CM reviews situation; says no harm should come to civilians?:(Kashmir Images/English Daily ? Srinagar Times/Urdu Daily)
+Key: Event.sentence, Value: With tension continuing in Kashmir in the wake of death of four civilians since April 12, 2016 in clashes with government forces, Chief Minister, Mehbooba Mufti held a meeting with top Police and intelligence officials of the State in Srinagar to review the situation and directed that no harm should come to civilians while dealing with law and issues.
+Key: Event.location, Value: Kashmir;Srinagar
+Key: Event.date, Value: 12-04-2016
+Key: Node.name, Value: with tension continuing in kashmir in the wake of death of four civilians since april 12 2016 in clashes with government forces
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mehbooba mufti
+Key: Predicate.name, Value: held
+Key: Object.name, Value: a meeting
+Key: Facet.name, Value: top police and intelligence officials of the state in srinagar
+**
+
+
+Key: Event.headline, Value: ?The core issue? ? by Zahid Fayaz ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Almost sixty deaths, hundreds having lost eye sight (to pellets) and thousands injured.
+Key: Event.location, Value: Delhi;Burhan Kashmir
+Key: Event.date, Value: 11-08-2016
+Key: Node.name, Value: almost sixty deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: almost sixty deaths
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: hundreds
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Trump declaration -  World on the brink of third world war? ? by Manzoor Anjum ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: It would be unwise not to accept that world has reached at a stage of drastic change where death is certain for all ideas of prosperity, development and peace.
+Key: Event.location, Value: US;Jerusalem;Israel
+Key: Event.date, Value: 19-12-2017
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death
+Key: Predicate.name, Value: is
+Key: Object.name, Value: certain for all ideas of prosperity development and peace
+Key: Facet.name, Value: all ideas of prosperity development and peace
+**
+
+
+Key: Event.headline, Value: ?Trump declaration -  World on the brink of third world war? ? by Manzoor Anjum ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: It would be unwise not to accept that world has reached at a stage of drastic change where death is certain for all ideas of prosperity, development and peace.
+Key: Event.location, Value: US;Jerusalem;Israel
+Key: Event.date, Value: 19-12-2017
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death
+Key: Predicate.name, Value: is
+Key: Object.name, Value: certain for all ideas of prosperity development and peace
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?BJP hardens stand; doesn?t shut door?.  ?Omar questions secrecy around Mehbooba- Shah meet?.  ?JK BJP leaders summoned to Delhi?.  ?PDP says CBMs must?:(Greater Kashmir/Rising Kashmir/Kashmir Times/Kashmir Images/Kashmir Monitor/English Dailies- Srinagar Times/Aftab/Kashmir Uzma/ Uqab/Urdu Dailies) 
+Key: Event.sentence, Value: After Mufti Sahib?s death, PDP had to choose a leader for the Chief Minister?s post,? PDP added.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 19-03-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mufti sahib
+Key: Predicate.name, Value: s
+Key: Object.name, Value: death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?After Jaitely?s signal to PDP, Vohra defers Budget discussion?:(Kashmir Monitor/ English Daily)
+Key: Event.sentence, Value: Arun Jaitley?s?s statement, given on the floor of the parliament, was being seen as an olive branch to the PDP, with which the BJP was in alliance till former Chief Minister, Mufti Muhammad Sayeed?s death.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 16-03-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: former chief minister muhammad sayeed
+Key: Predicate.name, Value: s
+Key: Object.name, Value: death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily- 20.3.2016: ?Heavy rains lash Bandipora, 40 sheep dead?
+Key: Event.sentence, Value: Heavy rains lashed Bandipora causing death to over 40 sheep while damaging three houses and a vital bridge connecting many areas in the district.
+Key: Event.location, Value: 
+Key: Event.date, Value: 21-03-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bandipora
+Key: Predicate.name, Value: causing
+Key: Object.name, Value: death
+Key: Facet.name, Value: over 40 sheep and a vital bridge<ctx#1.19>
+**
+
+
+Key: Event.headline, Value: Editorial:  ?Governor Rule?:(Rising  Kashmir/English Daily )
+Key: Event.sentence, Value: As an administrator, Governor N.N. Vohra has obtained a distinction for Governor N.N. Vohra by filling the void that was created after Chief Minister Mufti Mohammad?s death.
+Key: Event.location, Value: 
+Key: Event.date, Value: 15-03-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: chief minister mufti mohammad
+Key: Predicate.name, Value: s
+Key: Object.name, Value: death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Yesterday once more? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: The spontaneous reaction to Burhan?s death has been beyond anybody?s imagination.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the spontaneous reaction to burhan
+Key: Predicate.name, Value: s
+Key: Object.name, Value: death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Jackboot doesn?t win? ? (English Daily ? Kashmir Reader)
+Key: Event.sentence, Value: Burhan?s death immortalized Burhan?s as Burhan?s merged with the idea of freedom from deceit, from indignity, from subjugation and shamelessness, from hegemony and from everything is not constituted of human spirit.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 12-07-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death
+Key: Predicate.name, Value: immortalized
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Jackboot doesn?t win? ? (English Daily ? Kashmir Reader)
+Key: Event.sentence, Value: Burhan?s death immortalized Burhan?s as Burhan?s merged with the idea of freedom from deceit, from indignity, from subjugation and shamelessness, from hegemony and from everything is not constituted of human spirit.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 12-07-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: burhan
+Key: Predicate.name, Value: s
+Key: Object.name, Value: death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Editorial: ?Who was he??:(Uqab/Urdu Daily)
+Key: Event.sentence, Value: This way, like so many others, death gave everything which death life could not give to death.
+Key: Event.location, Value: Pakistan;Kashmir
+Key: Event.date, Value: 10-02-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death
+Key: Predicate.name, Value: gave
+Key: Object.name, Value: everything
+Key: Facet.name, Value: like so many others
+**
+
+
+Key: Event.headline, Value: Editorial: ?All routes have been closed?:(Uqab/Urdu Daily)
+Key: Event.sentence, Value: After Sheikh Muhammad Abdullah?s death, the National Conference government, headed by Sheikh Muhammad Abdullah was dislodged undemocratically, as was done earlier with Sheikh Muhammad Abdullah in 1953.
+Key: Event.location, Value: New Delhi
+Key: Event.date, Value: 13-02-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: sheikh muhammad abdullah
+Key: Predicate.name, Value: s
+Key: Object.name, Value: death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Siachen Glacier survivor?s condition worsens?:(Kashmir Times/English Daily)
+Key: Event.sentence, Value: Siachen brave-heart, who defied death for six days buried under snow, has deteriorated further, the Army Hospital said, even as a team of experts from AIIMS joined the military doctors in the military doctors bid to save he soldier?s life.
+Key: Event.location, Value: 
+Key: Event.date, Value: 11-02-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: defied
+Key: Object.name, Value: death
+Key: Facet.name, Value: six days<ctx#1.10>
+**
+
+
+Key: Event.headline, Value: ?Siachen Glacier survivor?s condition worsens?:(Kashmir Times/English Daily)
+Key: Event.sentence, Value: Siachen brave-heart, who defied death for six days buried under snow, has deteriorated further, the Army Hospital said, even as a team of experts from AIIMS joined the military doctors in the military doctors bid to save he soldier?s life.
+Key: Event.location, Value: 
+Key: Event.date, Value: 11-02-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: defied
+Key: Object.name, Value: death
+Key: Facet.name, Value: siachen brave-heart
+**
+
+
+Key: Event.headline, Value: ?Call for UN Session? ? by Z.G. Muhammad ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: In scores of towns, hundreds of villages and desolate hamlets the dance death are being enacted rapturously by troops with impunity.
+Key: Event.location, Value: New Delhi;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death
+Key: Predicate.name, Value: are being enacted
+Key: Object.name, Value: rapturously
+Key: Facet.name, Value: in scores of towns hundreds of villages and desolate hamlets
+**
+
+
+Key: Event.headline, Value: ?Call for UN Session? ? by Z.G. Muhammad ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: In scores of towns, hundreds of villages and desolate hamlets the dance death are being enacted rapturously by troops with impunity.
+Key: Event.location, Value: New Delhi;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death
+Key: Predicate.name, Value: are being enacted
+Key: Object.name, Value: rapturously
+Key: Facet.name, Value: troops with impunity
+**
+
+
+Key: Event.headline, Value: ?August 9,1953: When Sheikh?s arrest changed Kashmir 	for ever?-  	( English Daily- Greater Kashmir)
+Key: Event.sentence, Value: However, Sheikh Muhammad Abdullah colleague and Member Constituent Assembly, Abdul Gani Goni, narrated an entirely different storey in an interview with local English Daily ?Greater Kashmir? some time before Sheikh Muhammad Abdullah death last year.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: sheikh muhammad abdullah death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: sheikh muhammad abdullah colleague and member constituent assembly
+Key: Predicate.name, Value: narrated
+Key: Object.name, Value: an entirely different storey
+Key: Facet.name, Value: last year
+**
+
+
+Key: Event.headline, Value: ?August 9,1953: When Sheikh?s arrest changed Kashmir 	for ever?-  	( English Daily- Greater Kashmir)
+Key: Event.sentence, Value: However, Sheikh Muhammad Abdullah colleague and Member Constituent Assembly, Abdul Gani Goni, narrated an entirely different storey in an interview with local English Daily ?Greater Kashmir? some time before Sheikh Muhammad Abdullah death last year.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: sheikh muhammad abdullah death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: sheikh muhammad abdullah colleague and member constituent assembly
+Key: Predicate.name, Value: narrated
+Key: Object.name, Value: an entirely different storey
+Key: Facet.name, Value: sheikh muhammad abdullah death
+**
+
+
+Key: Event.headline, Value: ?August 9,1953: When Sheikh?s arrest changed Kashmir 	for ever?-  	( English Daily- Greater Kashmir)
+Key: Event.sentence, Value: However, Sheikh Muhammad Abdullah colleague and Member Constituent Assembly, Abdul Gani Goni, narrated an entirely different storey in an interview with local English Daily ?Greater Kashmir? some time before Sheikh Muhammad Abdullah death last year.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: sheikh muhammad abdullah death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: sheikh muhammad abdullah colleague and member constituent assembly
+Key: Predicate.name, Value: narrated
+Key: Object.name, Value: an entirely different storey
+Key: Facet.name, Value: however
+**
+
+
+Key: Event.headline, Value: ?August 9,1953: When Sheikh?s arrest changed Kashmir 	for ever?-  	( English Daily- Greater Kashmir)
+Key: Event.sentence, Value: However, Sheikh Muhammad Abdullah colleague and Member Constituent Assembly, Abdul Gani Goni, narrated an entirely different storey in an interview with local English Daily ?Greater Kashmir? some time before Sheikh Muhammad Abdullah death last year.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: sheikh muhammad abdullah death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: sheikh muhammad abdullah colleague and member constituent assembly
+Key: Predicate.name, Value: narrated
+Key: Object.name, Value: an entirely different storey
+Key: Facet.name, Value: an interview with local english daily greater kashmir some time
+**
+
+
+Key: Event.headline, Value: ?Move beyond rhetoric?  - (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: The visit is deemed as part of Central Government?s efforts to bring peace in Kashmir Valley which has been on boil since the death if HM commander, Burhan Wani.
+Key: Event.location, Value: Kashmir Valley
+Key: Event.date, Value: 31-08-2016
+Key: Node.name, Value: the death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: on boil since the death if hm commander
+Key: Facet.name, Value: hm commander
+**
+
+
+Key: Event.headline, Value: ?Move beyond rhetoric?  - (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: The visit is deemed as part of Central Government?s efforts to bring peace in Kashmir Valley which has been on boil since the death if HM commander, Burhan Wani.
+Key: Event.location, Value: Kashmir Valley
+Key: Event.date, Value: 31-08-2016
+Key: Node.name, Value: the death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: on boil since the death if hm commander
+Key: Facet.name, Value: the death
+**
+
+
+Key: Event.headline, Value: ?Non- Lethal pellets kill at ? least 6 in 50 days, Fatal perforations in 19 -  year old Amir?s Heart, Lungs: Doctors? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: With the death of Pulwama youth Amir Gul Mir, the number of youth losing their life to pellets in the past 50 days of unrest has risen to six.
+Key: Event.location, Value: Pulwama
+Key: Event.date, Value: 29-08-2016
+Key: Node.name, Value: with the death of pulwama youth amir gul
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the number of youth
+Key: Predicate.name, Value: has risen
+Key: Object.name, Value: to six
+Key: Facet.name, Value: with the death of pulwama youth amir gul
+**
+
+
+Key: Event.headline, Value: ?Signs of the times; Demonetization: The strategy has already backfired? ? by Humra Qureshi (Delhi-based free lance journalist) ? (English Daily ? Kashmir Times)
+Key: Event.sentence, Value: Demonetization is nothing but death for the labourers and daily wagers.
+Key: Event.location, Value: 
+Key: Event.date, Value: 15-12-2016
+Key: Node.name, Value: death for the labourers and daily wagers
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: demonetization
+Key: Predicate.name, Value: is
+Key: Object.name, Value: nothing but death for the labourers and daily wagers
+Key: Facet.name, Value: death for the labourers and daily wagers
+**
+
+
+Key: Event.headline, Value: Pulwama  shuts on Omais?s death anniversary ? (English Dailies ? Greater Kashmir/ Kashmir Times- Urdu Dailies- Srinagar Times/ Aftab/ Kashmir Uzma)
+Key: Event.sentence, Value: South Kashmir?s Pulwama town observed a complete shutdown on Sunday (December 25) to mark the first death anniversary of a local militant, Omais Sheikh, who was killed last year on the same day at Ajas district Bandipora in North Kashmir in a gunfight with forces.
+Key: Event.location, Value: South Kashmir;Pulwama;Bandipora;North Kashmir
+Key: Event.date, Value: 26-12-2016
+Key: Node.name, Value: the first death anniversary of a local militant sheikh
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: town
+Key: Predicate.name, Value: mark
+Key: Object.name, Value: the first death anniversary of a local militant sheikh
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Farooq?s Naseem Bagh speech? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: At the death anniversary event at Sheikh Muhammad Abdullah at Naseem Bagh (Srinagar), National Conference (NC) President, Dr Farooq Abdullah has ignited a political storm in the State by asking National Conference (NC) President, Dr Farooq Abdullah party to follow the programmes of the larger political movement and by expressing National Conference (NC) President, Dr Farooq Abdullah willingness of working with the united Hurriyat Conference towards a resolution of the Jammu and Kashmir issue.
+Key: Event.location, Value: Srinagar;Jammu;Kashmir
+Key: Event.date, Value: 07-12-2016
+Key: Node.name, Value: at the death anniversary event at sheikh muhammad abdullah at naseem bagh
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dr farooq abdullah
+Key: Predicate.name, Value: has ignited
+Key: Object.name, Value: a political storm in the state
+Key: Facet.name, Value: at the death anniversary event at sheikh muhammad abdullah at naseem bagh
+**
+
+
+Key: Event.headline, Value: ?Farooq?s Naseem Bagh speech? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: At the death anniversary event at Sheikh Muhammad Abdullah at Naseem Bagh (Srinagar), National Conference (NC) President, Dr Farooq Abdullah has ignited a political storm in the State by asking National Conference (NC) President, Dr Farooq Abdullah party to follow the programmes of the larger political movement and by expressing National Conference (NC) President, Dr Farooq Abdullah willingness of working with the united Hurriyat Conference towards a resolution of the Jammu and Kashmir issue.
+Key: Event.location, Value: Srinagar;Jammu;Kashmir
+Key: Event.date, Value: 07-12-2016
+Key: Node.name, Value: at the death anniversary event at sheikh muhammad abdullah at naseem bagh
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dr farooq abdullah
+Key: Predicate.name, Value: has ignited
+Key: Object.name, Value: a political storm in the state
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 2016 unrest: Not even one probe into killings completed ? (English Daily ? Greater Kashmir )
+Key: Event.sentence, Value: Not a single inquiry ordered into civilian killings in the five months long unrest in Kashmir has been completed even as probes ordered only in five such deaths.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-12-2016
+Key: Node.name, Value: five such deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: ordered
+Key: Object.name, Value: only
+Key: Facet.name, Value: five such deaths
+**
+
+
+Key: Event.headline, Value: 2016 unrest: Not even one probe into killings completed ? (English Daily ? Greater Kashmir )
+Key: Event.sentence, Value: However, till date not a single probe has been completed, raising questions on the the Government?s seriousness to know the truth about five such deaths and punish the forces involved.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-12-2016
+Key: Node.name, Value: such deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: such deaths
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the truth about five
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: pakistan
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: the death of 42 persons in an air crash
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: pakistan
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: the death of 42 persons in an air crash
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: pakistan
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: the death of 42 persons in an air crash
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: pakistan
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: the death of 42 persons in an air crash
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: pakistan
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: the death of 42 persons in an air crash
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: pakistan
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: the death of 42 persons in an air crash
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: the bar
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: pakistan
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: the death of 42 persons in an air crash
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: pakistan
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: the death of 42 persons in an air crash
+**
+
+
+Key: Event.headline, Value: HCBA sought probe into killing of militants at Arwani, Anantnag ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, the Bar Spokesman said, ?The armed forces fired bullets and pellets against the unarmed civilians, who were protesting against the killing of militants, injuring over 30 persons.? Meanwhile, the Bar Spokesman expressed grief and sorrow over the death of 42 persons in an air crash in Pakistan.
+Key: Event.location, Value: Pakistan
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: the death of 42 persons in an air crash
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the bar spokesman
+Key: Predicate.name, Value: expressed
+Key: Object.name, Value: and grief sorrow
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: 2016 ? A year of turmoil for J&K ? (English Dailies ? Rising Kashmir/ Kashmir Images- Urdu Dailies- Uqab/ Tameel-i- Irshad)
+Key: Event.sentence, Value: As the news of his death spread, there was an unprecedented outpour of outrage on the streets of the Valley.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 27-12-2016
+Key: Node.name, Value: as the news of his death spread
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an unprecedented outpour of outrage
+Key: Predicate.name, Value: was
+Key: Object.name, Value: on the streets of the valley
+Key: Facet.name, Value: as the news of his death spread
+**
+
+
+Key: Event.headline, Value: Article by Muhammad Hussain Altaf: ?Late Maqbool Butt?.:(Kashmir Uzma/Urdu Daily) 
+Key: Event.sentence, Value: With this announcement, late Maqbool Butt took up arms and entered into Kashmir where late Maqbool Butt was arrested and lodged in the death cell of Tihar Jail, New Delhi, where late Maqbool Butt remained for 12 years and faced worst type of torture.
+Key: Event.location, Value: Kashmir;Tihar Jail;New Delhi
+Key: Event.date, Value: 11-02-2016
+Key: Node.name, Value: the death cell of tihar jail<ctx#1.38>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: maqbool butt
+Key: Predicate.name, Value: was arrested
+Key: Object.name, Value: null
+Key: Facet.name, Value: the death cell of tihar jail<ctx#1.38>
+**
+
+
+Key: Event.headline, Value: Article by Muhammad Hussain Altaf: ?Late Maqbool Butt?.:(Kashmir Uzma/Urdu Daily) 
+Key: Event.sentence, Value: With this announcement, late Maqbool Butt took up arms and entered into Kashmir where late Maqbool Butt was arrested and lodged in the death cell of Tihar Jail, New Delhi, where late Maqbool Butt remained for 12 years and faced worst type of torture.
+Key: Event.location, Value: Kashmir;Tihar Jail;New Delhi
+Key: Event.date, Value: 11-02-2016
+Key: Node.name, Value: the death cell of tihar jail<ctx#1.38>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: maqbool butt
+Key: Predicate.name, Value: was arrested
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Decision of Mehbooba Ji is not wrong?:(Uqab/Urdu Daily ? 8.2.2016)
+Key: Event.sentence, Value: After the death of former Chief Minister, nobody could guess that government formation would prolong, because no difference was visible between the two parties on fundamental issues which would have created hurdles in government formation.
+Key: Event.location, Value: 
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: nobody
+Key: Predicate.name, Value: could guess
+Key: Object.name, Value: that government formation
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Decision of Mehbooba Ji is not wrong?:(Uqab/Urdu Daily ? 8.2.2016)
+Key: Event.sentence, Value: After the death of former Chief Minister, nobody could guess that government formation would prolong, because no difference was visible between the two parties on fundamental issues which would have created hurdles in government formation.
+Key: Event.location, Value: 
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: nobody
+Key: Predicate.name, Value: could guess
+Key: Object.name, Value: that government formation
+Key: Facet.name, Value: after the death of former chief minister
+**
+
+
+Key: Event.headline, Value: Editorial:  ?Government wilfulness and people?s compulsions?:(Uqab/Urdu Daily)
+Key: Event.sentence, Value: After the death of former Chief Minister, Mufti Muhammad Sayeed, the matter remained unsettled.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 20-02-2016
+Key: Node.name, Value: after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the matter
+Key: Predicate.name, Value: remained
+Key: Object.name, Value: unsettled
+Key: Facet.name, Value: after the death of former chief minister
+**
+
+
+Key: Event.headline, Value: ?Admission of reality?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: After the death of former Chief Minister, Mufti Muhammad Sayeed, it is difficult to say how long Governor?s Rule is going to continue in the State, as political games being played at present appear directionless.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 02-02-2016
+Key: Node.name, Value: after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: it
+Key: Predicate.name, Value: is
+Key: Object.name, Value: after the death of former chief minister difficult
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Admission of reality?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: After the death of former Chief Minister, Mufti Muhammad Sayeed, it is difficult to say how long Governor?s Rule is going to continue in the State, as political games being played at present appear directionless.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 02-02-2016
+Key: Node.name, Value: after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: it
+Key: Predicate.name, Value: is
+Key: Object.name, Value: after the death of former chief minister difficult
+Key: Facet.name, Value: after the death of former chief minister
+**
+
+
+Key: Event.headline, Value: ?Admission of reality?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: After the death of former Chief Minister, Mufti Muhammad Sayeed, it is difficult to say how long Governor?s Rule is going to continue in the State, as political games being played at present appear directionless.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 02-02-2016
+Key: Node.name, Value: after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: it
+Key: Predicate.name, Value: is
+Key: Object.name, Value: after the death of former chief minister difficult
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?PDP Legislature party meeting. Legislature Mehbooba spills the beans. Sought assurance from Delhi on Agenda of Alliance?:(Greater Kashmir/Kashmir Times/Kashmir Images/Kashmir Monitor/English Dailies ? Aftab/Kashmir Uzma/Uqab/Urdu Dailies)
+Key: Event.sentence, Value: Mehbooba Mufti also revealed that BJP?s General Secretary, Ram Madhav visited Mehbooba Mufti to condole Sayeed?s death.
+Key: Event.location, Value: New Delhi;Mehbooba Mufti Srinagar;Srinagar
+Key: Event.date, Value: 02-02-2016
+Key: Node.name, Value: s death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: s death
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: sayeed
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?J&K with JNU.  Kashmir Valley, parts of Jammu division observe strike in solidarity with Jawaharlal Nehru University students, SAR Geelani?:(Greater Kashmir/Rising Kashmir/Kashmir Times/Kashmir Images/English Dailies ?Srinagar Times/Kashmir Uzma/Urdu Dailies - 28.2.2016)
+Key: Event.sentence, Value: Complete shutdown was observed across Kashmir Valley and parts of Kashmir Valley in Jammu division to express solidarity with the students of Jawaharlal Nehru University (JNU), New Delhi which had been at the centre of a controversy over an event to remember Afzal Guru on Afzal Guru third death anniversary.
+Key: Event.location, Value: Kashmir Valley;Jammu;New Delhi
+Key: Event.date, Value: 29-02-2016
+Key: Node.name, Value: death anniversary
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death anniversary
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: afzal guru on afzal guru third
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?J&K with JNU.  Kashmir Valley, parts of Jammu division observe strike in solidarity with Jawaharlal Nehru University students, SAR Geelani?:(Greater Kashmir/Rising Kashmir/Kashmir Times/Kashmir Images/English Dailies ?Srinagar Times/Kashmir Uzma/Urdu Dailies - 28.2.2016)
+Key: Event.sentence, Value: Complete shutdown was observed across Kashmir Valley and parts of Kashmir Valley in Jammu division to express solidarity with the students of Jawaharlal Nehru University (JNU), New Delhi which had been at the centre of a controversy over an event to remember Afzal Guru on Afzal Guru third death anniversary.
+Key: Event.location, Value: Kashmir Valley;Jammu;New Delhi
+Key: Event.date, Value: 28-02-2016
+Key: Node.name, Value: death anniversary
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death anniversary
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: afzal guru on afzal guru third
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Rising Kashmir/Kashmir Times/English Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Urdu Dailies: ?JNU student clash over Afzal Guru event? 
+Key: Event.sentence, Value: Students of the Jawaharlal Nehru University (JNU) in New Delhi clashed over an event organized on February 9, 2016 on the Parliament attack convict Afzal Guru?s death anniversary.
+Key: Event.location, Value: New Delhi
+Key: Event.date, Value: 09-02-2016
+Key: Node.name, Value: death anniversary
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: afzal guru
+Key: Predicate.name, Value: s
+Key: Object.name, Value: death anniversary
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Article by Abdul Rafiya Rasool: ?Speaking truth is treachery?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: A case has been registered against the President of Student?s Union of Jawaharlal University for holding a function on February 9, 2016 to commemorate Muhammad Afzal Guru on Muhammad Afzal Guru death anniversary.
+Key: Event.location, Value: 
+Key: Event.date, Value: 09-02-2016
+Key: Node.name, Value: death anniversary
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death anniversary
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: muhammad afzal guru on muhammad afzal guru
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?In spite of AFSPA?:(Greater Kashmir /English  Daily)
+Key: Event.sentence, Value: Encounter deaths by the Police has become too common.
+Key: Event.location, Value: AFSPA
+Key: Event.date, Value: 25-02-2016
+Key: Node.name, Value: encounter deaths by the police
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: encounter deaths by the police
+Key: Predicate.name, Value: has become
+Key: Object.name, Value: too common
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Editorial:  ?Government formation ?.Now cards should be opened?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: No doubt that death of Mufti Muhammad Sayeed has created a void in mainstream politics of the State, but depriving people from a democratically elected government is in no way proper.
+Key: Event.location, Value: 
+Key: Event.date, Value: 09-02-2016
+Key: Node.name, Value: death of mufti muhammad sayeed
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death of mufti muhammad sayeed
+Key: Predicate.name, Value: has created
+Key: Object.name, Value: a void politics of the state
+Key: Facet.name, Value: that
+**
+
+
+Key: Event.headline, Value: Kashmir Images/Kashmir Monitor/English Dailies ? Srinagar Times/Aftab/Uqab/Urdu Dailies:  ?Magisterial probe in Lelhar incident?
+Key: Event.sentence, Value: The Inquiry Officer for magisterial probe into the death of two civilians in alleged firing by government forces in Pulwama on February 14, 2016 asked the witnesses to record the witnesses statement within six days.
+Key: Event.location, Value: Pulwama
+Key: Event.date, Value: 16-02-2016
+Key: Node.name, Value: the inquiry officer for magisterial probe into the death of two civilians in alleged firing by government forces in pulwama on february 14 2016
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the inquiry officer for magisterial probe into the death of two civilians in alleged firing by government forces in pulwama on february 14 2016
+Key: Predicate.name, Value: asked
+Key: Object.name, Value: the witnesses
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Ram Madhav arriving today for talks on J&K govt formation?:(Kashmir Times/English Daily ? Aftab/Urdu Daily ? 14.02.2016)	
+Key: Event.sentence, Value: BJP General Secretary, Ram Madhav is expected in Srinagar on February 14, 2016 for talks with the PDP President to break the impasse over formation of government in Jammu and Kashmir following the death of Mufti Muhammad Sayeed.
+Key: Event.location, Value: Srinagar;Jammu;Kashmir
+Key: Event.date, Value: 14-02-2016
+Key: Node.name, Value: the death of mufti muhammad sayeed
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bjp general secretary
+Key: Predicate.name, Value: break
+Key: Object.name, Value: the impasse over formation of government in jammu and kashmir
+Key: Facet.name, Value: the death of mufti muhammad sayeed
+**
+
+
+Key: Event.headline, Value: ?Ram Madhav arriving today for talks on J&K govt formation?:(Kashmir Times/English Daily ? Aftab/Urdu Daily ? 14.02.2016)	
+Key: Event.sentence, Value: BJP General Secretary, Ram Madhav is expected in Srinagar on February 14, 2016 for talks with the PDP President to break the impasse over formation of government in Jammu and Kashmir following the death of Mufti Muhammad Sayeed.
+Key: Event.location, Value: Srinagar;Jammu;Kashmir
+Key: Event.date, Value: 14-02-2016
+Key: Node.name, Value: the death of mufti muhammad sayeed
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bjp general secretary
+Key: Predicate.name, Value: break
+Key: Object.name, Value: the impasse over formation of government in jammu and kashmir
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Rising Kashmir/Kashmir Times/English Dailies ?Aftab/Kashmir Uzma/Urdu Dailies - 14.02.2016;: ?Give Mehbooba more time: Farooq?
+Key: Event.sentence, Value: National Conference President, Dr. Farooq Abdullah said that PDP Chief should be given more time to decide on government formation in Jammu and Kashmir, which is currently under Governor?s rule following the death of Dr. Farooq Abdullah father, Mufti Muhammad Sayeed.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 14-02-2016
+Key: Node.name, Value: the death of dr. farooq abdullah father
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: national conference president
+Key: Predicate.name, Value: s
+Key: Object.name, Value: rule following the death of dr. farooq abdullah father
+Key: Facet.name, Value: the death of dr. farooq abdullah father
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Kashmir Images/English Dailies ? Aftab/Kashmir Uzma/Urdu Dailies: ?NC pays tributes to Sheikh Nazir on his 1st death anniversary?
+Key: Event.sentence, Value: National Conference (NC) paid flowing tributes to various NC leaders and former General Secretary, Advocate Sheikh Nazir Ahmed on various NC leaders and former General Secretary, Advocate Sheikh Nazir Ahmed first death anniversary.
+Key: Event.location, Value: NC
+Key: Event.date, Value: 24-02-2016
+Key: Node.name, Value: first death anniversary
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: national conference
+Key: Predicate.name, Value: paid
+Key: Object.name, Value: flowing tributes
+Key: Facet.name, Value: first death anniversary
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Kashmir Images/English Dailies ? Aftab/Kashmir Uzma/Urdu Dailies: ?NC pays tributes to Sheikh Nazir on his 1st death anniversary?
+Key: Event.sentence, Value: National Conference (NC) paid flowing tributes to various NC leaders and former General Secretary, Advocate Sheikh Nazir Ahmed on various NC leaders and former General Secretary, Advocate Sheikh Nazir Ahmed first death anniversary.
+Key: Event.location, Value: NC
+Key: Event.date, Value: 24-02-2016
+Key: Node.name, Value: first death anniversary
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: national conference
+Key: Predicate.name, Value: paid
+Key: Object.name, Value: flowing tributes
+Key: Facet.name, Value: various nc leaders and former general secretary advocate sheikh nazir ahmed on various nc leaders and former general secretary
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Kashmir Images/English Dailies ? Aftab/Kashmir Uzma/Urdu Dailies: ?NC pays tributes to Sheikh Nazir on his 1st death anniversary?
+Key: Event.sentence, Value: Omar Abdullah, Omar Abdullah highlighted Sheikh Nazir?s unparalleled contribution to the party and termed Sheikh Nazir as a statesman who stood in defense of Sheikh Nazir principle till Sheikh Nazir death.
+Key: Event.location, Value: NC
+Key: Event.date, Value: 24-02-2016
+Key: Node.name, Value: sheikh nazir death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: stood
+Key: Object.name, Value: in defense of sheikh nazir principle
+Key: Facet.name, Value: sheikh nazir death
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Kashmir Images/English Dailies ? Aftab/Kashmir Uzma/Urdu Dailies: ?NC pays tributes to Sheikh Nazir on his 1st death anniversary?
+Key: Event.sentence, Value: Omar Abdullah, Omar Abdullah highlighted Sheikh Nazir?s unparalleled contribution to the party and termed Sheikh Nazir as a statesman who stood in defense of Sheikh Nazir principle till Sheikh Nazir death.
+Key: Event.location, Value: NC
+Key: Event.date, Value: 24-02-2016
+Key: Node.name, Value: sheikh nazir death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: stood
+Key: Object.name, Value: in defense of sheikh nazir principle
+Key: Facet.name, Value: sheikh nazir as a statesman
+**
+
+
+Key: Event.headline, Value: Article by Shujaat Bukhari: ?JNU crackdown:  More than what meets the eye?:(Rising Kashmir/English Daily)
+Key: Event.sentence, Value: This year when the students at JNU gathered to organize an event that was organized to commemorate the death anniversary of Afzal Guru, who was executed in Tihar Jail three years back and discuss whether Guru was given a fair trial, This year also witnessed anti-India sloganeering.
+Key: Event.location, Value: Tihar Jail
+Key: Event.date, Value: 17-02-2016
+Key: Node.name, Value: the death anniversary of afzal guru
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an event
+Key: Predicate.name, Value: commemorate
+Key: Object.name, Value: the death anniversary of afzal guru
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Article by Shujaat Bukhari: ?JNU crackdown:  More than what meets the eye?:(Rising Kashmir/English Daily)
+Key: Event.sentence, Value: For the past one week, the BJP-led government and the students as well as teachers of prestigious Jawaharlal Nehru University (JNU) have locked horns over an event that was organized to commemorate the death anniversary of Afzal Guru, who was executed in Tihar Jail three years back.
+Key: Event.location, Value: Tihar Jail
+Key: Event.date, Value: 17-02-2016
+Key: Node.name, Value: the death anniversary of afzal guru
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: commemorate
+Key: Object.name, Value: the death anniversary of afzal guru
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Kashmir shuts in memory of Maqbool Butt?s hanging. Rallies in Pak, London?:(Greater Kashmir/Rising Kashmir/Kashmir Times/English Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Uqab/Urdu Dailies)
+Key: Event.sentence, Value: Complete shutdown was observed across Kashmir on February 11 to commemorated 32nd death anniversary of one of the pioneers of Kashmir separatist movement and J&K Liberation (JKLF) founder, Muhammad Maqbool Butt.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 12-02-2016
+Key: Node.name, Value: commemorated 32nd death anniversary of one of the pioneers of kashmir separatist movement and j&k liberation founder
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: complete shutdown
+Key: Predicate.name, Value: was observed
+Key: Object.name, Value: across kashmir on february 11
+Key: Facet.name, Value: commemorated 32nd death anniversary of one of the pioneers of kashmir separatist movement and j&k liberation founder
+**
+
+
+Key: Event.headline, Value: Editorial: ?The blood and inquiry commission?: (Srinagar Times/Urdu Daily)
+Key: Event.sentence, Value: Protests held in Kashmir Valley after the encounter between militants and paramilitary forces in Pulwama and death of two civilians during public protests, was not the first of its kind.
+Key: Event.location, Value: Kashmir Valley;Pulwama
+Key: Event.date, Value: 16-02-2016
+Key: Node.name, Value: the encounter between militants and paramilitary forces in pulwama and death of two civilians
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: protests
+Key: Predicate.name, Value: held
+Key: Object.name, Value: in kashmir valley
+Key: Facet.name, Value: public protests
+**
+
+
+Key: Event.headline, Value: Editorial: ?The blood and inquiry commission?: (Srinagar Times/Urdu Daily)
+Key: Event.sentence, Value: Protests held in Kashmir Valley after the encounter between militants and paramilitary forces in Pulwama and death of two civilians during public protests, was not the first of its kind.
+Key: Event.location, Value: Kashmir Valley;Pulwama
+Key: Event.date, Value: 16-02-2016
+Key: Node.name, Value: the encounter between militants and paramilitary forces in pulwama and death of two civilians
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: protests
+Key: Predicate.name, Value: held
+Key: Object.name, Value: in kashmir valley
+Key: Facet.name, Value: the encounter between militants and paramilitary forces in pulwama and death of two civilians
+**
+
+
+Key: Event.headline, Value: Editorial: ?Indiscriminate arrests should be stopped?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: This time, the same thing happened in JNU and Press Club, Delhi where symbolic functions were organised in connection with the third death anniversary of Muhammad Afzal Guru.
+Key: Event.location, Value: Delhi
+Key: Event.date, Value: 24-02-2016
+Key: Node.name, Value: the third death anniversary of muhammad afzal guru
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: symbolic functions
+Key: Predicate.name, Value: were organised
+Key: Object.name, Value: in connection
+Key: Facet.name, Value: the third death anniversary of muhammad afzal guru
+**
+
+
+Key: Event.headline, Value: Editorial: ?Indiscriminate arrests should be stopped?:(Kashmir Uzma/Urdu Daily)
+Key: Event.sentence, Value: This time, the same thing happened in JNU and Press Club, Delhi where symbolic functions were organised in connection with the third death anniversary of Muhammad Afzal Guru.
+Key: Event.location, Value: Delhi
+Key: Event.date, Value: 24-02-2016
+Key: Node.name, Value: the third death anniversary of muhammad afzal guru
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: symbolic functions
+Key: Predicate.name, Value: were organised
+Key: Object.name, Value: in connection
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Govt to impose curbs on Afzal?s death anniversary?. Police cracks down on Geelani?s Hurriyat. ?Legal means open to seek Afzal?s mortal remains: legal expert?. ?At least return belongings of my father to me: Ghalib to GOI?:(Rising Kashmir/Kashmir Times/English Dailies ? Aftab/Uqab/Urdu Dailies)
+Key: Event.sentence, Value: Authorities have decided to impose restrictions across Kashmir Valley on February 9 on the third death anniversary of Muhammad Afzal Guru.
+Key: Event.location, Value: Kashmir Valley
+Key: Event.date, Value: 09-02-2016
+Key: Node.name, Value: the third death anniversary of muhammad afzal guru
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: authorities
+Key: Predicate.name, Value: impose
+Key: Object.name, Value: restrictions
+Key: Facet.name, Value: the third death anniversary of muhammad afzal guru
+**
+
+
+Key: Event.headline, Value: ?Govt to impose curbs on Afzal?s death anniversary?. Police cracks down on Geelani?s Hurriyat. ?Legal means open to seek Afzal?s mortal remains: legal expert?. ?At least return belongings of my father to me: Ghalib to GOI?:(Rising Kashmir/Kashmir Times/English Dailies ? Aftab/Uqab/Urdu Dailies)
+Key: Event.sentence, Value: Authorities have decided to impose restrictions across Kashmir Valley on February 9 on the third death anniversary of Muhammad Afzal Guru.
+Key: Event.location, Value: Kashmir Valley
+Key: Event.date, Value: 09-02-2016
+Key: Node.name, Value: the third death anniversary of muhammad afzal guru
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: authorities
+Key: Predicate.name, Value: impose
+Key: Object.name, Value: restrictions
+Key: Facet.name, Value: kashmir valley on february 9
+**
+
+
+Key: Event.headline, Value: Srinagar Times/Urdu Daily: ?PDP?s letter to the Governor -  Muzaffar Beig mentioned, but did not hand over it to the Governor?
+Key: Event.sentence, Value: In reply to a RTI application, the Union Home Ministry revealed that immediately after the death of former Chief Minister, Mufti Muhammad Sayeed, a senior leader of Peoples Democratic Party (PDP), Muzaffar Hussain Beig, during an emergency meeting, informed the Governor, J&K about selection of Mehbooba Mufti as new Chief Minister of the State.
+Key: Event.location, Value: India
+Key: Event.date, Value: 12-02-2016
+Key: Node.name, Value: immediately after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mufti muhammad sayeed
+Key: Predicate.name, Value: informed
+Key: Object.name, Value: the governor
+Key: Facet.name, Value: immediately after the death of former chief minister
+**
+
+
+Key: Event.headline, Value: Srinagar Times/Urdu Daily: ?PDP?s letter to the Governor -  Muzaffar Beig mentioned, but did not hand over it to the Governor?
+Key: Event.sentence, Value: In reply to a RTI application, the Union Home Ministry revealed that immediately after the death of former Chief Minister, Mufti Muhammad Sayeed, a senior leader of Peoples Democratic Party (PDP), Muzaffar Hussain Beig, during an emergency meeting, informed the Governor, J&K about selection of Mehbooba Mufti as new Chief Minister of the State.
+Key: Event.location, Value: India
+Key: Event.date, Value: 12-02-2016
+Key: Node.name, Value: immediately after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mufti muhammad sayeed
+Key: Predicate.name, Value: informed
+Key: Object.name, Value: the governor
+Key: Facet.name, Value: new chief minister of the state
+**
+
+
+Key: Event.headline, Value: ?Govt to impose curbs on Afzal?s death anniversary?. Police cracks down on Geelani?s Hurriyat. ?Legal means open to seek Afzal?s mortal remains: legal expert?. ?At least return belongings of my father to me: Ghalib to GOI?:(Rising Kashmir/Kashmir Times/English Dailies ? Aftab/Uqab/Urdu Dailies)
+Key: Event.sentence, Value: Highly placed sources said that all the District Magistrates had been asked to impose restrictions under Section 144 of RPC, which restricts assembly of four or more people to prevent protest demonstrations and rallies on the death anniversary of Afzal Guru in Municipal limits of all Tehsils of Kashmir.
+Key: Event.location, Value: District Magistrates;Kashmir
+Key: Event.date, Value: 09-02-2016
+Key: Node.name, Value: the death anniversary of afzal guru in municipal limits of all tehsils of kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the district magistrates
+Key: Predicate.name, Value: prevent
+Key: Object.name, Value: and protest demonstrations rallies
+Key: Facet.name, Value: the death anniversary of afzal guru in municipal limits of all tehsils of kashmir
+**
+
+
+Key: Event.headline, Value: Article by Prof. Farooq Fayaz: ? Confidence Building Measures: Condition or  a Necessity::(Rising Kashmir/English Daily ? 7.2.2016)
+Key: Event.sentence, Value: The political claim in Jammu and Kashmir after the death of Mufti Muhammad Sayeed could best be equated with a literary expression known as ?Theatre of Absurd?.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: the political claim in jammu and kashmir after the death of mufti muhammad sayeed
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the political claim in jammu and kashmir after the death of mufti muhammad sayeed
+Key: Predicate.name, Value: could be equated
+Key: Object.name, Value: with a literary expression
+Key: Facet.name, Value: best
+**
+
+
+Key: Event.headline, Value: ?Editorial: ?Who was he??:(Uqab/Urdu Daily)
+Key: Event.sentence, Value: This way, like so many others, death gave everything which death life could not give to death.
+Key: Event.location, Value: Pakistan;Kashmir
+Key: Event.date, Value: 10-02-2016
+Key: Node.name, Value: death life
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death life
+Key: Predicate.name, Value: could not give
+Key: Object.name, Value: to death
+Key: Facet.name, Value: everything
+**
+
+
+Key: Event.headline, Value: ?Editorial: ?Who was he??:(Uqab/Urdu Daily)
+Key: Event.sentence, Value: This way, like so many others, death gave everything which death life could not give to death.
+Key: Event.location, Value: Pakistan;Kashmir
+Key: Event.date, Value: 10-02-2016
+Key: Node.name, Value: death life
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death life
+Key: Predicate.name, Value: could not give
+Key: Object.name, Value: to death
+Key: Facet.name, Value: which
+**
+
+
+Key: Event.headline, Value: ?Why curfew and for how long?? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: The curfew imposed recently in Kashmir is condemnable as 12 people were killed in indiscriminate firing by paramilitary forces on three days and the death toll has been increasing on daily basis.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-07-2016
+Key: Node.name, Value: the death toll
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the death toll
+Key: Predicate.name, Value: has been increasing
+Key: Object.name, Value: on daily basis
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Mehbooba was aware of operation that killed Burhan: Police?- (English Daily? Kashmir  Reader)
+Key: Event.sentence, Value: This was stated by State?s Intelligence Chief, Shiv Murari Sahai at a press conference hurriedly convened to elaborate the State?s version on the dance of death that continued in Kashmir valley on July 9 during the unprecedented protests over the death of the militant leader in the 27 years of Kashmir?s armed insurgency.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: version on the dance of death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the state
+Key: Predicate.name, Value: s
+Key: Object.name, Value: version on the dance of death
+Key: Facet.name, Value: the dance of death
+**
+
+
+Key: Event.headline, Value: ?Mehbooba was aware of operation that killed Burhan: Police?- (English Daily? Kashmir  Reader)
+Key: Event.sentence, Value: This was stated by State?s Intelligence Chief, Shiv Murari Sahai at a press conference hurriedly convened to elaborate the State?s version on the dance of death that continued in Kashmir valley on July 9 during the unprecedented protests over the death of the militant leader in the 27 years of Kashmir?s armed insurgency.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: the dance of death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the state
+Key: Predicate.name, Value: s
+Key: Object.name, Value: version on the dance of death
+Key: Facet.name, Value: the dance of death
+**
+
+
+Key: Event.headline, Value: ?Mehbooba was aware of operation that killed Burhan: Police?- (English Daily? Kashmir  Reader)
+Key: Event.sentence, Value: This was stated by State?s Intelligence Chief, Shiv Murari Sahai at a press conference hurriedly convened to elaborate the State?s version on the dance of death that continued in Kashmir valley on July 9 during the unprecedented protests over the death of the militant leader in the 27 years of Kashmir?s armed insurgency.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: version on the dance of death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: in kashmir valley
+Key: Facet.name, Value: the unprecedented protests over the death of the militant leader in the 27 years of kashmir
+**
+
+
+Key: Event.headline, Value: ?Mehbooba was aware of operation that killed Burhan: Police?- (English Daily? Kashmir  Reader)
+Key: Event.sentence, Value: This was stated by State?s Intelligence Chief, Shiv Murari Sahai at a press conference hurriedly convened to elaborate the State?s version on the dance of death that continued in Kashmir valley on July 9 during the unprecedented protests over the death of the militant leader in the 27 years of Kashmir?s armed insurgency.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: version on the dance of death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: in kashmir valley
+Key: Facet.name, Value: version on the dance of death
+**
+
+
+Key: Event.headline, Value: ?Mehbooba was aware of operation that killed Burhan: Police?- (English Daily? Kashmir  Reader)
+Key: Event.sentence, Value: This was stated by State?s Intelligence Chief, Shiv Murari Sahai at a press conference hurriedly convened to elaborate the State?s version on the dance of death that continued in Kashmir valley on July 9 during the unprecedented protests over the death of the militant leader in the 27 years of Kashmir?s armed insurgency.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: version on the dance of death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: in kashmir valley
+Key: Facet.name, Value: july 9
+**
+
+
+Key: Event.headline, Value: ?Mehbooba was aware of operation that killed Burhan: Police?- (English Daily? Kashmir  Reader)
+Key: Event.sentence, Value: This was stated by State?s Intelligence Chief, Shiv Murari Sahai at a press conference hurriedly convened to elaborate the State?s version on the dance of death that continued in Kashmir valley on July 9 during the unprecedented protests over the death of the militant leader in the 27 years of Kashmir?s armed insurgency.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: the unprecedented protests over the death of the militant leader in the 27 years of kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: in kashmir valley
+Key: Facet.name, Value: the unprecedented protests over the death of the militant leader in the 27 years of kashmir
+**
+
+
+Key: Event.headline, Value: ?Mehbooba was aware of operation that killed Burhan: Police?- (English Daily? Kashmir  Reader)
+Key: Event.sentence, Value: This was stated by State?s Intelligence Chief, Shiv Murari Sahai at a press conference hurriedly convened to elaborate the State?s version on the dance of death that continued in Kashmir valley on July 9 during the unprecedented protests over the death of the militant leader in the 27 years of Kashmir?s armed insurgency.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: the unprecedented protests over the death of the militant leader in the 27 years of kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: in kashmir valley
+Key: Facet.name, Value: version on the dance of death
+**
+
+
+Key: Event.headline, Value: ?Mehbooba was aware of operation that killed Burhan: Police?- (English Daily? Kashmir  Reader)
+Key: Event.sentence, Value: This was stated by State?s Intelligence Chief, Shiv Murari Sahai at a press conference hurriedly convened to elaborate the State?s version on the dance of death that continued in Kashmir valley on July 9 during the unprecedented protests over the death of the militant leader in the 27 years of Kashmir?s armed insurgency.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: the unprecedented protests over the death of the militant leader in the 27 years of kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: in kashmir valley
+Key: Facet.name, Value: july 9
+**
+
+
+Key: Event.headline, Value: ?JK Police personnel on edge?  - (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: The three-week long curfew and restrictions in Kashmir which saw over 50 civilian deaths and thousands injured, was now taking a toll on those who had been given the job to implement curbs.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-07-2016
+Key: Node.name, Value: over 50 civilian deaths and thousands
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: saw
+Key: Object.name, Value: over 50 civilian deaths and thousands
+Key: Facet.name, Value: restrictions in kashmir
+**
+
+
+Key: Event.headline, Value: ?Grave Concern? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: The death toll and the number of the injured is on increase as the clock hands tick on.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 12-07-2016
+Key: Node.name, Value: the death toll and the number of the injured
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the death toll and the number of the injured
+Key: Predicate.name, Value: is
+Key: Object.name, Value: on increase
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Grave Concern? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Among those admitted with bullets wounds in different hospitals of the city, over seventy are with serious wounds and struggling between life and death.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 12-07-2016
+Key: Node.name, Value: with among those serious wounds and struggling between life and death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: over seventy
+Key: Predicate.name, Value: are
+Key: Object.name, Value: with among those serious wounds and struggling between life and death
+Key: Facet.name, Value: among those<ctx#1.3>
+**
+
+
+Key: Event.headline, Value: ?Grave Concern? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Among those admitted with bullets wounds in different hospitals of the city, over seventy are with serious wounds and struggling between life and death.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 12-07-2016
+Key: Node.name, Value: with among those serious wounds and struggling between life and death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: over seventy
+Key: Predicate.name, Value: are
+Key: Object.name, Value: with among those serious wounds and struggling between life and death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?After Burhn Wani??  by Rifat Azeem - (Urdu Daily ? Uqab)
+Key: Event.sentence, Value: Commenting on Burhan Wani, the writer maintained that the claim of the Central Government and security forces that the death of Burhan and Burhan associates was a big achievement against militancy is not wrong.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: the death of burhan and burhan associates
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the death of burhan and burhan associates
+Key: Predicate.name, Value: was
+Key: Object.name, Value: a big achievement against militancy
+Key: Facet.name, Value: militancy
+**
+
+
+Key: Event.headline, Value: ?Hollowness of words? ? (English Daily  - Kashmir Times)
+Key: Event.sentence, Value: It took two weeks for the Home Minister simply to just express the Home Minister concern at the causalities, including deaths, cases of blinding and maiming which have been increasing by the day.
+Key: Event.location, Value: Valley;Kashmir
+Key: Event.date, Value: 26-07-2016
+Key: Node.name, Value: deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: it
+Key: Predicate.name, Value: took
+Key: Object.name, Value: two weeks for the home minister
+Key: Facet.name, Value: deaths
+**
+
+
+Key: Event.headline, Value: ?Hollowness of words? ? (English Daily  - Kashmir Times)
+Key: Event.sentence, Value: It took two weeks for the Home Minister simply to just express the Home Minister concern at the causalities, including deaths, cases of blinding and maiming which have been increasing by the day.
+Key: Event.location, Value: Valley;Kashmir
+Key: Event.date, Value: 26-07-2016
+Key: Node.name, Value: deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: it
+Key: Predicate.name, Value: took
+Key: Object.name, Value: two weeks for the home minister
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Hollowness of words? ? (English Daily  - Kashmir Times)
+Key: Event.sentence, Value: It took two weeks for the Home Minister simply to just express the Home Minister concern at the causalities, including deaths, cases of blinding and maiming which have been increasing by the day.
+Key: Event.location, Value: Valley;Kashmir
+Key: Event.date, Value: 26-07-2016
+Key: Node.name, Value: including deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: including deaths
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: cases of blinding and maiming
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Yesterday once more? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: The spontaneous reaction to Burhan?s death has been beyond anybody?s imagination.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 11-07-2016
+Key: Node.name, Value: death<ctx#1.13>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: beyond anybody s imagination
+Key: Facet.name, Value: death<ctx#1.13>
+**
+
+
+Key: Event.headline, Value: ?Civilian killings not acceptable? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: The death toll on July 10 reached 21.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-07-2016
+Key: Node.name, Value: the death toll on july 10
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the death toll on july 10
+Key: Predicate.name, Value: reached
+Key: Object.name, Value: 21
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?And alienation beckons return of militancy?  by Suhial Ahmad ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Referring to militant attack on CRPF convoy at Pampore (district Pulwama) on July 26, the writer maintained that the death of eight CRPF men in militant attack on CRPF convoy at Pampore (district Pulwama) on July 26 has sent the political and security establishment into a tizzy and evoked angry reactions from Chief Minister, Mehbooba Mufti and Union Home Minister, Rajnath Singh.
+Key: Event.location, Value: Pampore;Pulwama
+Key: Event.date, Value: 02-07-2016
+Key: Node.name, Value: the death of eight crpf men in militant attack on crpf convoy at pampore on july 26
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the death of eight crpf men in militant attack on crpf convoy at pampore on july 26
+Key: Predicate.name, Value: has sent
+Key: Object.name, Value: the political and security establishment
+Key: Facet.name, Value: a tizzy
+**
+
+
+Key: Event.headline, Value: ?Political initiative a must? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: The deep turmoil that engulfed Kashmir since the death of Burhan Wani must serve as another strong reminder that a political engagement between New Delhi, Srinagar and Islamabad - taking into account the political realities in Kashmir ? is inevitable for peace and stability in Kashmir.
+Key: Event.location, Value: Kashmir;New Delhi;Srinagar;Islamabad
+Key: Event.date, Value: 27-07-2016
+Key: Node.name, Value: the death of burhan wani
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: engulfed
+Key: Object.name, Value: kashmir
+Key: Facet.name, Value: the death of burhan wani
+**
+
+
+Key: Event.headline, Value: ?Political initiative a must? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: The deep turmoil that engulfed Kashmir since the death of Burhan Wani must serve as another strong reminder that a political engagement between New Delhi, Srinagar and Islamabad - taking into account the political realities in Kashmir ? is inevitable for peace and stability in Kashmir.
+Key: Event.location, Value: Kashmir;New Delhi;Srinagar;Islamabad
+Key: Event.date, Value: 27-07-2016
+Key: Node.name, Value: the death of burhan wani
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: engulfed
+Key: Object.name, Value: kashmir
+Key: Facet.name, Value: the deep turmoil
+**
+
+
+Key: Event.headline, Value: ?The gap is widening? ? by Zafar Meraj - (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Referring to the statement of Sadhvi Prachi that it was time to make India free of Muslims and the incident at Dadri (UP) where an innocent Muslim Akhlaq was allegedly beaten mercilessly to death by a overzealous Hindu mob, the writer maintained that relentless anti-Muslim campaign by some in the saffron brigade will do PM Modi and India?s image no good.
+Key: Event.location, Value: India;Dadri
+Key: Event.date, Value: 13-06-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an innocent muslim akhlaq
+Key: Predicate.name, Value: was beaten
+Key: Object.name, Value: mercilessly
+Key: Facet.name, Value: india free of muslims and the incident at dadri
+**
+
+
+Key: Event.headline, Value: ?The gap is widening? ? by Zafar Meraj - (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Referring to the statement of Sadhvi Prachi that it was time to make India free of Muslims and the incident at Dadri (UP) where an innocent Muslim Akhlaq was allegedly beaten mercilessly to death by a overzealous Hindu mob, the writer maintained that relentless anti-Muslim campaign by some in the saffron brigade will do PM Modi and India?s image no good.
+Key: Event.location, Value: India;Dadri
+Key: Event.date, Value: 13-06-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an innocent muslim akhlaq
+Key: Predicate.name, Value: was beaten
+Key: Object.name, Value: mercilessly
+Key: Facet.name, Value: a overzealous hindu mob
+**
+
+
+Key: Event.headline, Value: ?The gap is widening? ? by Zafar Meraj - (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Referring to the statement of Sadhvi Prachi that it was time to make India free of Muslims and the incident at Dadri (UP) where an innocent Muslim Akhlaq was allegedly beaten mercilessly to death by a overzealous Hindu mob, the writer maintained that relentless anti-Muslim campaign by some in the saffron brigade will do PM Modi and India?s image no good.
+Key: Event.location, Value: India;Dadri
+Key: Event.date, Value: 13-06-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an innocent muslim akhlaq
+Key: Predicate.name, Value: was beaten
+Key: Object.name, Value: mercilessly
+Key: Facet.name, Value: death
+**
+
+
+Key: Event.headline, Value: ?The gap is widening? ? by Zafar Meraj - (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Referring to the statement of Sadhvi Prachi that it was time to make India free of Muslims and the incident at Dadri (UP) where an innocent Muslim Akhlaq was allegedly beaten mercilessly to death by a overzealous Hindu mob, the writer maintained that relentless anti-Muslim campaign by some in the saffron brigade will do PM Modi and India?s image no good.
+Key: Event.location, Value: India;Dadri
+Key: Event.date, Value: 13-06-2016
+Key: Node.name, Value: death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an innocent muslim akhlaq
+Key: Predicate.name, Value: was beaten
+Key: Object.name, Value: mercilessly
+Key: Facet.name, Value: allegedly
+**
+
+
+Key: Event.headline, Value: ?Couldn?t recognize you fore 50 years, how can I do it now?  - (English Daily ? Greater Kashmir - Urdu Daily- Kashmir Uzma)
+Key: Event.sentence, Value: On 34th death anniversary of Mirza Afzal Beg, his son Mehboob Beig - presently spokesman of ruling Peoples Democratic Party (PDP) ? revealed that his father felt betrayed by National Conference (NC) leadership and its founder Sheikh Muhammad Abdullah at the fag end of his life.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 13-06-2016
+Key: Node.name, Value: on 34th death anniversary of mirza afzal beg
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: his son
+Key: Predicate.name, Value: revealed
+Key: Object.name, Value: null
+Key: Facet.name, Value: on 34th death anniversary of mirza afzal beg
+**
+
+
+Key: Event.headline, Value: ?Politics of deceit:  A net of Indian conspiracies against people: Sehrai? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: A delegation led by Ashraf Sehrai visited Mool Chitragam (District Shopian) to express condolence on the death of Muhammad Yusuf Falahi?s mother.
+Key: Event.location, Value: District Shopian
+Key: Event.date, Value: 02-06-2016
+Key: Node.name, Value: the death of muhammad yusuf falahi<ctx#1.25>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a delegation
+Key: Predicate.name, Value: express
+Key: Object.name, Value: condolence
+Key: Facet.name, Value: the death of muhammad yusuf falahi<ctx#1.25>
+**
+
+
+Key: Event.headline, Value: ?Politics of deceit:  A net of Indian conspiracies against people: Sehrai? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: A delegation led by Ashraf Sehrai visited Mool Chitragam (District Shopian) to express condolence on the death of Muhammad Yusuf Falahi?s mother.
+Key: Event.location, Value: District Shopian
+Key: Event.date, Value: 02-06-2016
+Key: Node.name, Value: the death of muhammad yusuf falahi<ctx#1.25>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a delegation
+Key: Predicate.name, Value: express
+Key: Object.name, Value: condolence
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Checkmate before the first move?. ?BJP cultivates ?Queen? Mehbooba?s ?Bad Bishops? to cut her to size?:(Rising Kashmir/English Daily)
+Key: Event.sentence, Value: Mehbooba Mufti had shown no signs of urgency in government formation after Mufti Muhammad Sayeed death and the stalemate continued until Mehbooba Mufti one-on- one meeting with Prime Minister, Narendra Modi on March 22 in New Delhi.
+Key: Event.location, Value: New Delhi
+Key: Event.date, Value: 22-03-2016
+Key: Node.name, Value: mufti muhammad sayeed death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mehbooba mufti
+Key: Predicate.name, Value: had shown
+Key: Object.name, Value: no signs of urgency
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Checkmate before the first move?. ?BJP cultivates ?Queen? Mehbooba?s ?Bad Bishops? to cut her to size?:(Rising Kashmir/English Daily)
+Key: Event.sentence, Value: Mehbooba Mufti had shown no signs of urgency in government formation after Mufti Muhammad Sayeed death and the stalemate continued until Mehbooba Mufti one-on- one meeting with Prime Minister, Narendra Modi on March 22 in New Delhi.
+Key: Event.location, Value: New Delhi
+Key: Event.date, Value: 22-03-2016
+Key: Node.name, Value: mufti muhammad sayeed death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mehbooba mufti
+Key: Predicate.name, Value: had shown
+Key: Object.name, Value: no signs of urgency
+Key: Facet.name, Value: mufti muhammad sayeed death
+**
+
+
+Key: Event.headline, Value: ?Checkmate before the first move?. ?BJP cultivates ?Queen? Mehbooba?s ?Bad Bishops? to cut her to size?:(Rising Kashmir/English Daily)
+Key: Event.sentence, Value: Mehbooba Mufti had shown no signs of urgency in government formation after Mufti Muhammad Sayeed death and the stalemate continued until Mehbooba Mufti one-on- one meeting with Prime Minister, Narendra Modi on March 22 in New Delhi.
+Key: Event.location, Value: New Delhi
+Key: Event.date, Value: 22-03-2016
+Key: Node.name, Value: mufti muhammad sayeed death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: mehbooba mufti
+Key: Predicate.name, Value: had shown
+Key: Object.name, Value: no signs of urgency
+Key: Facet.name, Value: government formation
+**
+
+
+Key: Event.headline, Value: ?Coalition won?t complete term, would become liability; Was offered CM berth and cash by BJP:  Karra? ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Replying to a question on Tariq Hamid Karra, former MP and PDP leader, who resigned from the position and the party being aware of any back channel exercises after the death of former Chief Minister, Mufti Muhammad Sayeed, Karra claimed that Tariq Hamid Karra, former MP and PDP leader, who resigned from the position and the party was offered Chief Minister?s berth and tonnes of money by top people in the BJP.
+Key: Event.location, Value: 
+Key: Event.date, Value: 21-09-2016
+Key: Node.name, Value: the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: being
+Key: Object.name, Value: aware of any back channel exercises after the death of former chief minister
+Key: Facet.name, Value: the death of former chief minister
+**
+
+
+Key: Event.headline, Value: ?Coalition won?t complete term, would become liability; Was offered CM berth and cash by BJP:  Karra? ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Replying to a question on Tariq Hamid Karra, former MP and PDP leader, who resigned from the position and the party being aware of any back channel exercises after the death of former Chief Minister, Mufti Muhammad Sayeed, Karra claimed that Tariq Hamid Karra, former MP and PDP leader, who resigned from the position and the party was offered Chief Minister?s berth and tonnes of money by top people in the BJP.
+Key: Event.location, Value: 
+Key: Event.date, Value: 21-09-2016
+Key: Node.name, Value: the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: being
+Key: Object.name, Value: aware of any back channel exercises after the death of former chief minister
+Key: Facet.name, Value: any back channel exercises
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily ? 9.5.2016: ?Anantnag by-polls in June, ULB elections later, CEO?
+Key: Event.sentence, Value: moth had fallen vacant after the death of former Chief Minister, Mufti Muhammad Sayeed.
+Key: Event.location, Value: 
+Key: Event.date, Value: 08-05-2016
+Key: Node.name, Value: the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: moth
+Key: Predicate.name, Value: had fallen
+Key: Object.name, Value: vacant
+Key: Facet.name, Value: the death of former chief minister
+**
+
+
+Key: Event.headline, Value: ?Govt formation:  At long last, PDP-BJP to stake claim today?. ?BJP demanding key portfolios?:(Greater Kashmir/Rising Kashmir/Kashmir Times/Kashmir Images/Kashmir Monitor/Kashmir Reader/English Dailies ? Kashmir Uzma/Uqab/Urdu Dailies) 
+Key: Event.sentence, Value: The alliance partners? readiness to resume Version-2 of the Government marks the end of more than two months? political uncertainty in the State after the death of former Chief Minister, Mufti Muhammad Sayeed.
+Key: Event.location, Value: 
+Key: Event.date, Value: 26-03-2016
+Key: Node.name, Value: the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the alliance partners readiness
+Key: Predicate.name, Value: marks
+Key: Object.name, Value: the political uncertainty in the state
+Key: Facet.name, Value: the death of former chief minister
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily: ?After Mufti?s death, Army gives CMLC decisions quite burial?
+Key: Event.sentence, Value: The concerned officials believe that Army had buried the pledges that were made in the last CMLC meeting before the death of former Chief Minister, Mufti Muhammad Sayeed.
+Key: Event.location, Value: South Campus;Anantnag
+Key: Event.date, Value: 02-03-2016
+Key: Node.name, Value: the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: were made
+Key: Object.name, Value: in the last cmlc meeting
+Key: Facet.name, Value: the death of former chief minister
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily: ?After Mufti?s death, Army gives CMLC decisions quite burial?
+Key: Event.sentence, Value: The concerned officials believe that Army had buried the pledges that were made in the last CMLC meeting before the death of former Chief Minister, Mufti Muhammad Sayeed.
+Key: Event.location, Value: South Campus;Anantnag
+Key: Event.date, Value: 02-03-2016
+Key: Node.name, Value: the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: were made
+Key: Object.name, Value: in the last cmlc meeting
+Key: Facet.name, Value: the pledges
+**
+
+
+Key: Event.headline, Value: ?Governor to present full- fledged annual budget?:(Rising Kashmir/ English Daily-14.3.2016)
+Key: Event.sentence, Value: As the state legislature is in a suspended animation following the death of sitting Chief Minister Mufti Muhammad Sayeed on January 7, the Governor, for avoiding a financial crisis, was expected to present a vote-on- account.
+Key: Event.location, Value: 
+Key: Event.date, Value: 07-01-2017
+Key: Node.name, Value: in a suspended animation following the death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the state legislature
+Key: Predicate.name, Value: is
+Key: Object.name, Value: in a suspended animation following the death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Governor to present full- fledged annual budget?:(Rising Kashmir/ English Daily-14.3.2016)
+Key: Event.sentence, Value: As the state legislature is in a suspended animation following the death of sitting Chief Minister Mufti Muhammad Sayeed on January 7, the Governor, for avoiding a financial crisis, was expected to present a vote-on- account.
+Key: Event.location, Value: 
+Key: Event.date, Value: 07-01-2017
+Key: Node.name, Value: in a suspended animation following the death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the state legislature
+Key: Predicate.name, Value: is
+Key: Object.name, Value: in a suspended animation following the death
+Key: Facet.name, Value: the death<ctx#1.14>
+**
+
+
+Key: Event.headline, Value: ?Governor to present full- fledged annual budget?:(Rising Kashmir/ English Daily-14.3.2016)
+Key: Event.sentence, Value: As the state legislature is in a suspended animation following the death of sitting Chief Minister Mufti Muhammad Sayeed on January 7, the Governor, for avoiding a financial crisis, was expected to present a vote-on- account.
+Key: Event.location, Value: 
+Key: Event.date, Value: 07-01-2017
+Key: Node.name, Value: the death<ctx#1.14>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the state legislature
+Key: Predicate.name, Value: is
+Key: Object.name, Value: in a suspended animation following the death
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Governor to present full- fledged annual budget?:(Rising Kashmir/ English Daily-14.3.2016)
+Key: Event.sentence, Value: As the state legislature is in a suspended animation following the death of sitting Chief Minister Mufti Muhammad Sayeed on January 7, the Governor, for avoiding a financial crisis, was expected to present a vote-on- account.
+Key: Event.location, Value: 
+Key: Event.date, Value: 07-01-2017
+Key: Node.name, Value: the death<ctx#1.14>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the state legislature
+Key: Predicate.name, Value: is
+Key: Object.name, Value: in a suspended animation following the death
+Key: Facet.name, Value: the death<ctx#1.14>
+**
+
+
+Key: Event.headline, Value: ?Governor to present full- fledged annual budget?:(Rising Kashmir/ English Daily-14.3.2016)
+Key: Event.sentence, Value: As the state legislature is in a suspended animation following the death of sitting Chief Minister Mufti Muhammad Sayeed on January 7, the Governor, for avoiding a financial crisis, was expected to present a vote-on- account.
+Key: Event.location, Value: 
+Key: Event.date, Value: 07-01-2017
+Key: Node.name, Value: following the death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: following the death
+Key: Predicate.name, Value: sitting
+Key: Object.name, Value: chief minister mufti muhammad sayeed on january 7
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Tragic accident near Uri kills five?:(Kashmir Images/English Daily) 
+Key: Event.sentence, Value: SDM Uri, Showkat Ahmed Rather said that an Alto 800 car (JK05- 5422) with five people on board was on way from Silkote to Uri when an Alto 800 car (JK05- 5422) met an accident and fell into 200 ? feet deep Hajipeer Nallah around 6 AM  at Silkote border village in Uri, resulting in on- spot death of four person.
+Key: Event.location, Value: Silkote;Uri
+Key: Event.date, Value: 13-05-2016
+Key: Node.name, Value: 6 am at silkote border village in uri on spot death of four person<ctx#1.61>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an alto 800 car
+Key: Predicate.name, Value: fell
+Key: Object.name, Value: into 200 feet deep hajipeer nallah
+Key: Facet.name, Value: 6 am at silkote border village in uri on spot death of four person<ctx#1.61>
+**
+
+
+Key: Event.headline, Value: ?Tragic accident near Uri kills five?:(Kashmir Images/English Daily) 
+Key: Event.sentence, Value: SDM Uri, Showkat Ahmed Rather said that an Alto 800 car (JK05- 5422) with five people on board was on way from Silkote to Uri when an Alto 800 car (JK05- 5422) met an accident and fell into 200 ? feet deep Hajipeer Nallah around 6 AM  at Silkote border village in Uri, resulting in on- spot death of four person.
+Key: Event.location, Value: Silkote;Uri
+Key: Event.date, Value: 13-05-2016
+Key: Node.name, Value: 6 am at silkote border village in uri on spot death of four person<ctx#1.61>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an alto 800 car
+Key: Predicate.name, Value: fell
+Key: Object.name, Value: into 200 feet deep hajipeer nallah
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Industrial Policy ?:(Rising Kashmir / English Daily)
+Key: Event.sentence, Value: After the death of Chief Minister Mufti Muhammad Sayeed, it was Mehbooba Mufti?s turn to sort out the differences and with the support of Prime Minister, Narendra Modi a quiet eventually prevailed.
+Key: Event.location, Value: Mehbooba Mufti
+Key: Event.date, Value: 13-05-2016
+Key: Node.name, Value: after the death of chief minister mufti muhammad sayeed
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: it
+Key: Predicate.name, Value: was
+Key: Object.name, Value: null
+Key: Facet.name, Value: after the death of chief minister mufti muhammad sayeed
+**
+
+
+Key: Event.headline, Value: ?Kupwara ? like firing incident won?t happen in future: Army?:(Rising Kashmir/ English Daily ? 1.5.2016)
+Key: Event.sentence, Value: In the aftermath of the death of civilians in Army firing on protesters in Handwara and Natnusa areas of border district of Kupwara a fortnight ago, Army said that such unfortunate incident would not happened in future as the force was working in perfect synergy with the Police and the CRPF in the State.
+Key: Event.location, Value: Handwara;Natnusa;Kupwara
+Key: Event.date, Value: 01-05-2016
+Key: Node.name, Value: in the aftermath of the death of civilians in army firing on protesters in handwara and natnusa areas of border district of kupwara a fortnight ago
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: army
+Key: Predicate.name, Value: said
+Key: Object.name, Value: that would not
+Key: Facet.name, Value: in the aftermath of the death of civilians in army firing on protesters in handwara and natnusa areas of border district of kupwara a fortnight ago
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: narendra modi
+Key: Predicate.name, Value: is
+Key: Object.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Facet.name, Value: the condition of pellet victims of kashmir death of civilians on borders or<ctx#1.24>
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: narendra modi
+Key: Predicate.name, Value: is
+Key: Object.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Facet.name, Value: all
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: the condition of pellet victims of kashmir death of civilians on borders or<ctx#1.24>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: narendra modi
+Key: Predicate.name, Value: is
+Key: Object.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Facet.name, Value: the condition of pellet victims of kashmir death of civilians on borders or<ctx#1.24>
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: the condition of pellet victims of kashmir death of civilians on borders or<ctx#1.24>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: narendra modi
+Key: Predicate.name, Value: is
+Key: Object.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Facet.name, Value: all
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Predicate.name, Value: react
+Key: Object.name, Value: over the media criticism
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Robert Thorpe remembered on his 148th death anniversary ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Members of Civil Society paid glowing tributes to unsung hero Robert Thorpe on Robert Thorpe 148th death anniversary, who raised voice against Maharaja?s tyrannical rule in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 23-11-2016
+Key: Node.name, Value: robert thorpe 148th death anniversary<ctx#1.21>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: members of civil society
+Key: Predicate.name, Value: paid
+Key: Object.name, Value: glowing tributes
+Key: Facet.name, Value: robert thorpe 148th death anniversary<ctx#1.21>
+**
+
+
+Key: Event.headline, Value: Robert Thorpe remembered on his 148th death anniversary ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Members of Civil Society paid glowing tributes to unsung hero Robert Thorpe on Robert Thorpe 148th death anniversary, who raised voice against Maharaja?s tyrannical rule in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 23-11-2016
+Key: Node.name, Value: robert thorpe 148th death anniversary<ctx#1.21>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: members of civil society
+Key: Predicate.name, Value: paid
+Key: Object.name, Value: glowing tributes
+Key: Facet.name, Value: unsung hero robert thorpe
+**
+
+
+Key: Event.headline, Value: ?Kashmir after four months: Leaders in dilemma? ? by Shujaat Bukhari ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Commenting on the crisis that unfolded in Kashmir in the past four months marked with deaths, blinding, maiming and arrest of thousands besides the shutdown continuing to give severe blow to economy and education, the writer held that although the leadership spearheading the movement and issuing calendars realized the need to have re-look, it failed to demonstrate courage to bring even minor change in it programme.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 16-11-2016
+Key: Node.name, Value: the past four months marked with deaths<ctx#1.18>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: unfolded
+Key: Object.name, Value: in kashmir
+Key: Facet.name, Value: the past four months marked with deaths<ctx#1.18>
+**
+
+
+Key: Event.headline, Value: Demonetization deflates claims of black money and hawala in Kashmir ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: While in rest of India at least 17 deaths have been reported in last 8 days in connection with demonetization, everything is going on smoothly in Kashmir.
+Key: Event.location, Value: India;Kashmir
+Key: Event.date, Value: 17-11-2016
+Key: Node.name, Value: at least 17 deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least 17 deaths
+Key: Predicate.name, Value: have been reported
+Key: Object.name, Value: in last 8 days
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Demonetization deflates claims of black money and hawala in Kashmir ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: While in rest of India at least 17 deaths have been reported in last 8 days in connection with demonetization, everything is going on smoothly in Kashmir.
+Key: Event.location, Value: India;Kashmir
+Key: Event.date, Value: 17-11-2016
+Key: Node.name, Value: at least 17 deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least 17 deaths
+Key: Predicate.name, Value: have been reported
+Key: Object.name, Value: in last 8 days
+Key: Facet.name, Value: in rest of india
+**
+
+
+Key: Event.headline, Value: Demonetization deflates claims of black money and hawala in Kashmir ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: While in rest of India at least 17 deaths have been reported in last 8 days in connection with demonetization, everything is going on smoothly in Kashmir.
+Key: Event.location, Value: India;Kashmir
+Key: Event.date, Value: 17-11-2016
+Key: Node.name, Value: at least 17 deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least 17 deaths
+Key: Predicate.name, Value: have been reported
+Key: Object.name, Value: in last 8 days
+Key: Facet.name, Value: demonetization
+**
+
+
+Key: Event.headline, Value: Demonetization deflates claims of black money and hawala in Kashmir ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: While in rest of India at least 17 deaths have been reported in last 8 days in connection with demonetization, everything is going on smoothly in Kashmir.
+Key: Event.location, Value: India;Kashmir
+Key: Event.date, Value: 17-11-2016
+Key: Node.name, Value: at least 17 deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least 17 deaths
+Key: Predicate.name, Value: have been reported
+Key: Object.name, Value: in last 8 days
+Key: Facet.name, Value: connection
+**
+
+
+Key: Event.headline, Value: ?Cross border skirmishes? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: On both the Indian and Pakistani troops the death and destructions caused by the firing is unprecedented.
+Key: Event.location, Value: Jammu;India;Pakistan
+Key: Event.date, Value: 03-11-2016
+Key: Node.name, Value: the death and destructions
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the death and destructions
+Key: Predicate.name, Value: is
+Key: Object.name, Value: on both the indian and pakistani troops unprecedented
+Key: Facet.name, Value: on both the indian and pakistani troops
+**
+
+
+Key: Event.headline, Value: ?Cross border skirmishes? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: On both the Indian and Pakistani troops the death and destructions caused by the firing is unprecedented.
+Key: Event.location, Value: Jammu;India;Pakistan
+Key: Event.date, Value: 03-11-2016
+Key: Node.name, Value: the death and destructions
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the death and destructions
+Key: Predicate.name, Value: caused
+Key: Object.name, Value: by the firing
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Army men dying doesn?t give us joy: Burhan Wani?s father ? (English Dailies ? Greater Kashmir/Kashmir Times)
+Key: Event.sentence, Value: ?If Army men die that?s a problem and Army men death doesn?t give us any joy.
+Key: Event.location, Value: Kashmir;India
+Key: Event.date, Value: 21-11-2016
+Key: Node.name, Value: death doesn t
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: death doesn t
+Key: Predicate.name, Value: give
+Key: Object.name, Value: any joy
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Political mileage? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: A recent reminder of these gory conditions is the death of a teenager in Srinagar on which these PDP has also sought a probe.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 13-10-2016
+Key: Node.name, Value: the death of a teenager in srinagar
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: these pdp
+Key: Predicate.name, Value: has sought
+Key: Object.name, Value: a probe
+Key: Facet.name, Value: the death of a teenager in srinagar
+**
+
+
+Key: Event.headline, Value: ?Political mileage? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: A recent reminder of these gory conditions is the death of a teenager in Srinagar on which these PDP has also sought a probe.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 13-10-2016
+Key: Node.name, Value: the death of a teenager in srinagar
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: these pdp
+Key: Predicate.name, Value: has sought
+Key: Object.name, Value: a probe
+Key: Facet.name, Value: on which
+**
+
+
+Key: Event.headline, Value: ?Political mileage? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: A recent reminder of these gory conditions is the death of a teenager in Srinagar on which these PDP has also sought a probe.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 13-10-2016
+Key: Node.name, Value: the death of a teenager in srinagar
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: these pdp
+Key: Predicate.name, Value: has sought
+Key: Object.name, Value: a probe
+Key: Facet.name, Value: also
+**
+
+
+Key: Event.headline, Value: ?Political mileage? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: A recent reminder of these gory conditions is the death of a teenager in Srinagar on which these PDP has also sought a probe.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 13-10-2016
+Key: Node.name, Value: the death of a teenager in srinagar
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a recent reminder of these gory conditions
+Key: Predicate.name, Value: is
+Key: Object.name, Value: the death of a teenager in srinagar
+Key: Facet.name, Value: a teenager in srinagar
+**
+
+
+Key: Event.headline, Value: ?Dance of death? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Beyond pushing Valley further into turmoil, the mounting deaths have elicited little empathetic response either from the rest of India or from the world, let alone a meaningful political initiative to address the crisis.
+Key: Event.location, Value: Valley;India
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: the mounting deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the mounting deaths
+Key: Predicate.name, Value: have elicited
+Key: Object.name, Value: little empathetic response
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Dance of death? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Beyond pushing Valley further into turmoil, the mounting deaths have elicited little empathetic response either from the rest of India or from the world, let alone a meaningful political initiative to address the crisis.
+Key: Event.location, Value: Valley;India
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: the mounting deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the mounting deaths
+Key: Predicate.name, Value: have elicited
+Key: Object.name, Value: little empathetic response
+Key: Facet.name, Value: either the rest of india or from the world
+**
+
+
+Key: Event.headline, Value: ?Dance of death? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Beyond pushing Valley further into turmoil, the mounting deaths have elicited little empathetic response either from the rest of India or from the world, let alone a meaningful political initiative to address the crisis.
+Key: Event.location, Value: Valley;India
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: the mounting deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the mounting deaths
+Key: Predicate.name, Value: pushing
+Key: Object.name, Value: valley
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Dance of death? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Beyond pushing Valley further into turmoil, the mounting deaths have elicited little empathetic response either from the rest of India or from the world, let alone a meaningful political initiative to address the crisis.
+Key: Event.location, Value: Valley;India
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: the mounting deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the mounting deaths
+Key: Predicate.name, Value: pushing
+Key: Object.name, Value: valley
+Key: Facet.name, Value: turmoil
+**
+
+
+Key: Event.headline, Value: ?Dance of death? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Beyond pushing Valley further into turmoil, the mounting deaths have elicited little empathetic response either from the rest of India or from the world, let alone a meaningful political initiative to address the crisis.
+Key: Event.location, Value: Valley;India
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: the mounting deaths
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the mounting deaths
+Key: Predicate.name, Value: pushing
+Key: Object.name, Value: valley
+Key: Facet.name, Value: further
+**
+
+
+Key: Event.headline, Value: Now, Burhan lives through a video game ? (English daily ? Kashmir Monitor)
+Key: Event.sentence, Value: First his videos, then his death and now a mobile phone game in his name; Burhan Wani, the slain Hizb Commander?s prominence was refusing to die down.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 11-10-2016
+Key: Node.name, Value: then his death and now a mobile phone game in his name
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: then his death and now a mobile phone game in his name
+Key: Predicate.name, Value: s
+Key: Object.name, Value: prominence
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Coalition won?t complete term, would become liability; Was offered CM berth and cash by BJP:  Karra? ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Replying to a question on Tariq Hamid Karra, former MP and PDP leader, who resigned from the position and the party being aware of any back channel exercises after the death of former Chief Minister, Mufti Muhammad Sayeed, Karra claimed that Tariq Hamid Karra, former MP and PDP leader, who resigned from the position and the party was offered Chief Minister?s berth and tonnes of money by top people in the BJP.
+Key: Event.location, Value: 
+Key: Event.date, Value: 21-09-2016
+Key: Node.name, Value: aware of any back channel exercises after the death of former chief minister
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: resigned
+Key: Object.name, Value: from the position and the party
+Key: Facet.name, Value: aware of any back channel exercises after the death of former chief minister
+**
+
+
+Key: Event.headline, Value: ?Mehbooba upset over Shopian youth?s death? ? (English Dailies ? Rising  Kashmir/Greater Kashmir - Urdu Dailies - Aftab)
+Key: Event.sentence, Value: Expressing concern over the death of a youth in South Kashmir?s Shopian district, Chief Minister, Mehbooba Mufti said that Mehbooba Mufti was upset after coming to know about the incident.
+Key: Event.location, Value: South Kashmir;Shopian
+Key: Event.date, Value: 12-09-2016
+Key: Node.name, Value: expressing concern over the death of a youth in south kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: expressing concern over the death of a youth in south kashmir
+Key: Predicate.name, Value: s
+Key: Object.name, Value: shopian district
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Pellets killed 7 youth in two months? Non-lethal weapon continued its lethality? ? (English Daily ?Kashmir Times)
+Key: Event.sentence, Value: With number of deaths and several hundred persons left blinded and grievously injured in pellet firing by forces during the current turmoil, the resentment against the use of pellet guns on protesters in Valley Valley had been growing louder and shouter.
+Key: Event.location, Value: Valley Valley
+Key: Event.date, Value: 09-09-2016
+Key: Node.name, Value: number of deaths and several hundred persons
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: number of deaths and several hundred persons
+Key: Predicate.name, Value: left
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Article 370 and Article 35/A are signs of J&K State?s identity: Mufti Azam  ? (Urdu Daily ? Uqab)
+Key: Event.sentence, Value: It is a matter of life and death.
+Key: Event.location, Value: Pakistan;Azad Kashmir
+Key: Event.date, Value: 16-08-2017
+Key: Node.name, Value: life and death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: it
+Key: Predicate.name, Value: is
+Key: Object.name, Value: a matter of life and death
+Key: Facet.name, Value: life and death
+**
+
+
+Key: Event.headline, Value: Status of Mirwaiz Umar Farooq very important: Anjuman Auqaf; Condemned misleading and baseless propaganda against him ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: This is personal property of the late leader which was divided among J&K Bank heirs after the late leader which was divided among its heirs after his death death.
+Key: Event.location, Value: Rajouri Kadal;Srinagar
+Key: Event.date, Value: 22-08-2017
+Key: Node.name, Value: his death death
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: was divided
+Key: Object.name, Value: among its heirs
+Key: Facet.name, Value: his death death
+**
+
+
+Key: Event.headline, Value: Honouring and safeguarding sacrifices a big responsibility: Tehreek-e-Mazahamat ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: While paying tributes to militants killed in different encounters at Pakhaarpora, Budga and Sagiproa, Baramulla, Spokesman of Tehreek-e-Mazahamat, Shabir Ahmed Zargar has said that though deaths of our dear ones is highly painful but we should keep in mind that path of freedom passes through sacrifices and selflessness.
+Key: Event.location, Value: Pakhaarpora;Sagiproa;Baramulla;Tehreek-e-Mazahamat
+Key: Event.date, Value: 02-12-2017
+Key: Node.name, Value: deaths of our dear ones
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: deaths of our dear ones
+Key: Predicate.name, Value: is
+Key: Object.name, Value: highly painful
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Different religious groups paid tributes to late Sofi Muhammad Akbar on his anniversary ? (Urdu Daily ? Tameel-i-Irshad)
+Key: Event.sentence, Value: paid tributes to founder Chairman of Mahaz-e-Azadi, late Sofi Muhammad Akbar on his 29th death anniversary.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-12-2017
+Key: Node.name, Value: his 29th death anniversary
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: tributes
+Key: Predicate.name, Value: founder
+Key: Object.name, Value: chairman of mahaz-e-azadi late sofi muhammad akbar
+Key: Facet.name, Value: his 29th death anniversary
+**
+
+
+Key: Event.headline, Value: Different religious groups paid tributes to late Sofi Muhammad Akbar on his anniversary ? (Urdu Daily ? Tameel-i-Irshad)
+Key: Event.sentence, Value: paid tributes to founder Chairman of Mahaz-e-Azadi, late Sofi Muhammad Akbar on his 29th death anniversary.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-12-2017
+Key: Node.name, Value: his 29th death anniversary
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: tributes
+Key: Predicate.name, Value: founder
+Key: Object.name, Value: chairman of mahaz-e-azadi late sofi muhammad akbar
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Sofi Akbar was a fearless leader and Moulana Masoodi a great scholar: Dr. Farooq Abdullah ? (Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma)
+Key: Event.sentence, Value: Paying tributes to late Moulana Muhammad Syed Masoodi (ex-NC leader) and Sofi Muhammad Akbar (founder Chairman of Mahaz-e-Azadi) on their death anniversaries, National Conference President, Dr. Farooq Abdullah has said that the role played by these two associates of late Sheikh Muhammad Abdullah during ?Quit Kashmir Movement? was exemplary.
+Key: Event.location, Value: India
+Key: Event.date, Value: 14-12-2017
+Key: Node.name, Value: their death anniversaries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dr. farooq abdullah
+Key: Predicate.name, Value: paying
+Key: Object.name, Value: tributes
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Sofi Akbar was a fearless leader and Moulana Masoodi a great scholar: Dr. Farooq Abdullah ? (Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma)
+Key: Event.sentence, Value: Paying tributes to late Moulana Muhammad Syed Masoodi (ex-NC leader) and Sofi Muhammad Akbar (founder Chairman of Mahaz-e-Azadi) on their death anniversaries, National Conference President, Dr. Farooq Abdullah has said that the role played by these two associates of late Sheikh Muhammad Abdullah during ?Quit Kashmir Movement? was exemplary.
+Key: Event.location, Value: India
+Key: Event.date, Value: 14-12-2017
+Key: Node.name, Value: their death anniversaries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dr. farooq abdullah
+Key: Predicate.name, Value: paying
+Key: Object.name, Value: tributes
+Key: Facet.name, Value: their death anniversaries
+**
+
+
+Key: Event.headline, Value: Sofi Akbar was a fearless leader and Moulana Masoodi a great scholar: Dr. Farooq Abdullah ? (Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma)
+Key: Event.sentence, Value: Paying tributes to late Moulana Muhammad Syed Masoodi (ex-NC leader) and Sofi Muhammad Akbar (founder Chairman of Mahaz-e-Azadi) on their death anniversaries, National Conference President, Dr. Farooq Abdullah has said that the role played by these two associates of late Sheikh Muhammad Abdullah during ?Quit Kashmir Movement? was exemplary.
+Key: Event.location, Value: India
+Key: Event.date, Value: 14-12-2017
+Key: Node.name, Value: their death anniversaries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dr. farooq abdullah
+Key: Predicate.name, Value: paying
+Key: Object.name, Value: tributes
+Key: Facet.name, Value: late moulana muhammad syed masoodi and sofi muhammad akbar
+**
+
+
+Key: Event.headline, Value: Statement of Pakistani representative in UN praiseworthy: Tehreek Wahadat-e-Islami ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Meanwhile, a delegation of the organization led by its Patron, Nissar Hussain Rather visited Bijbehara (district Anantnag) to condole the accidental death of the sister of Hurriyat (G) General Secretary, Ghulam Nabi Sumji.
+Key: Event.location, Value: Bijbehara;Anantnag
+Key: Event.date, Value: 23-12-2017
+Key: Node.name, Value: the accidental death of the sister of hurriyat
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the accidental death of the sister of hurriyat
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: g
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Statement of Pakistani representative in UN praiseworthy: Tehreek Wahadat-e-Islami ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Meanwhile, a delegation of the organization led by its Patron, Nissar Hussain Rather visited Bijbehara (district Anantnag) to condole the accidental death of the sister of Hurriyat (G) General Secretary, Ghulam Nabi Sumji.
+Key: Event.location, Value: Bijbehara;Anantnag
+Key: Event.date, Value: 23-12-2017
+Key: Node.name, Value: the accidental death of the sister of hurriyat
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bijbehara
+Key: Predicate.name, Value: condole
+Key: Object.name, Value: the accidental death of the sister of hurriyat
+Key: Facet.name, Value: general secretary
+**
+
+
+Key: Event.headline, Value: Statement of Pakistani representative in UN praiseworthy: Tehreek Wahadat-e-Islami ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Meanwhile, a delegation of the organization led by its Patron, Nissar Hussain Rather visited Bijbehara (district Anantnag) to condole the accidental death of the sister of Hurriyat (G) General Secretary, Ghulam Nabi Sumji.
+Key: Event.location, Value: Bijbehara;Anantnag
+Key: Event.date, Value: 23-12-2017
+Key: Node.name, Value: the accidental death of the sister of hurriyat
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bijbehara
+Key: Predicate.name, Value: condole
+Key: Object.name, Value: the accidental death of the sister of hurriyat
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Beating Kashmiris outside State a matter of concern: Dr. Kamaal ? (Urdu Daily ? Aftab)
+Key: Event.sentence, Value: Expressing concern on mysterious death of one Kashmiris student in Rajasthan and beating of two Kashmiri students (brothers) in Bangalore, Additional General Secretary of National Conference, Dr. Mustafa Kamaal has appealed the Centre and other State Governments to ensure safety of Kashmiri traders and students in Kashmiri traders and students areas and take action against those harassing safety of Kashmiri traders and students in their areas.
+Key: Event.location, Value: Rajasthan;Bangalore
+Key: Event.date, Value: 21-12-2017
+Key: Node.name, Value: mysterious death of one kashmiris and beating of two kashmiri students in bangalore additional general secretary of national conference
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dr. mustafa kamaal
+Key: Predicate.name, Value: expressing
+Key: Object.name, Value: concern
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Beating Kashmiris outside State a matter of concern: Dr. Kamaal ? (Urdu Daily ? Aftab)
+Key: Event.sentence, Value: Expressing concern on mysterious death of one Kashmiris student in Rajasthan and beating of two Kashmiri students (brothers) in Bangalore, Additional General Secretary of National Conference, Dr. Mustafa Kamaal has appealed the Centre and other State Governments to ensure safety of Kashmiri traders and students in Kashmiri traders and students areas and take action against those harassing safety of Kashmiri traders and students in their areas.
+Key: Event.location, Value: Rajasthan;Bangalore
+Key: Event.date, Value: 21-12-2017
+Key: Node.name, Value: mysterious death of one kashmiris and beating of two kashmiri students in bangalore additional general secretary of national conference
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dr. mustafa kamaal
+Key: Predicate.name, Value: expressing
+Key: Object.name, Value: concern
+Key: Facet.name, Value: mysterious death of one kashmiris and beating of two kashmiri students in bangalore additional general secretary of national conference
+**
+
+
+Key: Event.headline, Value: ?Our ostrich like action in the changing world? ? by Hashim Qureshi - (Urdu Daily - Chattan)
+Key: Event.sentence, Value: Has UN or more 200 countries of world lodged protest over the deaths of 200 youth in these two months?
+Key: Event.location, Value: Pakistan;Kashmir
+Key: Event.date, Value: 05-12-2017
+Key: Node.name, Value: the deaths of 200 youth
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: lodged
+Key: Object.name, Value: protest
+Key: Facet.name, Value: these two months
+**
+
+
+Key: Event.headline, Value: ?Our ostrich like action in the changing world? ? by Hashim Qureshi - (Urdu Daily - Chattan)
+Key: Event.sentence, Value: Has UN or more 200 countries of world lodged protest over the deaths of 200 youth in these two months?
+Key: Event.location, Value: Pakistan;Kashmir
+Key: Event.date, Value: 05-12-2017
+Key: Node.name, Value: the deaths of 200 youth
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: lodged
+Key: Object.name, Value: protest
+Key: Facet.name, Value: the deaths of 200 youth
+**
+
+

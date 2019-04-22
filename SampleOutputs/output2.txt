@@ -1,0 +1,1508 @@
+Key: Event.headline, Value: Editorial: ?Kashmir issue and the role of UNO?:(Uqab/Urdu Daily)
+Key: Event.sentence, Value: this world institution has practically struck off this world institution role for the final resolution of Kashmir issueKashmir .
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-04-2016
+Key: Node.name, Value: has struck off
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: this world institution
+Key: Predicate.name, Value: has struck off
+Key: Object.name, Value: this world institution role
+Key: Facet.name, Value: the final resolution of kashmir issuekashmir
+**
+
+
+Key: Event.headline, Value: Editorial: ?Kashmir issue and the role of UNO?:(Uqab/Urdu Daily)
+Key: Event.sentence, Value: this world institution has practically struck off this world institution role for the final resolution of Kashmir issueKashmir .
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-04-2016
+Key: Node.name, Value: has struck off
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: this world institution
+Key: Predicate.name, Value: has struck off
+Key: Object.name, Value: this world institution role
+Key: Facet.name, Value: practically
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily: ?Police house-detained Hurriyat (G) leaders:  Spokesman?
+Key: Event.sentence, Value: Police house detained several Hurriyat Conference (G) leaders on April 11 (evening) in view of the strike call given by various separatist organizations against the harassment of Kashmiri students in other States of India.
+Key: Event.location, Value: India
+Key: Event.date, Value: 11-04-2016
+Key: Node.name, Value: several hurriyat conference leaders on april 11 in view of the strike call
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: several hurriyat conference leaders on april 11 in view of the strike call
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: g
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily: ?Police house-detained Hurriyat (G) leaders:  Spokesman?
+Key: Event.sentence, Value: Police house detained several Hurriyat Conference (G) leaders on April 11 (evening) in view of the strike call given by various separatist organizations against the harassment of Kashmiri students in other States of India.
+Key: Event.location, Value: India
+Key: Event.date, Value: 11-04-2016
+Key: Node.name, Value: several hurriyat conference leaders on april 11 in view of the strike call
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: police house
+Key: Predicate.name, Value: detained
+Key: Object.name, Value: several hurriyat conference leaders on april 11 in view of the strike call
+Key: Facet.name, Value: by various separatist organizations against the harassment of kashmiri students in other states of india
+**
+
+
+Key: Event.headline, Value: Rising Kashmir/English Daily: ?Police house-detained Hurriyat (G) leaders:  Spokesman?
+Key: Event.sentence, Value: Police house detained several Hurriyat Conference (G) leaders on April 11 (evening) in view of the strike call given by various separatist organizations against the harassment of Kashmiri students in other States of India.
+Key: Event.location, Value: India
+Key: Event.date, Value: 11-04-2016
+Key: Node.name, Value: on april 11 in view of the strike call
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: on april 11 in view of the strike call
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: evening
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Tinkering with Kashmir?s special position won?t be allowed: Transporters; Decided to observe strike on August 12 ? (Urdu Daily ? Aftab)
+Key: Event.sentence, Value: In a meeting in Srinagar which was presided over by Chairman, Mushtaq Ahmed Lassa, support was announced to strike call given by separatist leadership for August 12 against killings and in favour of Article 370 and Article 35/A.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-08-2017
+Key: Node.name, Value: strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: support
+Key: Predicate.name, Value: strike
+Key: Object.name, Value: call
+Key: Facet.name, Value: by separatist leadership for august 12 against killings and in favour of article 370 and article 35/a
+**
+
+
+Key: Event.headline, Value: ?All-Party delegation:  A Time Buying Exercise? ? by Ashiq Hussain Bhat ? (English Daily ? Kashmir Reader)
+Key: Event.sentence, Value: They might also meet some separatists in order to strike a sort of balance between mainstream and separatist camp, but the net result would be nothing except buying time.
+Key: Event.location, Value: Kashmir;NC
+Key: Event.date, Value: 02-09-2016
+Key: Node.name, Value: strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: they
+Key: Predicate.name, Value: strike
+Key: Object.name, Value: a sort of balance between mainstream and separatist camp
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Kashmir Monitor/English Dailies:  ?Srinagar almost militancy free: DIG CRPF? 
+Key: Event.sentence, Value: On whether there are any inputs about militant movement or any inputs about militant movement or their plan to strike in the city plan to strike in the city, A senior officer of paramilitary CRPF said, ?This question is for the Inspector General of Police Kashmir.
+Key: Event.location, Value: Kohnkhan;Dalgate Srinagar;Srinagar;Srinagar Srinagar
+Key: Event.date, Value: 31-03-2016
+Key: Node.name, Value: strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: their plan  or
+Key: Predicate.name, Value: strike
+Key: Object.name, Value: in the city
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Kashmir Monitor/English Dailies:  ?Srinagar almost militancy free: DIG CRPF? 
+Key: Event.sentence, Value: On whether there are any inputs about militant movement or any inputs about militant movement or their plan to strike in the city plan to strike in the city, A senior officer of paramilitary CRPF said, ?This question is for the Inspector General of Police Kashmir.
+Key: Event.location, Value: Kohnkhan;Dalgate Srinagar;Srinagar;Srinagar Srinagar
+Key: Event.date, Value: 31-03-2016
+Key: Node.name, Value: strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: their plan  or
+Key: Predicate.name, Value: strike
+Key: Object.name, Value: in the city plan
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Kashmir Times/English Daily:  ?Jewellers? strike enters 34th day?
+Key: Event.sentence, Value: The jewellers strike against the government?s proposal of 1 percent excise duty tariff on gold ornaments entered 34th day on April 7.
+Key: Event.location, Value: 
+Key: Event.date, Value: 07-04-2016
+Key: Node.name, Value: strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the jewellers
+Key: Predicate.name, Value: strike
+Key: Object.name, Value: against the government
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Indo- Pak FS to meet today?:(Rising Kashmir/Kashmir Times/Kashmir Images/English Dailies- Srinagar Times/Aftab/Kashmir Uzma/Uqab - Urdu Dailies)
+Key: Event.sentence, Value: In a sudden move, the Foreign Secretaries of India and Pakistan would meet today during which the issues dogging the bilateral ties, including Pathankot militant strike, would be discussed.
+Key: Event.location, Value: Pakistan;Pathankot
+Key: Event.date, Value: 26-04-2016
+Key: Node.name, Value: including pathankot militant strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the issues
+Key: Predicate.name, Value: would be discussed
+Key: Object.name, Value: during which
+Key: Facet.name, Value: including pathankot militant strike
+**
+
+
+Key: Event.headline, Value: ?Indo- Pak FS to meet today?:(Rising Kashmir/Kashmir Times/Kashmir Images/English Dailies- Srinagar Times/Aftab/Kashmir Uzma/Uqab - Urdu Dailies)
+Key: Event.sentence, Value: In a sudden move, the Foreign Secretaries of India and Pakistan would meet today during which the issues dogging the bilateral ties, including Pathankot militant strike, would be discussed.
+Key: Event.location, Value: Pakistan;Pathankot
+Key: Event.date, Value: 26-04-2016
+Key: Node.name, Value: including pathankot militant strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the issues
+Key: Predicate.name, Value: would be discussed
+Key: Object.name, Value: during which
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Kashmir dominates India - Pak FS meet?. ?Farooq welcomes Indo-Pak talks?:(Rising Kashmir/Kashmir Times/Kashmir Images/Kashmir Monitor/English Dailies ? Srinagar Times/Aftab/Urdu Dailies)
+Key: Event.sentence, Value: In their first formal bilateral meeting after Pathankot attack, Foreign Secretaries of India and Pakistan held talks focusing on a range of sticky issues, including probe into the militant strike and Kashmir, which Pakistani side asserted was the core issue.
+Key: Event.location, Value: Pathankot;India;Pakistan;Kashmir
+Key: Event.date, Value: 27-04-2016
+Key: Node.name, Value: on a range of sticky issues including probe into the militant strike and kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: talks
+Key: Predicate.name, Value: focusing
+Key: Object.name, Value: on a range of sticky issues including probe into the militant strike and kashmir
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?DLP for withdrawal of forces from streets? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In a statement, J&K Democratic Liberation Party (DLP) said that curfew and strike calls obstruct movement of people.
+Key: Event.location, Value: 
+Key: Event.date, Value: 02-08-2016
+Key: Node.name, Value: curfew and strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: curfew and strike
+Key: Predicate.name, Value: calls
+Key: Object.name, Value: movement of people
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Breaking the vicious circle? ?  by Anuradha Bhasin Jamwal - (English Daily ? Kashmir Uzma ? 31.7.2016)
+Key: Event.sentence, Value: Commenting on the present situation in Kashmir where vicious cycle of strike, curfew, clashes and violence appears unending, the writer maintained that signs of disarray and anarchy have set in; anger fuelled and propelled by employing shocking brutal methods of crowd control.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-08-2016
+Key: Node.name, Value: vicious cycle of strike curfew clashes and violence
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: vicious cycle of strike curfew clashes and violence
+Key: Predicate.name, Value: appears
+Key: Object.name, Value: unending
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?What is the way forward? ? (English Daily ? Kashmir Monitor?
+Key: Event.sentence, Value: The valley of Kashmir has been under curfew and strike for the past 23 yeas.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 02-08-2016
+Key: Node.name, Value: strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the valley of kashmir
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: under curfew and strike for the past 23 yeas
+Key: Facet.name, Value: the past 23 yeas
+**
+
+
+Key: Event.headline, Value: ?What is the way forward? ? (English Daily ? Kashmir Monitor?
+Key: Event.sentence, Value: The valley of Kashmir has been under curfew and strike for the past 23 yeas.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 02-08-2016
+Key: Node.name, Value: strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the valley of kashmir
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: under curfew and strike for the past 23 yeas
+Key: Facet.name, Value: strike
+**
+
+
+Key: Event.headline, Value: ?The perilous times we live in? -  by Anuradha Bhasin Jamwal ? (English Daily ? Kashmir Times)
+Key: Event.sentence, Value: The general anger over Uri strikes was understandable but mature governments do not function while deriving mature governments inspiration from emotionalism.
+Key: Event.location, Value: Kashmir;India;Pakistan
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: strikes
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the general anger over uri
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Lone blamed separatists for burning of schools ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Same people who have been calling strikes are involved in some form, or some extension of Same people who have been calling strikes is involved, and people burning schools are the same rioters, who are pelting stones?.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-11-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: have been calling
+Key: Object.name, Value: strikes
+Key: Facet.name, Value: of same people
+**
+
+
+Key: Event.headline, Value: Lone blamed separatists for burning of schools ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Same people who have been calling strikes are involved in some form, or some extension of Same people who have been calling strikes is involved, and people burning schools are the same rioters, who are pelting stones?.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-11-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: have been calling
+Key: Object.name, Value: strikes
+Key: Facet.name, Value: same people
+**
+
+
+Key: Event.headline, Value: Lone blamed separatists for burning of schools ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: ?Same people who have been calling strikes are involved in the burning of sacred institutions.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-11-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: have been calling
+Key: Object.name, Value: strikes
+Key: Facet.name, Value: same people
+**
+
+
+Key: Event.headline, Value: ?Flexibility in hartal and frustration in BJP? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: At the same time, the rulers describe strikes as wastage of time, while as the opposition calls it as a decisive protest.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the rulers
+Key: Predicate.name, Value: describe
+Key: Object.name, Value: strikes
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Flexibility in hartal and frustration in BJP? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: At the same time, the rulers describe strikes as wastage of time, while as the opposition calls it as a decisive protest.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the rulers
+Key: Predicate.name, Value: describe
+Key: Object.name, Value: strikes
+Key: Facet.name, Value: at the same time
+**
+
+
+Key: Event.headline, Value: ?Flexibility in hartal and frustration in BJP? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: At the same time, the rulers describe strikes as wastage of time, while as the opposition calls it as a decisive protest.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 09-12-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the rulers
+Key: Predicate.name, Value: describe
+Key: Object.name, Value: strikes
+Key: Facet.name, Value: wastage of time
+**
+
+
+Key: Event.headline, Value: ?No administration on ground; Youth calling shots; South Kashmir turns into Laissez-faire; Govt slips into wait-n-watch mode? ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: After 25 days of continuous shutdown, strikes, pro-freedom rallies post killing of HM commander Burhan Wani, South Kashmir relentlessly continues to worry both State as well as the Centre.
+Key: Event.location, Value: South Kashmir
+Key: Event.date, Value: 03-08-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: strikes
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: pro-freedom rallies post killing of hm commander
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?No administration on ground; Youth calling shots; South Kashmir turns into Laissez-faire; Govt slips into wait-n-watch mode? ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: After 25 days of continuous shutdown, strikes, pro-freedom rallies post killing of HM commander Burhan Wani, South Kashmir relentlessly continues to worry both State as well as the Centre.
+Key: Event.location, Value: South Kashmir
+Key: Event.date, Value: 03-08-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of continuous shutdown
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: strikes
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Normalcy continues for 2nd day in Kashmir ? (English Daily ? Kashmir Times- Urdu Daily- Tameel-i- Irshad)
+Key: Event.sentence, Value: The five day relaxation in strike would continue till December 30.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-12-2016
+Key: Node.name, Value: the five day relaxation in strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the five day relaxation in strike
+Key: Predicate.name, Value: would continue
+Key: Object.name, Value: till december 30
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Normalcy continues for 2nd day in Kashmir ? (English Daily ? Kashmir Times- Urdu Daily- Tameel-i- Irshad)
+Key: Event.sentence, Value: The five day relaxation in strike would continue till December 30.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-12-2016
+Key: Node.name, Value: relaxation in strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: relaxation in strike
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: the five day
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Normalcy for 2nd day in Kashmir ? (English Daily ? Kashmir Times- Urdu Dailies- Kashmir Uzma/ Tameel-i- Irshad)
+Key: Event.sentence, Value: Normalcy continued for the second consecutive day in Kashmir in view of the full day relaxation in general strike.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 20-12-2016
+Key: Node.name, Value: view of the full day relaxation in general strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: normalcy
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: for the second consecutive day in kashmir
+Key: Facet.name, Value: view of the full day relaxation in general strike
+**
+
+
+Key: Event.headline, Value: Surgical strikes across the border can?t be ruled out ? (Urdu Dailies ? Aftab/Tameel-i-Irshad)
+Key: Event.sentence, Value: Stating that more surgical strikes across the border are possible, Army maintained that surgical strikes are the best option to react against militant attacks.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-04-2017
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical strikes
+Key: Predicate.name, Value: are
+Key: Object.name, Value: the best option
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: War in any case is a war, result of which is destruction ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: After India announced India surgical strikes on terrorist camps across the Line of Control, the already existing tension between India and Pakistan has increased manifold and war like situation between the two countries is gradually developing.
+Key: Event.location, Value: India;Pakistan
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical strikes
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: india
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Describing surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction, the writer held that surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction were aimed at misleading the people of India by BJP because upcoming Assembly elections in Uttar Pradesh are nearing.
+Key: Event.location, Value: India;Uttar Pradesh
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical strikes
+Key: Predicate.name, Value: carried out
+Key: Object.name, Value: by indian forces in the territory of pok
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Describing surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction, the writer held that surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction were aimed at misleading the people of India by BJP because upcoming Assembly elections in Uttar Pradesh are nearing.
+Key: Event.location, Value: India;Uttar Pradesh
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical strikes
+Key: Predicate.name, Value: carried out
+Key: Object.name, Value: by indian forces in the territory of pok
+Key: Facet.name, Value: recently
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Describing surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction, the writer held that surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction were aimed at misleading the people of India by BJP because upcoming Assembly elections in Uttar Pradesh are nearing.
+Key: Event.location, Value: India;Uttar Pradesh
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical strikes
+Key: Predicate.name, Value: carried out
+Key: Object.name, Value: by indian forces
+Key: Facet.name, Value: a fiction
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Describing surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction, the writer held that surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction were aimed at misleading the people of India by BJP because upcoming Assembly elections in Uttar Pradesh are nearing.
+Key: Event.location, Value: India;Uttar Pradesh
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical strikes
+Key: Predicate.name, Value: carried out
+Key: Object.name, Value: by indian forces
+Key: Facet.name, Value: the territory of pok
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Describing surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction, the writer held that surgical strikes recently carried out by Indian forces in the territory of PoK as a fiction were aimed at misleading the people of India by BJP because upcoming Assembly elections in Uttar Pradesh are nearing.
+Key: Event.location, Value: India;Uttar Pradesh
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical strikes
+Key: Predicate.name, Value: carried out
+Key: Object.name, Value: by indian forces
+Key: Facet.name, Value: recently
+**
+
+
+Key: Event.headline, Value: ?Breakdown of LoC truce? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: The latest border escalation, which incidentally has followed after New Delhi carried out surgical strikes across the LoC ? albeit denied by Pakistan ? has further soured the already stained ties.
+Key: Event.location, Value: New Delhi;Pakistan
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: new delhi
+Key: Predicate.name, Value: carried out
+Key: Object.name, Value: surgical strikes
+Key: Facet.name, Value: the loc<ctx#1.21>
+**
+
+
+Key: Event.headline, Value: 2016 ? A year of turmoil for J&K ? (English Dailies ? Rising Kashmir/ Kashmir Images- Urdu Dailies- Uqab/ Tameel-i- Irshad)
+Key: Event.sentence, Value: 2016 saw Mehbooba Mufti taking over as the first woman Chief Minister of Jammu and Kashmir and Army claiming to have conducted surgical strikes on militant camps in Pakistan occupied Kashmir (PoK) after a militant attack in Uri left 19 Army men dead while protests for over five months hit hard normal life and resulted in shutdown of Schools and death of 94 people.
+Key: Event.location, Value: Jammu;Kashmir;Pakistan
+Key: Event.date, Value: 27-12-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: army  and
+Key: Predicate.name, Value: have conducted
+Key: Object.name, Value: surgical strikes
+Key: Facet.name, Value: militant camps in pakistan
+**
+
+
+Key: Event.headline, Value: ?India-Pak relations: From bad to worse? ? by Nasir Ahmed (English Daily  - Rising Kashmir)
+Key: Event.sentence, Value: Commenting on the recent militant attacks at Nagrota and Samba (both in Jammu province), the writer held that after Nagrota attack, as after every stand-off in Kashmir, the fear is that this could eventually escalate into a major clash between the two nuclear-armed states, particularly when the heat of Uri attack and the ?surgical strike? was yet to cool down.
+Key: Event.location, Value: Nagrota;Jammu;Kashmir
+Key: Event.date, Value: 02-12-2016
+Key: Node.name, Value: the heat of uri attack and the surgical strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the heat of uri attack and the surgical strike
+Key: Predicate.name, Value: was
+Key: Object.name, Value: yet
+Key: Facet.name, Value: particularly
+**
+
+
+Key: Event.headline, Value: ?India-Pak relations: From bad to worse? ? by Nasir Ahmed (English Daily  - Rising Kashmir)
+Key: Event.sentence, Value: Commenting on the recent militant attacks at Nagrota and Samba (both in Jammu province), the writer held that after Nagrota attack, as after every stand-off in Kashmir, the fear is that this could eventually escalate into a major clash between the two nuclear-armed states, particularly when the heat of Uri attack and the ?surgical strike? was yet to cool down.
+Key: Event.location, Value: Nagrota;Jammu;Kashmir
+Key: Event.date, Value: 02-12-2016
+Key: Node.name, Value: the heat of uri attack and the surgical strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the heat of uri attack and the surgical strike
+Key: Predicate.name, Value: was
+Key: Object.name, Value: yet
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?India-Pak relations: From bad to worse? ? by Nasir Ahmed (English Daily  - Rising Kashmir)
+Key: Event.sentence, Value: Commenting on the recent militant attacks at Nagrota and Samba (both in Jammu province), the writer held that after Nagrota attack, as after every stand-off in Kashmir, the fear is that this could eventually escalate into a major clash between the two nuclear-armed states, particularly when the heat of Uri attack and the ?surgical strike? was yet to cool down.
+Key: Event.location, Value: Nagrota;Jammu;Kashmir
+Key: Event.date, Value: 02-12-2016
+Key: Node.name, Value: the heat of uri attack and the surgical strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the heat of uri attack and the surgical strike
+Key: Predicate.name, Value: was
+Key: Object.name, Value: yet
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/English Daily: ?Former Ministers to lose official bungalows?
+Key: Event.sentence, Value: Ministers in the previous PDP-BJP government were set to lose official bungalows with the Raj Bhawan striking down a proposal for continuation of accommodation facilities to Ministers in the previous PDP-BJP government.
+Key: Event.location, Value: 
+Key: Event.date, Value: 19-02-2016
+Key: Node.name, Value: striking down
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the raj bhawan
+Key: Predicate.name, Value: striking down
+Key: Object.name, Value: a proposal for continuation of accommodation facilities
+Key: Facet.name, Value: the previous pdp-bjp government
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/English Daily: ?Former Ministers to lose official bungalows?
+Key: Event.sentence, Value: Ministers in the previous PDP-BJP government were set to lose official bungalows with the Raj Bhawan striking down a proposal for continuation of accommodation facilities to Ministers in the previous PDP-BJP government.
+Key: Event.location, Value: 
+Key: Event.date, Value: 19-02-2016
+Key: Node.name, Value: striking down
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the raj bhawan
+Key: Predicate.name, Value: striking down
+Key: Object.name, Value: a proposal for continuation of accommodation facilities
+Key: Facet.name, Value: ministers
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/English Daily: ?Former Ministers to lose official bungalows?
+Key: Event.sentence, Value: Ministers in the previous PDP-BJP government were set to lose official bungalows with the Raj Bhawan striking down a proposal for continuation of accommodation facilities to Ministers in the previous PDP-BJP government.
+Key: Event.location, Value: 
+Key: Event.date, Value: 19-02-2016
+Key: Node.name, Value: striking down
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the raj bhawan
+Key: Predicate.name, Value: striking down
+Key: Object.name, Value: a proposal for continuation of accommodation facilities
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Why prolonged hartal is part of the problem and not the solution -  by Suhail Ahmad ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Strikes lose relevance when used aimlessly and arbitrarily.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: strikes
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Stabilization and peace?: (Greater Kashmir/English Daily)
+Key: Event.sentence, Value: The protest strikes observed in Srinagar must be seen as a reiteration of the public sentiment that does not believe in participation in electoral politics as addressing The protest strikes observed in Srinagar quest for political justice.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 13-02-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the protest
+Key: Predicate.name, Value: strikes
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Editorial: ?Stabilization and peace?: (Greater Kashmir/English Daily)
+Key: Event.sentence, Value: The protest strikes observed in Srinagar must be seen as a reiteration of the public sentiment that does not believe in participation in electoral politics as addressing The protest strikes observed in Srinagar quest for political justice.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 13-02-2016
+Key: Node.name, Value: strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the protest
+Key: Predicate.name, Value: strikes
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Kashmir Times/English Dailies ? 7.2.2016: ?Bar pays tributes to Bhat, Guroo.  HCBA for release of Dr. Qasim?. ?Pamphlets for Faktoo?s release in Kishtwar?
+Key: Event.sentence, Value: In support of the strike call given by separatist organizations, J&K High court Bar Association (HCBA) asked the lawyers to abstain from court work on February 9 and 11, 2016.
+Key: Event.location, Value: 
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: in support of the strike call given by separatist organizations
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: j&k high court bar association
+Key: Predicate.name, Value: asked
+Key: Object.name, Value: the lawyers
+Key: Facet.name, Value: in support of the strike call given by separatist organizations
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/Kashmir Times/English Dailies ? 7.2.2016: ?Bar pays tributes to Bhat, Guroo.  HCBA for release of Dr. Qasim?. ?Pamphlets for Faktoo?s release in Kishtwar?
+Key: Event.sentence, Value: In support of the strike call given by separatist organizations, J&K High court Bar Association (HCBA) asked the lawyers to abstain from court work on February 9 and 11, 2016.
+Key: Event.location, Value: 
+Key: Event.date, Value: 08-02-2016
+Key: Node.name, Value: in support of the strike call given by separatist organizations
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: j&k high court bar association
+Key: Predicate.name, Value: asked
+Key: Object.name, Value: the lawyers
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Storm in Kashmir?  - (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: For Hurriyat Conference, the present situation is like ?strike the iron when it is hot? and for separatists it is ?do or die? situation.
+Key: Event.location, Value: Kashmir Valley
+Key: Event.date, Value: 25-07-2016
+Key: Node.name, Value: like for hurriyat conference strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the present situation
+Key: Predicate.name, Value: is
+Key: Object.name, Value: like for hurriyat conference strike
+Key: Facet.name, Value: for hurriyat conference
+**
+
+
+Key: Event.headline, Value: ?Lightning kills Army jawan, injures 2 others; slides block major roads?- ?Schools closed in Doda, Udhampur?:(Kashmir Times/ English Daily- 13.3.2016)
+Key: Event.sentence, Value: As incessant rains continues to lash most part of Jammu and Kashmir region continuously on the second consecutive day, an Army Jawan died and two others sustained injures when two others were struck by lightning in Samba district while shooting stones and land sliding again disrupted vehicular traffic movement on Jammu ? Srinagar highway which was restored after 12 hours of closure.
+Key: Event.location, Value: Jammu;Kashmir;Samba;Srinagar
+Key: Event.date, Value: 14-03-2016
+Key: Node.name, Value: were struck
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: two others
+Key: Predicate.name, Value: were struck
+Key: Object.name, Value: by lightning in samba district
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value:  Kashmir Monitor/English Daily ?  Aftab/Urdu Daily - 20.3.2016: ?After BJP snub, PDP under pressure?     
+Key: Event.sentence, Value: the BJP the BJP stood the BJP ground and told The PDP that the agreement that was struck with the late Mufti Muhammad Sayeed (former Chief Minister) would continue and no fresh demands could be met.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 21-03-2016
+Key: Node.name, Value: was struck
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: was struck
+Key: Object.name, Value: with the late mufti muhammad sayeed
+Key: Facet.name, Value: the agreement
+**
+
+
+Key: Event.headline, Value: Strike continued in Baramulla jail ? (English Daily ? Greater Kashmir ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: The jail inmates inside Baramulla district jail continued Baramulla district jail hunger strike on October 2 demanding impartial probe in the matter that led to scuffle between Baramulla district jail and jail staff.
+Key: Event.location, Value: Baramulla
+Key: Event.date, Value: 02-10-2016
+Key: Node.name, Value: baramulla district jail hunger strike on october 2
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the jail inmates inside baramulla district jail
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: baramulla district jail hunger strike on october 2
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?A master stroke but ??..?  - (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: The sudden announcement of a decision which may be well thought over several months with only a handful of the top echelons in the Modi government having a whiff of it, would cause some disruptions in the interim, but then as the Prime Minister called upon the people, it is the price each citizen is called upon to pay for defeating the monster of corruption and black money, which combined with counterfeit currency and terror funding can strike at the root of a nation.
+Key: Event.location, Value: 
+Key: Event.date, Value: 15-11-2016
+Key: Node.name, Value: can strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: terror funding
+Key: Predicate.name, Value: can strike
+Key: Object.name, Value: at the root of a nation
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: As gold prices soar, Kashmir jewellers said ?no sale, no purchase? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: According to most jewellery showrooms across Kashmir did not entertain any customers during the relaxation hours in the strike, the decision to stop business was taken to avoid buying/selling in view of the volatility in prices.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-11-2016
+Key: Node.name, Value: the relaxation hours in the strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: did not entertain
+Key: Object.name, Value: any customers
+Key: Facet.name, Value: the relaxation hours in the strike
+**
+
+
+Key: Event.headline, Value: As gold prices soar, Kashmir jewellers said ?no sale, no purchase? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: According to most jewellery showrooms across Kashmir did not entertain any customers during the relaxation hours in the strike, the decision to stop business was taken to avoid buying/selling in view of the volatility in prices.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-11-2016
+Key: Node.name, Value: the relaxation hours in the strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: did not entertain
+Key: Object.name, Value: any customers
+Key: Facet.name, Value: according most jewellery showrooms across kashmir
+**
+
+
+Key: Event.headline, Value: As gold prices soar, Kashmir jewellers said ?no sale, no purchase? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: 500 currency notes, gold prices witnessed a sharp increase while most jewellery showrooms across Kashmir did not entertain any customers during the relaxation hours in the strike.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-11-2016
+Key: Node.name, Value: the relaxation hours in the strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: most jewellery showrooms across kashmir
+Key: Predicate.name, Value: did not entertain
+Key: Object.name, Value: any customers
+Key: Facet.name, Value: the relaxation hours in the strike
+**
+
+
+Key: Event.headline, Value: As gold prices soar, Kashmir jewellers said ?no sale, no purchase? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: 500 currency notes, gold prices witnessed a sharp increase while most jewellery showrooms across Kashmir did not entertain any customers during the relaxation hours in the strike.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-11-2016
+Key: Node.name, Value: the relaxation hours in the strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: most jewellery showrooms across kashmir
+Key: Predicate.name, Value: did not entertain
+Key: Object.name, Value: any customers
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Tihar jail:  Extreme of lawlessness? ?  by S. Ahmed Peerzada ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: But when this comes to Kashmiris, whole world and human rights organizations become dumb struck.
+Key: Event.location, Value: Srinagar;Delhi;Kashmir
+Key: Event.date, Value: 04-12-2017
+Key: Node.name, Value: struck
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: struck
+Key: Object.name, Value: <_>
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Sheer hypocrisy: - by Hassan Zainagiri ? (English Daily Greater Kashmir)
+Key: Event.sentence, Value: In New York Omar Abdullah made a case against the both and forgot KashmirKashmir, pellet struck Kashmir, the wounded, maimed and tortured Kashmir, Omar Abdullah added.
+Key: Event.location, Value: New York;Kashmir
+Key: Event.date, Value: 28-10-2016
+Key: Node.name, Value: struck
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet
+Key: Predicate.name, Value: struck
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Sheer hypocrisy: - by Hassan Zainagiri ? (English Daily Greater Kashmir)
+Key: Event.sentence, Value: In New York Omar Abdullah made a case against the both and forgot KashmirKashmir, pellet struck Kashmir, the wounded, maimed and tortured Kashmir, Omar Abdullah added.
+Key: Event.location, Value: New York;Kashmir
+Key: Event.date, Value: 28-10-2016
+Key: Node.name, Value: struck
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet
+Key: Predicate.name, Value: struck
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Only Kashmiris can do it? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: We have breathed through the catastrophes struck on We and have conveyed We (Kashmiris) only can do it.
+Key: Event.location, Value: Kashmir;India
+Key: Event.date, Value: 18-11-2016
+Key: Node.name, Value: struck
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: struck
+Key: Object.name, Value: on we
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Fresh beginning needed? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: The ties further plummeted following Uri attack and India?s surgical strikes along the LoC and the ongoing cross-LoC exchanges.
+Key: Event.location, Value: India
+Key: Event.date, Value: 21-11-2016
+Key: Node.name, Value: surgical strikes along the loc and the ongoing cross-loc exchanges
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the ties
+Key: Predicate.name, Value: plummeted
+Key: Object.name, Value: following uri attack
+Key: Facet.name, Value: surgical strikes along the loc and the ongoing cross-loc exchanges
+**
+
+
+Key: Event.headline, Value: ?Fresh beginning needed? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: The ties further plummeted following Uri attack and India?s surgical strikes along the LoC and the ongoing cross-LoC exchanges.
+Key: Event.location, Value: India
+Key: Event.date, Value: 21-11-2016
+Key: Node.name, Value: surgical strikes along the loc and the ongoing cross-loc exchanges
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the ties
+Key: Predicate.name, Value: plummeted
+Key: Object.name, Value: following uri attack
+Key: Facet.name, Value: further
+**
+
+
+Key: Event.headline, Value: ?Bleak future for children, youth and education? ? by Anuradha Bhasin Jamwal ? (English Daily ? Kashmir Times)
+Key: Event.sentence, Value: The most appalling victimization of children in recent times are the casualties due to pellet injured; massive scale of arrests of young boys and youth; random arrest of boys and youth and detaining boys and youth under PSA; and presence of young boys and youth on the roads with stones and as foot-soldiers ensuring adherence to unspecified rules of the strike, she added.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-11-2016
+Key: Node.name, Value: unspecified rules of the strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: as foot-soldiers  and
+Key: Predicate.name, Value: ensuring
+Key: Object.name, Value: adherence
+Key: Facet.name, Value: unspecified rules of the strike
+**
+
+
+Key: Event.headline, Value: ?A thing called Nuance? ? by Firdous Syed ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Terming ?surgical strike? and ?demonetization? as fashionable terms, the writer maintained that the term ?surgical strike? was illustrative of macho patriotism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 19-11-2016
+Key: Node.name, Value: the term surgical strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the term surgical strike
+Key: Predicate.name, Value: was
+Key: Object.name, Value: illustrative of macho patriotism
+Key: Facet.name, Value: macho patriotism
+**
+
+
+Key: Event.headline, Value: Baramulla jail inmates continued hunger strike ? (English Dailies ? Greater Kashmir ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: According to reports, the jail authorities had started negotiations with jail inmates who tried to pacify the inmates to put an end to hunger strike.
+Key: Event.location, Value: Baramulla
+Key: Event.date, Value: 05-11-2016
+Key: Node.name, Value: hunger strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the inmates
+Key: Predicate.name, Value: put
+Key: Object.name, Value: an end
+Key: Facet.name, Value: hunger strike
+**
+
+
+Key: Event.headline, Value: Baramulla jail inmates continued hunger strike ? (English Dailies ? Greater Kashmir ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: According to reports, the jail authorities had started negotiations with jail inmates who tried to pacify the inmates to put an end to hunger strike.
+Key: Event.location, Value: Baramulla
+Key: Event.date, Value: 05-11-2016
+Key: Node.name, Value: hunger strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the inmates
+Key: Predicate.name, Value: put
+Key: Object.name, Value: an end
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Unbreakable cycle? ? (English Daily ? Kashmir Times)
+Key: Event.sentence, Value: The situation at hand reveals a vertical split within Kashmir with respect to continuation of the strike.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 12-11-2016
+Key: Node.name, Value: continuation of the strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the situation at hand
+Key: Predicate.name, Value: reveals
+Key: Object.name, Value: a vertical split within kashmir with respect
+Key: Facet.name, Value: continuation of the strike
+**
+
+
+Key: Event.headline, Value: Public transport broke shackles; Life limping back to normalcy ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Officials said that this was for the first time in more than four months now that buses were seen on the roads during the strike period.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 16-11-2016
+Key: Node.name, Value: the strike period
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: buses
+Key: Predicate.name, Value: were seen
+Key: Object.name, Value: on the roads
+Key: Facet.name, Value: the strike period
+**
+
+
+Key: Event.headline, Value: Public transport broke shackles; Life limping back to normalcy ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Officials said that this was for the first time in more than four months now that buses were seen on the roads during the strike period.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 16-11-2016
+Key: Node.name, Value: the strike period
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: buses
+Key: Predicate.name, Value: were seen
+Key: Object.name, Value: on the roads
+Key: Facet.name, Value: now
+**
+
+
+Key: Event.headline, Value: Public transport broke shackles; Life limping back to normalcy ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: Officials said that this was for the first time in more than four months now that buses were seen on the roads during the strike period.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 16-11-2016
+Key: Node.name, Value: the strike period
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: buses
+Key: Predicate.name, Value: were seen
+Key: Object.name, Value: on the roads
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Amid shutdown calls, situation in Kashmir showed gradual improvement ? (English Daily ? Kashmir Images)
+Key: Event.sentence, Value: People in many parts of the city came out on October 5 for People in many parts of the city day-to-day activities even as the separatist-sponsored strike continued for the 89th day in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 05-10-2016
+Key: Node.name, Value: the separatist-sponsored strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the separatist-sponsored strike
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: for the 89th day
+Key: Facet.name, Value: kashmir
+**
+
+
+Key: Event.headline, Value: Amid shutdown calls, situation in Kashmir showed gradual improvement ? (English Daily ? Kashmir Images)
+Key: Event.sentence, Value: People in many parts of the city came out on October 5 for People in many parts of the city day-to-day activities even as the separatist-sponsored strike continued for the 89th day in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 05-10-2016
+Key: Node.name, Value: the separatist-sponsored strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the separatist-sponsored strike
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: for the 89th day
+Key: Facet.name, Value: even
+**
+
+
+Key: Event.headline, Value: Amid shutdown calls, situation in Kashmir showed gradual improvement ? (English Daily ? Kashmir Images)
+Key: Event.sentence, Value: People in many parts of the city came out on October 5 for People in many parts of the city day-to-day activities even as the separatist-sponsored strike continued for the 89th day in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 05-10-2016
+Key: Node.name, Value: the separatist-sponsored strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the separatist-sponsored strike
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: for the 89th day
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Kashmir?s wails lost in the war cry ? by Shujaat Bukhari (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Stating that India and Pakistan won?t fight a war, but India and Pakistan have a stake in creating a war-like situation, the writer maintained that war cry has dominated the narrative that shaped, particularly in India, since September 18 attack on an Army base in Uri and with the announcement of surgical strikes by New Delhi.
+Key: Event.location, Value: India;Pakistan;New Delhi
+Key: Event.date, Value: 18-09-2016
+Key: Node.name, Value: september 18 attack on an army base in uri and with the announcement of surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: shaped
+Key: Object.name, Value: particularly in india
+Key: Facet.name, Value: new delhi
+**
+
+
+Key: Event.headline, Value: Kashmir?s wails lost in the war cry ? by Shujaat Bukhari (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Stating that India and Pakistan won?t fight a war, but India and Pakistan have a stake in creating a war-like situation, the writer maintained that war cry has dominated the narrative that shaped, particularly in India, since September 18 attack on an Army base in Uri and with the announcement of surgical strikes by New Delhi.
+Key: Event.location, Value: India;Pakistan;New Delhi
+Key: Event.date, Value: 18-09-2016
+Key: Node.name, Value: september 18 attack on an army base in uri and with the announcement of surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: shaped
+Key: Object.name, Value: particularly in india
+Key: Facet.name, Value: september 18 attack on an army base in uri and with the announcement of surgical strikes
+**
+
+
+Key: Event.headline, Value: Kashmir?s wails lost in the war cry ? by Shujaat Bukhari (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Stating that India and Pakistan won?t fight a war, but India and Pakistan have a stake in creating a war-like situation, the writer maintained that war cry has dominated the narrative that shaped, particularly in India, since September 18 attack on an Army base in Uri and with the announcement of surgical strikes by New Delhi.
+Key: Event.location, Value: India;Pakistan;New Delhi
+Key: Event.date, Value: 18-09-2016
+Key: Node.name, Value: september 18 attack on an army base in uri and with the announcement of surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: shaped
+Key: Object.name, Value: particularly in india
+Key: Facet.name, Value: the narrative
+**
+
+
+Key: Event.headline, Value: ?Cross ? Border firing? ? (English Daily  - Rising Kashmir)
+Key: Event.sentence, Value: Large numbers of people along the border are living in a state of fear due to the escalation in tensions, which have been further amplified due to the celebration of the surgical strikes claimed by the Army to have been carried out across the LoC.
+Key: Event.location, Value: Kashmir;India;Pakistan
+Key: Event.date, Value: 07-10-2016
+Key: Node.name, Value: due the celebration of the surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: have been amplified
+Key: Object.name, Value: due the celebration of the surgical strikes
+Key: Facet.name, Value: in tensions
+**
+
+
+Key: Event.headline, Value: ?Cross ? Border firing? ? (English Daily  - Rising Kashmir)
+Key: Event.sentence, Value: Large numbers of people along the border are living in a state of fear due to the escalation in tensions, which have been further amplified due to the celebration of the surgical strikes claimed by the Army to have been carried out across the LoC.
+Key: Event.location, Value: Kashmir;India;Pakistan
+Key: Event.date, Value: 07-10-2016
+Key: Node.name, Value: due the celebration of the surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: have been amplified
+Key: Object.name, Value: due the celebration of the surgical strikes
+Key: Facet.name, Value: further
+**
+
+
+Key: Event.headline, Value: ?Cross ? Border firing? ? (English Daily  - Rising Kashmir)
+Key: Event.sentence, Value: Large numbers of people along the border are living in a state of fear due to the escalation in tensions, which have been further amplified due to the celebration of the surgical strikes claimed by the Army to have been carried out across the LoC.
+Key: Event.location, Value: Kashmir;India;Pakistan
+Key: Event.date, Value: 07-10-2016
+Key: Node.name, Value: of the surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of the surgical strikes
+Key: Predicate.name, Value: have been carried out
+Key: Object.name, Value: across the loc
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Cross ? Border firing? ? (English Daily  - Rising Kashmir)
+Key: Event.sentence, Value: Large numbers of people along the border are living in a state of fear due to the escalation in tensions, which have been further amplified due to the celebration of the surgical strikes claimed by the Army to have been carried out across the LoC.
+Key: Event.location, Value: Kashmir;India;Pakistan
+Key: Event.date, Value: 07-10-2016
+Key: Node.name, Value: of the surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of the surgical strikes
+Key: Predicate.name, Value: claimed
+Key: Object.name, Value: by the army
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Totally unacceptable? ? (English Daily ? Greaten Kashmir)
+Key: Event.sentence, Value: The ongoing strike has to end someday and the schools have to reopen.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 29-10-2016
+Key: Node.name, Value: the ongoing strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the ongoing strike
+Key: Predicate.name, Value: end
+Key: Object.name, Value: someday
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Totally unacceptable? ? (English Daily ? Greaten Kashmir)
+Key: Event.sentence, Value: The ongoing strike has to end someday and the schools have to reopen.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 29-10-2016
+Key: Node.name, Value: the ongoing strike
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the ongoing strike
+Key: Predicate.name, Value: has
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Delhi policy makers are frustrated with the people?s agitation in Kashmir and Delhi policy makers have committed follies like surgical strikes which have exposed the reality of Indian democracy in the outer world, the writer added.
+Key: Event.location, Value: Delhi;Kashmir
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: and agitation in kashmir committed like surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the people
+Key: Predicate.name, Value: s
+Key: Object.name, Value: and agitation in kashmir committed like surgical strikes
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Delhi policy makers are frustrated with the people?s agitation in Kashmir and Delhi policy makers have committed follies like surgical strikes which have exposed the reality of Indian democracy in the outer world, the writer added.
+Key: Event.location, Value: Delhi;Kashmir
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: and agitation in kashmir committed like surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the people
+Key: Predicate.name, Value: s
+Key: Object.name, Value: and agitation in kashmir committed like surgical strikes
+Key: Facet.name, Value: kashmir
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Delhi policy makers are frustrated with the people?s agitation in Kashmir and Delhi policy makers have committed follies like surgical strikes which have exposed the reality of Indian democracy in the outer world, the writer added.
+Key: Event.location, Value: Delhi;Kashmir
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: surgical strikes<ctx#1.25>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: delhi policy makers
+Key: Predicate.name, Value: have committed
+Key: Object.name, Value: follies
+Key: Facet.name, Value: surgical strikes<ctx#1.25>
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Delhi policy makers are frustrated with the people?s agitation in Kashmir and Delhi policy makers have committed follies like surgical strikes which have exposed the reality of Indian democracy in the outer world, the writer added.
+Key: Event.location, Value: Delhi;Kashmir
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: surgical strikes<ctx#1.25>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: delhi policy makers
+Key: Predicate.name, Value: have committed
+Key: Object.name, Value: follies
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Delhi policy makers are frustrated with the people?s agitation in Kashmir and Delhi policy makers have committed follies like surgical strikes which have exposed the reality of Indian democracy in the outer world, the writer added.
+Key: Event.location, Value: Delhi;Kashmir
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: like surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: have exposed
+Key: Object.name, Value: the reality of indian democracy
+Key: Facet.name, Value: the outer world
+**
+
+
+Key: Event.headline, Value: ?Surgical strike ? fact or fiction? ? by S. Hamid Peerzada (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Delhi policy makers are frustrated with the people?s agitation in Kashmir and Delhi policy makers have committed follies like surgical strikes which have exposed the reality of Indian democracy in the outer world, the writer added.
+Key: Event.location, Value: Delhi;Kashmir
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: like surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: have exposed
+Key: Object.name, Value: the reality of indian democracy
+Key: Facet.name, Value: like surgical strikes
+**
+
+
+Key: Event.headline, Value: ?Calm down? ?   by Hassan Zainagiri - (English Dailies ? Greater Kashmir)
+Key: Event.sentence, Value: Commenting on the claims of India about ?surgical strikes? carried by Delhi forces across the LoC, the writer stated that the fact is that the revengeful mode that India has switched to is only because of Kashmir.
+Key: Event.location, Value: India;Delhi;Kashmir
+Key: Event.date, Value: 07-10-2016
+Key: Node.name, Value: surgical strikes<ctx#1.10>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the writer
+Key: Predicate.name, Value: commenting
+Key: Object.name, Value: on the claims of india
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Calm down? ?   by Hassan Zainagiri - (English Dailies ? Greater Kashmir)
+Key: Event.sentence, Value: Commenting on the claims of India about ?surgical strikes? carried by Delhi forces across the LoC, the writer stated that the fact is that the revengeful mode that India has switched to is only because of Kashmir.
+Key: Event.location, Value: India;Delhi;Kashmir
+Key: Event.date, Value: 07-10-2016
+Key: Node.name, Value: surgical strikes<ctx#1.10>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the writer
+Key: Predicate.name, Value: commenting
+Key: Object.name, Value: on the claims of india
+Key: Facet.name, Value: surgical strikes<ctx#1.10>
+**
+
+
+Key: Event.headline, Value: ?The perilous times we live in? -  by Anuradha Bhasin Jamwal ? (English Daily ? Kashmir Times)
+Key: Event.sentence, Value: The general anger over Uri strikes was understandable but mature governments do not function while deriving mature governments inspiration from emotionalism.
+Key: Event.location, Value: Kashmir;India;Pakistan
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: the general anger over uri strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the general anger over uri strikes
+Key: Predicate.name, Value: was
+Key: Object.name, Value: but understandable not function
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Army on high alert for Pak misadventure; Contingency plan prepared, no families evacuated from LoC as yet: Divisional Commissioner ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Amid fears of Pakistan striking back to counter the surgical strikes conducted by India, Army is on high alert and has increased vigil and alertness along the Line of Control (LoC).
+Key: Event.location, Value: Pakistan;India
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: the surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the surgical strikes
+Key: Predicate.name, Value: conducted
+Key: Object.name, Value: by india
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Army on high alert for Pak misadventure; Contingency plan prepared, no families evacuated from LoC as yet: Divisional Commissioner ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Amid fears of Pakistan striking back to counter the surgical strikes conducted by India, Army is on high alert and has increased vigil and alertness along the Line of Control (LoC).
+Key: Event.location, Value: Pakistan;India
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: the surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: counter
+Key: Object.name, Value: the surgical strikes
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?The long march to nowhere? ? by Zafar Meraj ? (English Daily ? Kashmir Monitor ? Monday Review)
+Key: Event.sentence, Value: Except giving ?hartal? calls for general strikes, the separatists have miserably failed to convince even the separatists ardent supporters of the very purpose of the agitation the separatists are leading.
+Key: Event.location, Value: Valley;Kashmir
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: general strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the separatists
+Key: Predicate.name, Value: giving
+Key: Object.name, Value: hartal calls
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?The long march to nowhere? ? by Zafar Meraj ? (English Daily ? Kashmir Monitor ? Monday Review)
+Key: Event.sentence, Value: Except giving ?hartal? calls for general strikes, the separatists have miserably failed to convince even the separatists ardent supporters of the very purpose of the agitation the separatists are leading.
+Key: Event.location, Value: Valley;Kashmir
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: general strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the separatists
+Key: Predicate.name, Value: giving
+Key: Object.name, Value: hartal calls
+Key: Facet.name, Value: general strikes
+**
+
+
+Key: Event.headline, Value: ?The long march to nowhere? ? by Zafar Meraj ? (English Daily ? Kashmir Monitor ? Monday Review)
+Key: Event.sentence, Value: This is evident from the fact that intensity of the strike and the support that the separatist calendar evoked in early days has started fading?, the writer observed.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: intensity of the strike and the support
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: intensity of the strike and the support
+Key: Predicate.name, Value: has started
+Key: Object.name, Value: fading
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Time for statesmanship? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: India?s surgical strikes inside Pakistan, strongly denied by Pakistan, have upped the stakes in India.
+Key: Event.location, Value: India;Pakistan
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: surgical strikes inside pakistan<ctx#1.9>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: have upped
+Key: Object.name, Value: the stakes
+Key: Facet.name, Value: surgical strikes inside pakistan<ctx#1.9>
+**
+
+
+Key: Event.headline, Value: ?Time for statesmanship? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: India?s surgical strikes inside Pakistan, strongly denied by Pakistan, have upped the stakes in India.
+Key: Event.location, Value: India;Pakistan
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: surgical strikes inside pakistan<ctx#1.9>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: have upped
+Key: Object.name, Value: the stakes
+Key: Facet.name, Value: india
+**
+
+
+Key: Event.headline, Value: ?Time for statesmanship? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: The feared possible retaliation from Pakistan or yet another ?fidayeen? strike at a security installation could dangerously escalate the situation, should New Delhi choose to respond again.
+Key: Event.location, Value: Pakistan;New Delhi
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: the feared possible retaliation from pakistan or yet another fidayeen strike at a security installation
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the feared possible retaliation from pakistan or yet another fidayeen strike at a security installation
+Key: Predicate.name, Value: could escalate
+Key: Object.name, Value: the situation
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Time for statesmanship? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: The feared possible retaliation from Pakistan or yet another ?fidayeen? strike at a security installation could dangerously escalate the situation, should New Delhi choose to respond again.
+Key: Event.location, Value: Pakistan;New Delhi
+Key: Event.date, Value: 03-10-2016
+Key: Node.name, Value: the feared possible retaliation from pakistan or yet another fidayeen strike at a security installation
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the feared possible retaliation from pakistan or yet another fidayeen strike at a security installation
+Key: Predicate.name, Value: could escalate
+Key: Object.name, Value: the situation
+Key: Facet.name, Value: dangerously
+**
+
+
+Key: Event.headline, Value: ?Undeclared Emergency? ? (English Daily ? Kashmir Times)
+Key: Event.sentence, Value: This process has been speeded up since the Uri attack and This process retaliation in the form of the now controversial surgical strikes.
+Key: Event.location, Value: India;Pakistan
+Key: Event.date, Value: 11-10-2016
+Key: Node.name, Value: the form of the now controversial surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: this process
+Key: Predicate.name, Value: has been speeded up
+Key: Object.name, Value: since the uri attack and this process retaliation
+Key: Facet.name, Value: the form of the now controversial surgical strikes
+**
+
+
+Key: Event.headline, Value: Army:  Ready to deal with any misadventure from across LoC ? (English Dailies ? Rising Kashmir/Kashmir Times/Kashmir Images ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma)
+Key: Event.sentence, Value: A senior Army Commander said that Army is ready to deal with any misadventure on Line of control (LoC) after recent surgical strikes across the LoC.
+Key: Event.location, Value: Boniyar;Baramulla
+Key: Event.date, Value: 19-10-2016
+Key: Node.name, Value: recent surgical strikes across the loc
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: army
+Key: Predicate.name, Value: deal
+Key: Object.name, Value: with any misadventure on line of control
+Key: Facet.name, Value: recent surgical strikes across the loc
+**
+
+
+Key: Event.headline, Value: Army:  Ready to deal with any misadventure from across LoC ? (English Dailies ? Rising Kashmir/Kashmir Times/Kashmir Images ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma)
+Key: Event.sentence, Value: A senior Army Commander said that Army is ready to deal with any misadventure on Line of control (LoC) after recent surgical strikes across the LoC.
+Key: Event.location, Value: Boniyar;Baramulla
+Key: Event.date, Value: 19-10-2016
+Key: Node.name, Value: recent surgical strikes across the loc
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: army
+Key: Predicate.name, Value: deal
+Key: Object.name, Value: with any misadventure on line of control
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Address of Prime Minister, Modi?  - (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Without naming Pakistan, his said that world has come to know about India?s defence strength by surgical strikes.
+Key: Event.location, Value: Pakistan;India
+Key: Event.date, Value: 17-08-2017
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: india
+Key: Predicate.name, Value: s
+Key: Object.name, Value: defence strength by surgical strikes
+Key: Facet.name, Value: surgical strikes
+**
+
+
+Key: Event.headline, Value: Indo-Pak trade normal in J&K ? (English Dailies - Greater Kashmir/Rising Kashmir/)
+Key: Event.sentence, Value: Cross border trade between India and Pakistan remained unaffected in Jammu and Kashmir despite surgical strikes by the Army across the Line of Control (LoC), with 26 trucks crossing over to PoK and 13 from there reaching the Indian side.
+Key: Event.location, Value: India;Pakistan;Jammu;Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: cross border trade between india and pakistan
+Key: Predicate.name, Value: remained
+Key: Object.name, Value: unaffected in jammu and kashmir
+Key: Facet.name, Value: 26 trucks<ctx#1.32>
+**
+
+
+Key: Event.headline, Value: Indo-Pak trade normal in J&K ? (English Dailies - Greater Kashmir/Rising Kashmir/)
+Key: Event.sentence, Value: Cross border trade between India and Pakistan remained unaffected in Jammu and Kashmir despite surgical strikes by the Army across the Line of Control (LoC), with 26 trucks crossing over to PoK and 13 from there reaching the Indian side.
+Key: Event.location, Value: India;Pakistan;Jammu;Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: cross border trade between india and pakistan
+Key: Predicate.name, Value: remained
+Key: Object.name, Value: unaffected in jammu and kashmir
+Key: Facet.name, Value: the army across the line of control
+**
+
+
+Key: Event.headline, Value: Indo-Pak trade normal in J&K ? (English Dailies - Greater Kashmir/Rising Kashmir/)
+Key: Event.sentence, Value: Cross border trade between India and Pakistan remained unaffected in Jammu and Kashmir despite surgical strikes by the Army across the Line of Control (LoC), with 26 trucks crossing over to PoK and 13 from there reaching the Indian side.
+Key: Event.location, Value: India;Pakistan;Jammu;Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: cross border trade between india and pakistan
+Key: Predicate.name, Value: remained
+Key: Object.name, Value: unaffected in jammu and kashmir
+Key: Facet.name, Value: surgical strikes
+**
+
+
+Key: Event.headline, Value: Surgical strikes across the border can?t be ruled out ? (Urdu Dailies ? Aftab/Tameel-i-Irshad)
+Key: Event.sentence, Value: Stating that more surgical strikes across the border are possible, Army maintained that surgical strikes are the best option to react against militant attacks.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-04-2017
+Key: Node.name, Value: more surgical strikes across the border
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: more surgical strikes across the border
+Key: Predicate.name, Value: are
+Key: Object.name, Value: possible
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Surgical strikes across the border can?t be ruled out ? (Urdu Dailies ? Aftab/Tameel-i-Irshad)
+Key: Event.sentence, Value: Army has prepared a manuscript in which experiment of surgical strikes have been termed as best option to prevent militant attacks and infiltration.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-04-2017
+Key: Node.name, Value: experiment of surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: experiment of surgical strikes
+Key: Predicate.name, Value: have been termed
+Key: Object.name, Value: as best option
+Key: Facet.name, Value: a manuscript
+**
+
+
+Key: Event.headline, Value: Surgical strikes across the border can?t be ruled out ? (Urdu Dailies ? Aftab/Tameel-i-Irshad)
+Key: Event.sentence, Value: Army has prepared a manuscript in which experiment of surgical strikes have been termed as best option to prevent militant attacks and infiltration.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-04-2017
+Key: Node.name, Value: experiment of surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: experiment of surgical strikes
+Key: Predicate.name, Value: have been termed
+Key: Object.name, Value: as best option
+Key: Facet.name, Value: in which
+**
+
+
+Key: Event.headline, Value: Surgical strikes across the border can?t be ruled out ? (Urdu Dailies ? Aftab/Tameel-i-Irshad)
+Key: Event.sentence, Value: Army has prepared a manuscript in which experiment of surgical strikes have been termed as best option to prevent militant attacks and infiltration.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-04-2017
+Key: Node.name, Value: experiment of surgical strikes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: experiment of surgical strikes
+Key: Predicate.name, Value: have been termed
+Key: Object.name, Value: as best option
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 10,000 NHRM employees would go on strike from December 20 ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: If Government did not take steps after 72 hour strike with regard to their demands and grievances, NHRM employees would be forced to take some hard step in future, NHRM employee added.
+Key: Event.location, Value: Jammu;Srinagar
+Key: Event.date, Value: 19-12-2017
+Key: Node.name, Value: 72 hour strike with regard
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government
+Key: Predicate.name, Value: did not take
+Key: Object.name, Value: steps
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 10,000 NHRM employees would go on strike from December 20 ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: If Government did not take steps after 72 hour strike with regard to their demands and grievances, NHRM employees would be forced to take some hard step in future, NHRM employee added.
+Key: Event.location, Value: Jammu;Srinagar
+Key: Event.date, Value: 19-12-2017
+Key: Node.name, Value: 72 hour strike with regard
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government
+Key: Predicate.name, Value: did not take
+Key: Object.name, Value: steps
+Key: Facet.name, Value: their demands and grievances
+**
+
+
+Key: Event.headline, Value: 10,000 NHRM employees would go on strike from December 20 ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: If Government did not take steps after 72 hour strike with regard to their demands and grievances, NHRM employees would be forced to take some hard step in future, NHRM employee added.
+Key: Event.location, Value: Jammu;Srinagar
+Key: Event.date, Value: 19-12-2017
+Key: Node.name, Value: 72 hour strike with regard
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government
+Key: Predicate.name, Value: did not take
+Key: Object.name, Value: steps
+Key: Facet.name, Value: 72 hour strike with regard
+**
+
+

@@ -1,0 +1,3133 @@
+Key: Event.headline, Value: ?The core issue? ? by Zahid Fayaz ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Almost sixty deaths, hundreds having lost eye sight (to pellets) and thousands injured.
+Key: Event.location, Value: Delhi;Burhan Kashmir
+Key: Event.date, Value: 11-08-2016
+Key: Node.name, Value: and lost eye sight to pellets thousands
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hundreds
+Key: Predicate.name, Value: having
+Key: Object.name, Value: and lost eye sight to pellets thousands
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Kashmir Inc willing to sacrifice business for Kashmir 	cause?- ( English Daily - Greater Kashmir ? Urdu Daily- 	Srinagar Times)
+Key: Event.sentence, Value: Terming it as intolerable, the business community demanded immediate ban on the use of pellet guns.
+Key: Event.location, Value: KEA;Kashmir
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the business community
+Key: Predicate.name, Value: demanded
+Key: Object.name, Value: immediate ban
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Kashmir Inc willing to sacrifice business for Kashmir 	cause?- ( English Daily - Greater Kashmir ? Urdu Daily- 	Srinagar Times)
+Key: Event.sentence, Value: Terming it as intolerable, the business community demanded immediate ban on the use of pellet guns.
+Key: Event.location, Value: KEA;Kashmir
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the business community
+Key: Predicate.name, Value: demanded
+Key: Object.name, Value: immediate ban
+Key: Facet.name, Value: the use of pellet guns
+**
+
+
+Key: Event.headline, Value: ?Lashkar posters against pro-India elements surface in Batamaloo, Srinagar? ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: The Sub-Inspector is accused of firing indiscriminately pellets at a peaceful procession in Anantnag last week.
+Key: Event.location, Value: Anantnag
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: pellets
+Key: Object.name, Value: at a peaceful procession in anantnag last week
+Key: Facet.name, Value: indiscriminately
+**
+
+
+Key: Event.headline, Value: ?Over 8500 civilians injured in forces firing in 49 days? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: The figures by the government revealed the devastation on civilians by pellets, bullets and teargas shells.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 27-08-2016
+Key: Node.name, Value: pellets bullets and teargas shells
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the figures by the government
+Key: Predicate.name, Value: revealed
+Key: Object.name, Value: the devastation
+Key: Facet.name, Value: pellets bullets and teargas shells
+**
+
+
+Key: Event.headline, Value: ?Over 8500 civilians injured in forces firing in 49 days? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: The figures by the government revealed the devastation on civilians by pellets, bullets and teargas shells.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 27-08-2016
+Key: Node.name, Value: pellets bullets and teargas shells
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the figures by the government
+Key: Predicate.name, Value: revealed
+Key: Object.name, Value: the devastation
+Key: Facet.name, Value: civilians
+**
+
+
+Key: Event.headline, Value: ?Peoples? problems ----- increasing with every moment? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Pellet Pellets guns are being used to control protesting youth.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 19-08-2016
+Key: Node.name, Value: pellet pellets guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet pellets guns
+Key: Predicate.name, Value: protesting
+Key: Object.name, Value: youth
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Peoples? problems ----- increasing with every moment? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Pellet Pellets guns are being used to control protesting youth.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 19-08-2016
+Key: Node.name, Value: pellet pellets guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet pellets guns
+Key: Predicate.name, Value: control
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Peoples? problems ----- increasing with every moment? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Pellet Pellets guns are being used to control protesting youth.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 19-08-2016
+Key: Node.name, Value: pellet pellets guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet pellets guns
+Key: Predicate.name, Value: are being used
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Call for UN Session? ? by Z.G. Muhammad ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Those with bullet and pellet wounds had touching an alarming figure of five thousand.
+Key: Event.location, Value: New Delhi;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: those with bullet and pellet wounds
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: those with bullet and pellet wounds
+Key: Predicate.name, Value: touching
+Key: Object.name, Value: an alarming figure of five thousand
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Call for UN Session? ? by Z.G. Muhammad ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Those with bullet and pellet wounds had touching an alarming figure of five thousand.
+Key: Event.location, Value: New Delhi;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: those with bullet and pellet wounds
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: those with bullet and pellet wounds
+Key: Predicate.name, Value: had
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Silence maintained by forces and Police about communal elements in Jammu condemnable:  Javed Mir ? (Urdu Dailies ? Srinagar Times/Tameel-i-Irshad)
+Key: Event.sentence, Value: While bullets and pellets are being freely used on people in Kashmir for simple protests, Police and forces have become silent spectators about excesses being committed in Jammu, J&K Liberation Front (R) Chairman, Javed Ahmed Mir said.
+Key: Event.location, Value: Kashmir;Jammu
+Key: Event.date, Value: 26-04-2017
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets and pellets
+Key: Predicate.name, Value: are being used
+Key: Object.name, Value: on people in kashmir for simple protests
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Silence maintained by forces and Police about communal elements in Jammu condemnable:  Javed Mir ? (Urdu Dailies ? Srinagar Times/Tameel-i-Irshad)
+Key: Event.sentence, Value: While bullets and pellets are being freely used on people in Kashmir for simple protests, Police and forces have become silent spectators about excesses being committed in Jammu, J&K Liberation Front (R) Chairman, Javed Ahmed Mir said.
+Key: Event.location, Value: Kashmir;Jammu
+Key: Event.date, Value: 26-04-2017
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets and pellets
+Key: Predicate.name, Value: are being used
+Key: Object.name, Value: on people in kashmir for simple protests
+Key: Facet.name, Value: freely
+**
+
+
+Key: Event.headline, Value: ?Learn from past mistakes? - (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: During the past two months, it has come to fore that arrests, bullets and pellets have not restored peace and order.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 20-09-2016
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets and pellets
+Key: Predicate.name, Value: have not restored
+Key: Object.name, Value: and peace order
+Key: Facet.name, Value: during the past two months
+**
+
+
+Key: Event.headline, Value: ?Vajpayee again?- (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: In Vajpayee years, bullets and pellets did not use to rain on unarmed protesters.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 13-12-2016
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets and pellets
+Key: Predicate.name, Value: did not use
+Key: Object.name, Value: null
+Key: Facet.name, Value: in vajpayee years
+**
+
+
+Key: Event.headline, Value: ?Call for UN Session? ? by Z.G. Muhammad ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Interestingly and intriguingly when over eight million people were living a caged life, bullets and pellets were being showered on the people at scores of places.
+Key: Event.location, Value: New Delhi;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets and pellets
+Key: Predicate.name, Value: were being showered
+Key: Object.name, Value: on the people
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Call for UN Session? ? by Z.G. Muhammad ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Interestingly and intriguingly when over eight million people were living a caged life, bullets and pellets were being showered on the people at scores of places.
+Key: Event.location, Value: New Delhi;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets and pellets
+Key: Predicate.name, Value: were being showered
+Key: Object.name, Value: on the people
+Key: Facet.name, Value: scores of places
+**
+
+
+Key: Event.headline, Value: ?Enough of patchwork, time for lasting solution to Kashmir: Ghulam Nabi Azad;  MHA panel report on pellet guns shocking and misleading? ? (English Dailies? Greater Kashmir/Rising Kashmir/Kashmir Times ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma)
+Key: Event.sentence, Value: Senior Congress leader and Leader of Opposition in Rajya Sabha, Ghulam Nabi Azad also rejected the report of a committee constituted by the Ministry of Home Affairs for finding an alternative to the pellet guns, stating that it was shocking.
+Key: Event.location, Value: Rajya Sabha
+Key: Event.date, Value: 31-08-2016
+Key: Node.name, Value: the pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of a committee
+Key: Predicate.name, Value: finding
+Key: Object.name, Value: an alternative
+Key: Facet.name, Value: the pellet guns
+**
+
+
+Key: Event.headline, Value: ?Enough of patchwork, time for lasting solution to Kashmir: Ghulam Nabi Azad;  MHA panel report on pellet guns shocking and misleading? ? (English Dailies? Greater Kashmir/Rising Kashmir/Kashmir Times ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma)
+Key: Event.sentence, Value: Senior Congress leader and Leader of Opposition in Rajya Sabha, Ghulam Nabi Azad also rejected the report of a committee constituted by the Ministry of Home Affairs for finding an alternative to the pellet guns, stating that it was shocking.
+Key: Event.location, Value: Rajya Sabha
+Key: Event.date, Value: 31-08-2016
+Key: Node.name, Value: the pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of a committee
+Key: Predicate.name, Value: finding
+Key: Object.name, Value: an alternative
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Adding fuel to fire? -  (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: More than sixty non-combatant, mostly teenagers, have been killed, and over 5000 with bullet and pellet wound admitted to various hospitals.
+Key: Event.location, Value: Jammu;Zojila
+Key: Event.date, Value: 09-08-2016
+Key: Node.name, Value: over 5000 with bullet and pellet wound
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: over 5000 with bullet and pellet wound
+Key: Predicate.name, Value: admitted
+Key: Object.name, Value: to various hospitals
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Not Balochistan but Kashmir needs attention? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Human rights violation in those parts became the theme of the writer Red Fort speech but not the pellet injuries with which scores of young boys and girls would live in Kashmir for rest of young boys and girls life, the writer added.
+Key: Event.location, Value: Red Fort;Kashmir
+Key: Event.date, Value: 17-08-2016
+Key: Node.name, Value: not the theme of the writer red fort speech but the pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: human rights violation in those parts
+Key: Predicate.name, Value: became
+Key: Object.name, Value: not the theme of the writer red fort speech but the pellet injuries
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Not Balochistan but Kashmir needs attention? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Human rights violation in those parts became the theme of the writer Red Fort speech but not the pellet injuries with which scores of young boys and girls would live in Kashmir for rest of young boys and girls life, the writer added.
+Key: Event.location, Value: Red Fort;Kashmir
+Key: Event.date, Value: 17-08-2016
+Key: Node.name, Value: the pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: scores of young boys and girls
+Key: Predicate.name, Value: would live
+Key: Object.name, Value: in kashmir
+Key: Facet.name, Value: the pellet injuries
+**
+
+
+Key: Event.headline, Value: ?Not Balochistan but Kashmir needs attention? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Human rights violation in those parts became the theme of the writer Red Fort speech but not the pellet injuries with which scores of young boys and girls would live in Kashmir for rest of young boys and girls life, the writer added.
+Key: Event.location, Value: Red Fort;Kashmir
+Key: Event.date, Value: 17-08-2016
+Key: Node.name, Value: the pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: scores of young boys and girls
+Key: Predicate.name, Value: would live
+Key: Object.name, Value: in kashmir
+Key: Facet.name, Value: with which
+**
+
+
+Key: Event.headline, Value: ?Not Balochistan but Kashmir needs attention? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Human rights violation in those parts became the theme of the writer Red Fort speech but not the pellet injuries with which scores of young boys and girls would live in Kashmir for rest of young boys and girls life, the writer added.
+Key: Event.location, Value: Red Fort;Kashmir
+Key: Event.date, Value: 17-08-2016
+Key: Node.name, Value: the pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: scores of young boys and girls
+Key: Predicate.name, Value: would live
+Key: Object.name, Value: in kashmir
+Key: Facet.name, Value: rest of young boys and girls life
+**
+
+
+Key: Event.headline, Value: ?Fired above the waist:  Trail of bullet casualties reveal intent to kill? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: With the use of pellet guns evoking massive public outrage for maiming and blinding youth, the sheer magnitude and nature of casualties caused by bullets was overwhelming.
+Key: Event.location, Value: 
+Key: Event.date, Value: 01-09-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the use of pellet guns
+Key: Predicate.name, Value: blinding
+Key: Object.name, Value: <_>
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Fired above the waist:  Trail of bullet casualties reveal intent to kill? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: With the use of pellet guns evoking massive public outrage for maiming and blinding youth, the sheer magnitude and nature of casualties caused by bullets was overwhelming.
+Key: Event.location, Value: 
+Key: Event.date, Value: 01-09-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the use of pellet guns
+Key: Predicate.name, Value: maiming
+Key: Object.name, Value: null
+Key: Facet.name, Value: youth
+**
+
+
+Key: Event.headline, Value: ?Fired above the waist:  Trail of bullet casualties reveal intent to kill? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: With the use of pellet guns evoking massive public outrage for maiming and blinding youth, the sheer magnitude and nature of casualties caused by bullets was overwhelming.
+Key: Event.location, Value: 
+Key: Event.date, Value: 01-09-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the use of pellet guns
+Key: Predicate.name, Value: maiming
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Fired above the waist:  Trail of bullet casualties reveal intent to kill? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: With the use of pellet guns evoking massive public outrage for maiming and blinding youth, the sheer magnitude and nature of casualties caused by bullets was overwhelming.
+Key: Event.location, Value: 
+Key: Event.date, Value: 01-09-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the use of pellet guns
+Key: Predicate.name, Value: evoking
+Key: Object.name, Value: massive public outrage
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Fired above the waist:  Trail of bullet casualties reveal intent to kill? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: With the use of pellet guns evoking massive public outrage for maiming and blinding youth, the sheer magnitude and nature of casualties caused by bullets was overwhelming.
+Key: Event.location, Value: 
+Key: Event.date, Value: 01-09-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the use of pellet guns
+Key: Predicate.name, Value: evoking
+Key: Object.name, Value: massive public outrage
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Who is responsible for prolonging ?Hartal? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: More importantly, despite assurances of the Union Home Minister in Parliament in this regard, the use of pellet guns has not been implemented on ground, so far.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 19-11-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the use of pellet guns
+Key: Predicate.name, Value: has not been implemented so
+Key: Object.name, Value: on ground
+Key: Facet.name, Value: more importantly
+**
+
+
+Key: Event.headline, Value: ?Who is responsible for prolonging ?Hartal? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: More importantly, despite assurances of the Union Home Minister in Parliament in this regard, the use of pellet guns has not been implemented on ground, so far.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 19-11-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the use of pellet guns
+Key: Predicate.name, Value: has not been implemented so
+Key: Object.name, Value: on ground
+Key: Facet.name, Value: despite assurances of the union home minister in parliament in this regard
+**
+
+
+Key: Event.headline, Value: ?Who is responsible for prolonging ?Hartal? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: More importantly, despite assurances of the Union Home Minister in Parliament in this regard, the use of pellet guns has not been implemented on ground, so far.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 19-11-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the use of pellet guns
+Key: Predicate.name, Value: has not been implemented so
+Key: Object.name, Value: on ground
+Key: Facet.name, Value: so far
+**
+
+
+Key: Event.headline, Value: ?Follow up the words with action? - (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: the Modi Government can begin with the three unanimous demands of the opposition- stopping the use of pellet guns on protestors  with immediate effect to prevent further causalities, holding an all- party meeting before sending a Parliamentary delegation to the Valley.
+Key: Event.location, Value: Kashmir;Valley
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: stopping
+Key: Object.name, Value: the use of pellet guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Follow up the words with action? - (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: the Modi Government can begin with the three unanimous demands of the opposition- stopping the use of pellet guns on protestors  with immediate effect to prevent further causalities, holding an all- party meeting before sending a Parliamentary delegation to the Valley.
+Key: Event.location, Value: Kashmir;Valley
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: stopping
+Key: Object.name, Value: the use of pellet guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Follow up the words with action? - (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: the Modi Government can begin with the three unanimous demands of the opposition- stopping the use of pellet guns on protestors  with immediate effect to prevent further causalities, holding an all- party meeting before sending a Parliamentary delegation to the Valley.
+Key: Event.location, Value: Kashmir;Valley
+Key: Event.date, Value: 10-08-2016
+Key: Node.name, Value: the use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: stopping
+Key: Object.name, Value: the use of pellet guns
+Key: Facet.name, Value: protestors with immediate effect
+**
+
+
+Key: Event.headline, Value: ?Non- Lethal pellets kill at ? least 6 in 50 days, Fatal perforations in 19 -  year old Amir?s Heart, Lungs: Doctors? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: With the death of Pulwama youth Amir Gul Mir, the number of youth losing their life to pellets in the past 50 days of unrest has risen to six.
+Key: Event.location, Value: Pulwama
+Key: Event.date, Value: 29-08-2016
+Key: Node.name, Value: pellets in the past 50 days of unrest
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of youth
+Key: Predicate.name, Value: losing
+Key: Object.name, Value: their life
+Key: Facet.name, Value: pellets in the past 50 days of unrest
+**
+
+
+Key: Event.headline, Value: Pellet plight: Hit in eyes, many victims ?legally blind?, others to have ?usable vision?: Doctors ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: As per records at general speciality SMHS Hospital, at least 300 people have least 300 people eyes so badly damaged by pellet injuries that chances of recovery are bare minimum.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: by pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least 300 people
+Key: Predicate.name, Value: have damaged
+Key: Object.name, Value: by pellet injuries
+Key: Facet.name, Value: as per records at general speciality smhs hospital
+**
+
+
+Key: Event.headline, Value: Pellet plight: Hit in eyes, many victims ?legally blind?, others to have ?usable vision?: Doctors ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: As per records at general speciality SMHS Hospital, at least 300 people have least 300 people eyes so badly damaged by pellet injuries that chances of recovery are bare minimum.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: by pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least 300 people
+Key: Predicate.name, Value: have damaged
+Key: Object.name, Value: by pellet injuries
+Key: Facet.name, Value: 300 people eyes so badly
+**
+
+
+Key: Event.headline, Value: ?Non- Lethal pellets kill at ? least 6 in 50 days, Fatal perforations in 19 -  year old Amir?s Heart, Lungs: Doctors? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: During the action by security forces on ongoing protests, at least six youth had been killed by pellet injuries as per the records at Hospitals, bursting the bubble of the non-lethality of this weapon.
+Key: Event.location, Value: Pinglina;Pulwama;SMHS Hospital
+Key: Event.date, Value: 29-08-2016
+Key: Node.name, Value: by pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least six youth
+Key: Predicate.name, Value: had been killed
+Key: Object.name, Value: by pellet injuries
+Key: Facet.name, Value: during the action by security forces on ongoing protests
+**
+
+
+Key: Event.headline, Value: ?Non- Lethal pellets kill at ? least 6 in 50 days, Fatal perforations in 19 -  year old Amir?s Heart, Lungs: Doctors? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: During the action by security forces on ongoing protests, at least six youth had been killed by pellet injuries as per the records at Hospitals, bursting the bubble of the non-lethality of this weapon.
+Key: Event.location, Value: Pinglina;Pulwama;SMHS Hospital
+Key: Event.date, Value: 29-08-2016
+Key: Node.name, Value: by pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least six youth
+Key: Predicate.name, Value: had been killed
+Key: Object.name, Value: by pellet injuries
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Non- Lethal pellets kill at ? least 6 in 50 days, Fatal perforations in 19 -  year old Amir?s Heart, Lungs: Doctors? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: During the action by security forces on ongoing protests, at least six youth had been killed by pellet injuries as per the records at Hospitals, bursting the bubble of the non-lethality of this weapon.
+Key: Event.location, Value: Pinglina;Pulwama;SMHS Hospital
+Key: Event.date, Value: 29-08-2016
+Key: Node.name, Value: by pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least six youth
+Key: Predicate.name, Value: had been killed
+Key: Object.name, Value: by pellet injuries
+Key: Facet.name, Value: per the records at hospitals
+**
+
+
+Key: Event.headline, Value: ?As Govt justified pellets, 9 youth killed, so far? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: 23 - year old Yawar Ahmad of Botengoo in South Kashmir had pellet injures in 23 - year old Yawar Ahmad of Botengoo in South Kashmir chest and abdomen?.
+Key: Event.location, Value: Botengoo;South Kashmir
+Key: Event.date, Value: 12-09-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: old yawar ahmad of botengoo in south kashmir
+Key: Predicate.name, Value: had
+Key: Object.name, Value: pellet
+Key: Facet.name, Value: year
+**
+
+
+Key: Event.headline, Value: ?Sheer hypocrisy: - by Hassan Zainagiri ? (English Daily Greater Kashmir)
+Key: Event.sentence, Value: In New York Omar Abdullah made a case against the both and forgot KashmirKashmir, pellet struck Kashmir, the wounded, maimed and tortured Kashmir, Omar Abdullah added.
+Key: Event.location, Value: New York;Kashmir
+Key: Event.date, Value: 28-10-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet
+Key: Predicate.name, Value: struck
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Sheer hypocrisy: - by Hassan Zainagiri ? (English Daily Greater Kashmir)
+Key: Event.sentence, Value: In New York Omar Abdullah made a case against the both and forgot KashmirKashmir, pellet struck Kashmir, the wounded, maimed and tortured Kashmir, Omar Abdullah added.
+Key: Event.location, Value: New York;Kashmir
+Key: Event.date, Value: 28-10-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet
+Key: Predicate.name, Value: struck
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Sheer hypocrisy: - by Hassan Zainagiri ? (English Daily Greater Kashmir)
+Key: Event.sentence, Value: In New York Omar Abdullah made a case against the both and forgot KashmirKashmir, pellet struck Kashmir, the wounded, maimed and tortured Kashmir, Omar Abdullah added.
+Key: Event.location, Value: New York;Kashmir
+Key: Event.date, Value: 28-10-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet
+Key: Predicate.name, Value: forgot
+Key: Object.name, Value: kashmirkashmir
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 16-25 year-olds worst hit in turmoil ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: According to an official data, at least 9010 people have been injured in forces firing, pellet and tear gas shelling and beating across the Valley in last four months of unrest.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 12-11-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: pellet
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Dr. Sameer Kaul appeals for calm in Kashmir? ? (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: Pellet guns have obviously caused unacceptable morbidity?, Pellet said.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 26-07-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet
+Key: Predicate.name, Value: said
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Stop using excessive force: AI tells JK authorities? - (English Dailies - Greater Kashmir)
+Key: Event.sentence, Value: Security forces must use live ammunition only as a last resort to protect against threat to life, and not use pellet - firing shotguns against protestors?.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 12-07-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: security forces
+Key: Predicate.name, Value: not use
+Key: Object.name, Value: pellet
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Non- Lethal pellets kill at ? least 6 in 50 days, Fatal perforations in 19 -  year old Amir?s Heart, Lungs: Doctors? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: On August 24 morning, pellet - hit Amir Gul Wani, a 19 ? year old youth from Pinglina, Pulwama was brought in SMHS Hospital, where he was declared brought dead.
+Key: Event.location, Value: Pinglina;Pulwama;SMHS Hospital
+Key: Event.date, Value: 24-08-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: on august 24 morning
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: pellet
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?JKHCBA condemns fresh killings? ? (English Dailies ? 	Greater Kashmir/ Rising Kashmir )
+Key: Event.sentence, Value: A J&K High Court Bar Association Srinagar, Spokesman in a statement said that JKHCBA Srinagar, strongly condemned the killing of 3 more civilians and injuring of 500 more in different parts of Kashmir, by use of bullets and pellets by the forces, who under a well-designed conspiracy, are slaughtering the Muslims of Kashmir and are blinding and maiming the Muslims of Kashmir with impunity and the people around the world are watching the same calmly, callously and with complacency.
+Key: Event.location, Value: JKHCBA Srinagar;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: use of bullets and pellets by the forces<ctx#1.54>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: jkhcba srinagar
+Key: Predicate.name, Value: injuring
+Key: Object.name, Value: of 500 more
+Key: Facet.name, Value: use of bullets and pellets by the forces<ctx#1.54>
+**
+
+
+Key: Event.headline, Value: ?JKHCBA condemns fresh killings? ? (English Dailies ? 	Greater Kashmir/ Rising Kashmir )
+Key: Event.sentence, Value: A J&K High Court Bar Association Srinagar, Spokesman in a statement said that JKHCBA Srinagar, strongly condemned the killing of 3 more civilians and injuring of 500 more in different parts of Kashmir, by use of bullets and pellets by the forces, who under a well-designed conspiracy, are slaughtering the Muslims of Kashmir and are blinding and maiming the Muslims of Kashmir with impunity and the people around the world are watching the same calmly, callously and with complacency.
+Key: Event.location, Value: JKHCBA Srinagar;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: use of bullets and pellets by the forces<ctx#1.54>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: jkhcba srinagar
+Key: Predicate.name, Value: injuring
+Key: Object.name, Value: of 500 more
+Key: Facet.name, Value: different parts of kashmir
+**
+
+
+Key: Event.headline, Value: ?JKHCBA condemns fresh killings? ? (English Dailies ? 	Greater Kashmir/ Rising Kashmir )
+Key: Event.sentence, Value: A J&K High Court Bar Association Srinagar, Spokesman in a statement said that JKHCBA Srinagar, strongly condemned the killing of 3 more civilians and injuring of 500 more in different parts of Kashmir, by use of bullets and pellets by the forces, who under a well-designed conspiracy, are slaughtering the Muslims of Kashmir and are blinding and maiming the Muslims of Kashmir with impunity and the people around the world are watching the same calmly, callously and with complacency.
+Key: Event.location, Value: JKHCBA Srinagar;Kashmir
+Key: Event.date, Value: 08-08-2016
+Key: Node.name, Value: use of bullets and pellets by the forces<ctx#1.54>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: jkhcba srinagar
+Key: Predicate.name, Value: injuring
+Key: Object.name, Value: of 500 more
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellets leave deaf- and ?dumb boy blinded for life; Troops injured multi- talented videographer, driver, decorator Suhail on Eid ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Suhail had not let disability come in Suhail way by earning a living working as a videographer, a driver and a decorator until Suhail lost Suhail vision with pellets fired by government forces at Suhail on Eid when everyone at Suhail home was preparing to get the sacrificial sheep slaughtered.
+Key: Event.location, Value: 
+Key: Event.date, Value: 26-12-2016
+Key: Node.name, Value: pellets<ctx#1.31>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: suhail
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: suhail vision
+Key: Facet.name, Value: pellets<ctx#1.31>
+**
+
+
+Key: Event.headline, Value: Pellets leave deaf- and ?dumb boy blinded for life; Troops injured multi- talented videographer, driver, decorator Suhail on Eid ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Suhail had not let disability come in Suhail way by earning a living working as a videographer, a driver and a decorator until Suhail lost Suhail vision with pellets fired by government forces at Suhail on Eid when everyone at Suhail home was preparing to get the sacrificial sheep slaughtered.
+Key: Event.location, Value: 
+Key: Event.date, Value: 26-12-2016
+Key: Node.name, Value: pellets<ctx#1.31>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: suhail
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: suhail vision
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: After regaining vision, pellet victim narrates how it?s to grope in darkness ? (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: With hundreds of pellet victims struggling to regain vision despite multiple surgeries, Hafiz Shahid Ali of Anatnag has been lucky to have Hafiz Shahid Ali of Anatnag sight back after both Hafiz Shahid Ali of Anatnag eyes were damaged by pellets.
+Key: Event.location, Value: Anatnag
+Key: Event.date, Value: 28-12-2016
+Key: Node.name, Value: of pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of pellet victims
+Key: Predicate.name, Value: regain
+Key: Object.name, Value: vision
+Key: Facet.name, Value: multiple surgeries
+**
+
+
+Key: Event.headline, Value: After regaining vision, pellet victim narrates how it?s to grope in darkness ? (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: With hundreds of pellet victims struggling to regain vision despite multiple surgeries, Hafiz Shahid Ali of Anatnag has been lucky to have Hafiz Shahid Ali of Anatnag sight back after both Hafiz Shahid Ali of Anatnag eyes were damaged by pellets.
+Key: Event.location, Value: Anatnag
+Key: Event.date, Value: 28-12-2016
+Key: Node.name, Value: of pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of pellet victims
+Key: Predicate.name, Value: struggling
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: After regaining vision, pellet victim narrates how it?s to grope in darkness ? (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: With hundreds of pellet victims struggling to regain vision despite multiple surgeries, Hafiz Shahid Ali of Anatnag has been lucky to have Hafiz Shahid Ali of Anatnag sight back after both Hafiz Shahid Ali of Anatnag eyes were damaged by pellets.
+Key: Event.location, Value: Anatnag
+Key: Event.date, Value: 28-12-2016
+Key: Node.name, Value: with hundreds of pellet victims lucky
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hafiz shahid ali of anatnag
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: with hundreds of pellet victims lucky
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: After regaining vision, pellet victim narrates how it?s to grope in darkness ? (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: With hundreds of pellet victims struggling to regain vision despite multiple surgeries, Hafiz Shahid Ali of Anatnag has been lucky to have Hafiz Shahid Ali of Anatnag sight back after both Hafiz Shahid Ali of Anatnag eyes were damaged by pellets.
+Key: Event.location, Value: Anatnag
+Key: Event.date, Value: 28-12-2016
+Key: Node.name, Value: with hundreds of pellet victims lucky
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hafiz shahid ali of anatnag
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: with hundreds of pellet victims lucky
+Key: Facet.name, Value: with hundreds of pellet victims<ctx#1.6>
+**
+
+
+Key: Event.headline, Value: After regaining vision, pellet victim narrates how it?s to grope in darkness ? (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: With hundreds of pellet victims struggling to regain vision despite multiple surgeries, Hafiz Shahid Ali of Anatnag has been lucky to have Hafiz Shahid Ali of Anatnag sight back after both Hafiz Shahid Ali of Anatnag eyes were damaged by pellets.
+Key: Event.location, Value: Anatnag
+Key: Event.date, Value: 28-12-2016
+Key: Node.name, Value: with hundreds of pellet victims lucky
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hafiz shahid ali of anatnag
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: with hundreds of pellet victims lucky
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: After regaining vision, pellet victim narrates how it?s to grope in darkness ? (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: With hundreds of pellet victims struggling to regain vision despite multiple surgeries, Hafiz Shahid Ali of Anatnag has been lucky to have Hafiz Shahid Ali of Anatnag sight back after both Hafiz Shahid Ali of Anatnag eyes were damaged by pellets.
+Key: Event.location, Value: Anatnag
+Key: Event.date, Value: 28-12-2016
+Key: Node.name, Value: with hundreds of pellet victims<ctx#1.6>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hafiz shahid ali of anatnag
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: with hundreds of pellet victims lucky
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: After regaining vision, pellet victim narrates how it?s to grope in darkness ? (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: With hundreds of pellet victims struggling to regain vision despite multiple surgeries, Hafiz Shahid Ali of Anatnag has been lucky to have Hafiz Shahid Ali of Anatnag sight back after both Hafiz Shahid Ali of Anatnag eyes were damaged by pellets.
+Key: Event.location, Value: Anatnag
+Key: Event.date, Value: 28-12-2016
+Key: Node.name, Value: with hundreds of pellet victims<ctx#1.6>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hafiz shahid ali of anatnag
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: with hundreds of pellet victims lucky
+Key: Facet.name, Value: with hundreds of pellet victims<ctx#1.6>
+**
+
+
+Key: Event.headline, Value: After regaining vision, pellet victim narrates how it?s to grope in darkness ? (English Daily ? Rising  Kashmir)
+Key: Event.sentence, Value: With hundreds of pellet victims struggling to regain vision despite multiple surgeries, Hafiz Shahid Ali of Anatnag has been lucky to have Hafiz Shahid Ali of Anatnag sight back after both Hafiz Shahid Ali of Anatnag eyes were damaged by pellets.
+Key: Event.location, Value: Anatnag
+Key: Event.date, Value: 28-12-2016
+Key: Node.name, Value: with hundreds of pellet victims<ctx#1.6>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hafiz shahid ali of anatnag
+Key: Predicate.name, Value: has been
+Key: Object.name, Value: with hundreds of pellet victims lucky
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Take my eyes but help my son see again; Mother of 12- year old pellet victim pleads doctors as young boy struggles for vision after 3 surgeries ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Suddenly a team of doctors come out for tea-break after yet another hectic day to perform eye-surgeries upon pellet victims.
+Key: Event.location, Value: Shafeeqa Bano;Khanyar Srinagar;Operation Theatre;SMHS Hospital Srinagar
+Key: Event.date, Value: 29-12-2016
+Key: Node.name, Value: pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a team of doctors
+Key: Predicate.name, Value: perform
+Key: Object.name, Value: eye-surgeries
+Key: Facet.name, Value: pellet victims
+**
+
+
+Key: Event.headline, Value: Take my eyes but help my son see again; Mother of 12- year old pellet victim pleads doctors as young boy struggles for vision after 3 surgeries ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Suddenly a team of doctors come out for tea-break after yet another hectic day to perform eye-surgeries upon pellet victims.
+Key: Event.location, Value: Shafeeqa Bano;Khanyar Srinagar;Operation Theatre;SMHS Hospital Srinagar
+Key: Event.date, Value: 29-12-2016
+Key: Node.name, Value: pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a team of doctors
+Key: Predicate.name, Value: perform
+Key: Object.name, Value: eye-surgeries
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: YEAR ENDER; Political turmoil, killings, controversies mark 2016 ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: the year which saw PDP President Mehbooba Mufti rising to become the first female chief minister of the State would be remembered for sheer number of dead eyes that resulted from metallic pellets fired by security forces on protesting youth during the five-month long uprising triggered by the killings of rebel commander Burhan Muzaffer Wani by security forces.
+Key: Event.location, Value: 
+Key: Event.date, Value: 30-12-2016
+Key: Node.name, Value: from metallic pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: resulted
+Key: Object.name, Value: from metallic pellets
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet Paradox: Unabated casualties belie Govt claims ? (English Dailies ? Rising Kashmir/Kashmir Times)
+Key: Event.sentence, Value: As many as 3113 people have been blinded and maimed by pellet since August 26 after Union Home Minister, Rajnath Singh announced (August 25) the decision to explore alternatives to pellet guns.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: alternatives
+Key: Predicate.name, Value: pellet
+Key: Object.name, Value: guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Bleak future for children, youth and education? ? by Anuradha Bhasin Jamwal ? (English Daily ? Kashmir Times)
+Key: Event.sentence, Value: The most appalling victimization of children in recent times are the casualties due to pellet injured; massive scale of arrests of young boys and youth; random arrest of boys and youth and detaining boys and youth under PSA; and presence of young boys and youth on the roads with stones and as foot-soldiers ensuring adherence to unspecified rules of the strike, she added.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-11-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: pellet
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Revolutionary songs reverberated in mosques at Pampore;  Despite restrictions youths held protests, 15 injured?:(Srinagar Times/Aftab/Urdu Dailies)
+Key: Event.sentence, Value: Meanwhile 15 youth were injured due to pellet firing in clashes between 15 youth and security forces.
+Key: Event.location, Value: Pampore;Awantipora;Pulwama;Kakapora;Srinagar;Jammu Highway
+Key: Event.date, Value: 23-02-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 15 youth
+Key: Predicate.name, Value: pellet
+Key: Object.name, Value: firing
+Key: Facet.name, Value: clashes between 15 youth and security forces
+**
+
+
+Key: Event.headline, Value: 2016 ? A year of turmoil for J&K ? (English Dailies ? Rising Kashmir/ Kashmir Images- Urdu Dailies- Uqab/ Tameel-i- Irshad)
+Key: Event.sentence, Value: The Government had also to grapple with the National Institute of Technology (NIT) unrest, mysterious school burning incident and blinding due to pellet gun firing issues.
+Key: Event.location, Value: Delhi;Jammu;Kashmir;Pakistan
+Key: Event.date, Value: 27-12-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: pellet
+Key: Object.name, Value: gun firing issues
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Fresh call for protests throws up new security challenge; Special DGP  says ready to deal with situation; Pellets to be used as last resort? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: On the use of pellets, He said that pellets would be the last resort.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 23-12-2016
+Key: Node.name, Value: on the use of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: he
+Key: Predicate.name, Value: said
+Key: Object.name, Value: null
+Key: Facet.name, Value: on the use of pellets
+**
+
+
+Key: Event.headline, Value: ?Pellet gun ?. Intentions of Government doubtful? ? (Urdu Daily - Kashmir Uzma)
+Key: Event.sentence, Value: If use of pellets continued, use of pellets continued won?t be difficult to judge that the State and Central Governments are bent upon blinding the young generation of Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-07-2016
+Key: Node.name, Value: use of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: use of pellets
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Pellet gun ?. Intentions of Government doubtful? ? (Urdu Daily - Kashmir Uzma)
+Key: Event.sentence, Value: If use of pellets continued, use of pellets continued won?t be difficult to judge that the State and Central Governments are bent upon blinding the young generation of Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 27-07-2016
+Key: Node.name, Value: use of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: use of pellets
+Key: Predicate.name, Value: continued
+Key: Object.name, Value: <_>
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Pellets not used in civilized world, HC asks Government to think of discontinuing use of pellet guns? -  (English Dailies ? Greater Kashmir/Kashmir Reader)
+Key: Event.sentence, Value: The Jammu and Kashmir High Court observed that the Government should think over discontinuing use of pellets in quelling protests in Kashmir.
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 21-07-2016
+Key: Node.name, Value: use of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the government
+Key: Predicate.name, Value: discontinuing
+Key: Object.name, Value: use of pellets
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Pellets not used in civilized world, HC asks Government to think of discontinuing use of pellet guns? -  (English Dailies ? Greater Kashmir/Kashmir Reader)
+Key: Event.sentence, Value: Directing the Advocate General to provide the latest information about the number of pellet ? hit persons, Kashmir High Court said, ?Pellets are not used anywhere in the civilized world.?
+Key: Event.location, Value: Jammu;Kashmir
+Key: Event.date, Value: 21-07-2016
+Key: Node.name, Value: the latest information about the number of pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the latest information about the number of pellet
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: persons
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?From Kokernag to Kupwara? ?  by S. Hamid Peerzada? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Dwelling at length on the killing of HM commander, Burhan Wani and Burhan Wani two associates at Kokernag (district Anantnag) on July 8, 2016, the writer highlighted the law and order situation that emerged thereafter in the entire Valley and criticized excessive use of pellet guns in which, according to Burhan Wani estimate, 137 youth have lost 137 youth eyesight.
+Key: Event.location, Value: Kokernag;Anantnag;Valley
+Key: Event.date, Value: 08-07-2016
+Key: Node.name, Value: excessive use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: criticized
+Key: Object.name, Value: excessive use of pellet guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?From Kokernag to Kupwara? ?  by S. Hamid Peerzada? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Dwelling at length on the killing of HM commander, Burhan Wani and Burhan Wani two associates at Kokernag (district Anantnag) on July 8, 2016, the writer highlighted the law and order situation that emerged thereafter in the entire Valley and criticized excessive use of pellet guns in which, according to Burhan Wani estimate, 137 youth have lost 137 youth eyesight.
+Key: Event.location, Value: Kokernag;Anantnag;Valley
+Key: Event.date, Value: 08-07-2016
+Key: Node.name, Value: excessive use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 137 youth
+Key: Predicate.name, Value: have lost
+Key: Object.name, Value: 137 youth eyesight
+Key: Facet.name, Value: excessive use of pellet guns
+**
+
+
+Key: Event.headline, Value: ?From Kokernag to Kupwara? ?  by S. Hamid Peerzada? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Dwelling at length on the killing of HM commander, Burhan Wani and Burhan Wani two associates at Kokernag (district Anantnag) on July 8, 2016, the writer highlighted the law and order situation that emerged thereafter in the entire Valley and criticized excessive use of pellet guns in which, according to Burhan Wani estimate, 137 youth have lost 137 youth eyesight.
+Key: Event.location, Value: Kokernag;Anantnag;Valley
+Key: Event.date, Value: 08-07-2016
+Key: Node.name, Value: excessive use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 137 youth
+Key: Predicate.name, Value: have lost
+Key: Object.name, Value: 137 youth eyesight
+Key: Facet.name, Value: in which
+**
+
+
+Key: Event.headline, Value: ?From Kokernag to Kupwara? ?  by S. Hamid Peerzada? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Dwelling at length on the killing of HM commander, Burhan Wani and Burhan Wani two associates at Kokernag (district Anantnag) on July 8, 2016, the writer highlighted the law and order situation that emerged thereafter in the entire Valley and criticized excessive use of pellet guns in which, according to Burhan Wani estimate, 137 youth have lost 137 youth eyesight.
+Key: Event.location, Value: Kokernag;Anantnag;Valley
+Key: Event.date, Value: 08-07-2016
+Key: Node.name, Value: excessive use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 137 youth
+Key: Predicate.name, Value: have lost
+Key: Object.name, Value: 137 youth eyesight
+Key: Facet.name, Value: according burhan wani estimate
+**
+
+
+Key: Event.headline, Value: ?HCBA team visits SMHS hospital; Says pellet victims worried about treatment quality in Valley? ? (English Dailies ? Greater Kashmir/Kashmir Reader)
+Key: Event.sentence, Value: Jammu and Kashmir High Court Bar Association (HCBA) said that the victims of pellet injuries who were hit in the eyes have expressed concern about proper treatment in Srinagar hospital, citing scarcity of expert staff and requisite facilities for delicate surgeries.
+Key: Event.location, Value: Jammu;Srinagar
+Key: Event.date, Value: 28-07-2016
+Key: Node.name, Value: of pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: were hit
+Key: Object.name, Value: in the eyes
+Key: Facet.name, Value: of pellet injuries
+**
+
+
+Key: Event.headline, Value: ?HCBA team visits SMHS hospital; Says pellet victims worried about treatment quality in Valley? ? (English Dailies ? Greater Kashmir/Kashmir Reader)
+Key: Event.sentence, Value: Jammu and Kashmir High Court Bar Association (HCBA) said that the victims of pellet injuries who were hit in the eyes have expressed concern about proper treatment in Srinagar hospital, citing scarcity of expert staff and requisite facilities for delicate surgeries.
+Key: Event.location, Value: Jammu;Srinagar
+Key: Event.date, Value: 28-07-2016
+Key: Node.name, Value: the victims of pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the victims of pellet injuries
+Key: Predicate.name, Value: citing
+Key: Object.name, Value: and scarcity of expert staff requisite facilities for delicate surgeries
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?HCBA team visits SMHS hospital; Says pellet victims worried about treatment quality in Valley? ? (English Dailies ? Greater Kashmir/Kashmir Reader)
+Key: Event.sentence, Value: Jammu and Kashmir High Court Bar Association (HCBA) said that the victims of pellet injuries who were hit in the eyes have expressed concern about proper treatment in Srinagar hospital, citing scarcity of expert staff and requisite facilities for delicate surgeries.
+Key: Event.location, Value: Jammu;Srinagar
+Key: Event.date, Value: 28-07-2016
+Key: Node.name, Value: the victims of pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the victims of pellet injuries
+Key: Predicate.name, Value: have expressed
+Key: Object.name, Value: concern about proper treatment
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?HCBA team visits SMHS hospital; Says pellet victims worried about treatment quality in Valley? ? (English Dailies ? Greater Kashmir/Kashmir Reader)
+Key: Event.sentence, Value: Jammu and Kashmir High Court Bar Association (HCBA) said that the victims of pellet injuries who were hit in the eyes have expressed concern about proper treatment in Srinagar hospital, citing scarcity of expert staff and requisite facilities for delicate surgeries.
+Key: Event.location, Value: Jammu;Srinagar
+Key: Event.date, Value: 28-07-2016
+Key: Node.name, Value: the victims of pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the victims of pellet injuries
+Key: Predicate.name, Value: have expressed
+Key: Object.name, Value: concern about proper treatment
+Key: Facet.name, Value: srinagar hospital
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/English Daily: ?Azad Kashmir varsity students condemn use of pellet  guns  in Kashmir?
+Key: Event.sentence, Value: Carrying banners and placards inscribed with different slogans seeking ban on use of pellet guns on peaceful protests in the Indian held territory, the demonstrators also chanted slogans against India.
+Key: Event.location, Value: India
+Key: Event.date, Value: 14-05-2016
+Key: Node.name, Value: use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: banners and placards
+Key: Predicate.name, Value: seeking
+Key: Object.name, Value: ban
+Key: Facet.name, Value: peaceful protests in the indian<ctx#1.22>
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/English Daily: ?Azad Kashmir varsity students condemn use of pellet  guns  in Kashmir?
+Key: Event.sentence, Value: Carrying banners and placards inscribed with different slogans seeking ban on use of pellet guns on peaceful protests in the Indian held territory, the demonstrators also chanted slogans against India.
+Key: Event.location, Value: India
+Key: Event.date, Value: 14-05-2016
+Key: Node.name, Value: use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: banners and placards
+Key: Predicate.name, Value: seeking
+Key: Object.name, Value: ban
+Key: Facet.name, Value: use of pellet guns
+**
+
+
+Key: Event.headline, Value: Greater Kashmir/English Daily: ?Azad Kashmir varsity students condemn use of pellet  guns  in Kashmir?
+Key: Event.sentence, Value: Carrying banners and placards inscribed with different slogans seeking ban on use of pellet guns on peaceful protests in the Indian held territory, the demonstrators also chanted slogans against India.
+Key: Event.location, Value: India
+Key: Event.date, Value: 14-05-2016
+Key: Node.name, Value: use of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: banners and placards
+Key: Predicate.name, Value: seeking
+Key: Object.name, Value: ban
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Board Examinations: 50% relaxation in syllabus a political decision: Experts;  Pellet hit students sought helper to write their exam papers ? (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: Meanwhile, at least 20 pellet hit students with visual impairment approached SMHS Hospital, Srinagar for aiding SMHS Hospital, Srinagar in getting permission for a ?helper? who could write SMHS Hospital, Srinagar exam answer sheets.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: at least 20 pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least 20 pellet
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: null
+Key: Facet.name, Value: meanwhile
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: narendra modi
+Key: Predicate.name, Value: is
+Key: Object.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Facet.name, Value: the condition of pellet victims of kashmir death of civilians on borders or<ctx#1.24>
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: narendra modi
+Key: Predicate.name, Value: is
+Key: Object.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Facet.name, Value: all
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: the condition of pellet victims of kashmir death of civilians on borders or<ctx#1.24>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: narendra modi
+Key: Predicate.name, Value: is
+Key: Object.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Facet.name, Value: the condition of pellet victims of kashmir death of civilians on borders or<ctx#1.24>
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: the condition of pellet victims of kashmir death of civilians on borders or<ctx#1.24>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: narendra modi
+Key: Predicate.name, Value: is
+Key: Object.name, Value: not at all worried about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Facet.name, Value: all
+**
+
+
+Key: Event.headline, Value: Modi is not worried about elections but about Uttar Pradesh? ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Narendra Modi is not at all worried about the condition of pellet victims of Kashmir, death of civilians on borders or to react over the media criticism.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-11-2016
+Key: Node.name, Value: about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: about the condition of pellet victims of kashmir death of civilians on borders or
+Key: Predicate.name, Value: react
+Key: Object.name, Value: over the media criticism
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Why clouds of war hover over India and Pakistan: Prof. Abdul Gani Bhat gave reasons ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Abdul Gani Bhat said that Kashmiris have given enough sacrifices for a durable and final solution of Kashmir issue and described the recent incidents of pellet injuries suffered by hundreds of youth and children as a worst kind of oppression.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-11-2016
+Key: Node.name, Value: the recent incidents of pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: abdul gani bhat
+Key: Predicate.name, Value: described
+Key: Object.name, Value: the recent incidents of pellet injuries
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Why clouds of war hover over India and Pakistan: Prof. Abdul Gani Bhat gave reasons ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: Abdul Gani Bhat said that Kashmiris have given enough sacrifices for a durable and final solution of Kashmir issue and described the recent incidents of pellet injuries suffered by hundreds of youth and children as a worst kind of oppression.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 01-11-2016
+Key: Node.name, Value: of pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of pellet injuries
+Key: Predicate.name, Value: suffered
+Key: Object.name, Value: by hundreds of youth and children
+Key: Facet.name, Value: a worst kind of oppression
+**
+
+
+Key: Event.headline, Value: Schools to remain open in winter: DSEK; Private schools announced free education to pellet victims and injured students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Meanwhile, at a time when Government has remained mum about the compensation/rehabilitation of pellet victims and injured youth in forces action during four-months of turmoil, the Joint Committee of Private Schools (JCPS) announced to provide free admission/education in private schools to the pellet victims and other unrest affected students across Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 28-11-2016
+Key: Node.name, Value: the pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the joint committee
+Key: Predicate.name, Value: provide
+Key: Object.name, Value: free admission/education in private schools
+Key: Facet.name, Value: the pellet victims
+**
+
+
+Key: Event.headline, Value: 33 pellet victims have dead eyes and hundreds others just perception of light; 5-year-old Nasir couldn?t regain vision even after 6 surgeries -  (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: Month after month, more and more pellet victims are face to face with the reality that more and more pellet victims eyes have no perception of light, or nothing more than just perception of light.
+Key: Event.location, Value: 
+Key: Event.date, Value: 18-11-2016
+Key: Node.name, Value: more and more pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: more and more pellet victims
+Key: Predicate.name, Value: are
+Key: Object.name, Value: month after face
+Key: Facet.name, Value: month after
+**
+
+
+Key: Event.headline, Value: 33 pellet victims have dead eyes and hundreds others just perception of light; 5-year-old Nasir couldn?t regain vision even after 6 surgeries -  (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: Month after month, more and more pellet victims are face to face with the reality that more and more pellet victims eyes have no perception of light, or nothing more than just perception of light.
+Key: Event.location, Value: 
+Key: Event.date, Value: 18-11-2016
+Key: Node.name, Value: more and more pellet victims eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: more and more pellet victims eyes
+Key: Predicate.name, Value: have
+Key: Object.name, Value: or no perception of light nothing
+Key: Facet.name, Value: that
+**
+
+
+Key: Event.headline, Value: 33 pellet victims have dead eyes and hundreds others just perception of light; 5-year-old Nasir couldn?t regain vision even after 6 surgeries -  (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: Doctors said that 33 pellet hit individuals have no perception of light in at least one eye.
+Key: Event.location, Value: 
+Key: Event.date, Value: 18-11-2016
+Key: Node.name, Value: 33 pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 33 pellet
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 33 pellet victims have dead eyes and hundreds others just perception of light; 5-year-old Nasir couldn?t regain vision even after 6 surgeries -  (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: As per officials in Health Department, many pellet hit whose both eyes had been hit by pellets had either one of whose both eyes eviscerated or so badly damaged that many pellet had perception of light in the injured eye (s).
+Key: Event.location, Value: 
+Key: Event.date, Value: 18-11-2016
+Key: Node.name, Value: many pellet hit
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: many pellet hit
+Key: Predicate.name, Value: had
+Key: Object.name, Value: one
+Key: Facet.name, Value: as per officials in health department
+**
+
+
+Key: Event.headline, Value: 33 pellet victims have dead eyes and hundreds others just perception of light; 5-year-old Nasir couldn?t regain vision even after 6 surgeries -  (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: As per officials in Health Department, many pellet hit whose both eyes had been hit by pellets had either one of whose both eyes eviscerated or so badly damaged that many pellet had perception of light in the injured eye (s).
+Key: Event.location, Value: 
+Key: Event.date, Value: 18-11-2016
+Key: Node.name, Value: many pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: many pellet
+Key: Predicate.name, Value: had
+Key: Object.name, Value: perception of light
+Key: Facet.name, Value: the injured eye
+**
+
+
+Key: Event.headline, Value: 33 pellet victims have dead eyes and hundreds others just perception of light; 5-year-old Nasir couldn?t regain vision even after 6 surgeries -  (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: As per officials in Health Department, many pellet hit whose both eyes had been hit by pellets had either one of whose both eyes eviscerated or so badly damaged that many pellet had perception of light in the injured eye (s).
+Key: Event.location, Value: 
+Key: Event.date, Value: 18-11-2016
+Key: Node.name, Value: many pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: many pellet
+Key: Predicate.name, Value: had
+Key: Object.name, Value: perception of light
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?As Govt justified pellets, 9 youth killed, so far? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: 23 - year old Yawar Ahmad of Botengoo in South Kashmir had pellet injures in 23 - year old Yawar Ahmad of Botengoo in South Kashmir chest and abdomen?.
+Key: Event.location, Value: Botengoo;South Kashmir
+Key: Event.date, Value: 12-09-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: <_>
+Key: Predicate.name, Value: injures
+Key: Object.name, Value: in 23
+Key: Facet.name, Value: pellet
+**
+
+
+Key: Event.headline, Value: Pellet Paradox: Unabated casualties belie Govt claims ? (English Dailies ? Rising Kashmir/Kashmir Times)
+Key: Event.sentence, Value: As many as 3113 people have been blinded and maimed by pellet since August 26 after Union Home Minister, Rajnath Singh announced (August 25) the decision to explore alternatives to pellet guns.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: many as 3113 people
+Key: Predicate.name, Value: have been blinded
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet Paradox: Unabated casualties belie Govt claims ? (English Dailies ? Rising Kashmir/Kashmir Times)
+Key: Event.sentence, Value: As many as 3113 people have been blinded and maimed by pellet since August 26 after Union Home Minister, Rajnath Singh announced (August 25) the decision to explore alternatives to pellet guns.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: many as 3113 people
+Key: Predicate.name, Value: have been blinded
+Key: Object.name, Value: null
+Key: Facet.name, Value: union home minister
+**
+
+
+Key: Event.headline, Value: Pellet Paradox: Unabated casualties belie Govt claims ? (English Dailies ? Rising Kashmir/Kashmir Times)
+Key: Event.sentence, Value: As many as 3113 people have been blinded and maimed by pellet since August 26 after Union Home Minister, Rajnath Singh announced (August 25) the decision to explore alternatives to pellet guns.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: many as 3113 people
+Key: Predicate.name, Value: have been blinded
+Key: Object.name, Value: null
+Key: Facet.name, Value: august 26
+**
+
+
+Key: Event.headline, Value: Pellet Paradox: Unabated casualties belie Govt claims ? (English Dailies ? Rising Kashmir/Kashmir Times)
+Key: Event.sentence, Value: As many as 3113 people have been blinded and maimed by pellet since August 26 after Union Home Minister, Rajnath Singh announced (August 25) the decision to explore alternatives to pellet guns.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: many as 3113 people
+Key: Predicate.name, Value: have been blinded
+Key: Object.name, Value: null
+Key: Facet.name, Value: pellet
+**
+
+
+Key: Event.headline, Value: Besides lead, doctors suspect something else in pellets; It burns eye, turns eye- fluid into charcoal like substance ? (English Daily ?Greater Kashmir)
+Key: Event.sentence, Value: Following an ambivalent report by pathologists and eye surgeons in a bid to improve surgical outcomes were still exploring avenues to get samples from pellet hit eyes analyzed.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 29-11-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical outcomes
+Key: Predicate.name, Value: get
+Key: Object.name, Value: samples
+Key: Facet.name, Value: pellet
+**
+
+
+Key: Event.headline, Value: Besides lead, doctors suspect something else in pellets; It burns eye, turns eye- fluid into charcoal like substance ? (English Daily ?Greater Kashmir)
+Key: Event.sentence, Value: Following an ambivalent report by pathologists and eye surgeons in a bid to improve surgical outcomes were still exploring avenues to get samples from pellet hit eyes analyzed.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 29-11-2016
+Key: Node.name, Value: pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: surgical outcomes
+Key: Predicate.name, Value: get
+Key: Object.name, Value: samples
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Back home, pellet victim Insha wanted to see her classroom and classmates once again  - (English Daily? Greater Kashmir ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Insha Mushtaq, 14, who lost her both eyes to pellets fired by forces, returned home after spending three months in hospitals outside the State in the hope of seeing the world again.
+Key: Event.location, Value: 
+Key: Event.date, Value: 18-10-2016
+Key: Node.name, Value: both eyes to pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: both eyes to pellets
+Key: Facet.name, Value: insha mushtaq 14
+**
+
+
+Key: Event.headline, Value: A pellet victim?s plea to Chief Minister: Bring back my vision, will appear in exams; Another victim?s mother slammed Government for enacting exam drama to show normalcy - (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: But the blindness in his right eye, due to pellets hit by forces, is acting as a major obstacle to his desire to study like his other classmates.
+Key: Event.location, Value: Kashmir;Gundchabootra;North Kahsmir;Kupwara District
+Key: Event.date, Value: 20-10-2016
+Key: Node.name, Value: to pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: to pellets
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: by forces
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Back home, pellet victim Insha wanted to see her classroom and classmates once again  - (English Daily? Greater Kashmir ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Insha Mushtaq, 14, who lost her both eyes to pellets fired by forces, returned home after spending three months in hospitals outside the State in the hope of seeing the world again.
+Key: Event.location, Value: 
+Key: Event.date, Value: 18-10-2016
+Key: Node.name, Value: to pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: to pellets
+Key: Predicate.name, Value: fired
+Key: Object.name, Value: by forces
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Kashmir uprising entered 4th month ? (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: The deadly pellets that eye-specialists call ?mini-bullets?  have resulted in injuries to eyes of over 1000 civilians, most of 1000 civilians teenagers, resulting in 1000 civilians visual impairment that might range between total loss of vision to usable vision in the eye perforated.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-10-2016
+Key: Node.name, Value: the deadly pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: that
+Key: Predicate.name, Value: eye-specialists
+Key: Object.name, Value: call mini-bullets
+Key: Facet.name, Value: the deadly pellets
+**
+
+
+Key: Event.headline, Value: Kashmir uprising entered 4th month ? (English Dailies ? Greater Kashmir/Rising Kashmir)
+Key: Event.sentence, Value: The deadly pellets that eye-specialists call ?mini-bullets?  have resulted in injuries to eyes of over 1000 civilians, most of 1000 civilians teenagers, resulting in 1000 civilians visual impairment that might range between total loss of vision to usable vision in the eye perforated.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-10-2016
+Key: Node.name, Value: the deadly pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the deadly pellets
+Key: Predicate.name, Value: have resulted
+Key: Object.name, Value: in injuries
+Key: Facet.name, Value: eyes<ctx#1.25>
+**
+
+
+Key: Event.headline, Value: ?Re-polling proved as a flop show?- (Urdu Daily ? Tameel-i-Irshad)
+Key: Event.sentence, Value: While percentage of polling remained 7, hundreds of people got injured besides killing of 8 youth by bullets and pellets.
+Key: Event.location, Value: Kashmir;Srinagar
+Key: Event.date, Value: 14-04-2017
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hundreds of people
+Key: Predicate.name, Value: got injured
+Key: Object.name, Value: besides killing of 8 youth
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Re-polling proved as a flop show?- (Urdu Daily ? Tameel-i-Irshad)
+Key: Event.sentence, Value: While percentage of polling remained 7, hundreds of people got injured besides killing of 8 youth by bullets and pellets.
+Key: Event.location, Value: Kashmir;Srinagar
+Key: Event.date, Value: 14-04-2017
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hundreds of people
+Key: Predicate.name, Value: got injured
+Key: Object.name, Value: besides killing of 8 youth
+Key: Facet.name, Value: bullets and pellets
+**
+
+
+Key: Event.headline, Value: 500 electricity transformers damaged by forces in 3 months ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: While people in Kashmir have witnessed worst human tragedies of killings, injuries by bullets and pellets in last three months, the unabated use of force did not stop there as since July 9 more than 500 electricity transformers were allegedly damaged by security forces across Kashmir as an act of vengeance against people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 26-10-2016
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: people in kashmir
+Key: Predicate.name, Value: have witnessed
+Key: Object.name, Value: worst human tragedies of killings
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 500 electricity transformers damaged by forces in 3 months ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: While people in Kashmir have witnessed worst human tragedies of killings, injuries by bullets and pellets in last three months, the unabated use of force did not stop there as since July 9 more than 500 electricity transformers were allegedly damaged by security forces across Kashmir as an act of vengeance against people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 26-10-2016
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: people in kashmir
+Key: Predicate.name, Value: have witnessed
+Key: Object.name, Value: worst human tragedies of killings
+Key: Facet.name, Value: last three months
+**
+
+
+Key: Event.headline, Value: 500 electricity transformers damaged by forces in 3 months ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: While people in Kashmir have witnessed worst human tragedies of killings, injuries by bullets and pellets in last three months, the unabated use of force did not stop there as since July 9 more than 500 electricity transformers were allegedly damaged by security forces across Kashmir as an act of vengeance against people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 26-10-2016
+Key: Node.name, Value: bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: people in kashmir
+Key: Predicate.name, Value: have witnessed
+Key: Object.name, Value: worst human tragedies of killings
+Key: Facet.name, Value: bullets and pellets
+**
+
+
+Key: Event.headline, Value: 500 pellet victims aged under ? 20, most of them students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Among 1065 pellet victims admitted at general speciality SMHS Hospital and SKIMS Medical College, Srinagar, at least 500 of pellet victims in Kashmir are aged under-20 and a vast majority of pellet victims in Kashmir are students who are still recuperating,.
+Key: Event.location, Value: Srinagar;Kashmir
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: among 1065 pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: among 1065 pellet victims
+Key: Predicate.name, Value: admitted
+Key: Object.name, Value: at general speciality smhs hospital and skims medical college
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 500 pellet victims aged under ? 20, most of them students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Among 1065 pellet victims admitted at general speciality SMHS Hospital and SKIMS Medical College, Srinagar, at least 500 of pellet victims in Kashmir are aged under-20 and a vast majority of pellet victims in Kashmir are students who are still recuperating,.
+Key: Event.location, Value: Srinagar;Kashmir
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: and among 1065 pellet victims aged under-20 students
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: srinagar
+Key: Predicate.name, Value: are
+Key: Object.name, Value: and among 1065 pellet victims aged under-20 students
+Key: Facet.name, Value: among 1065 pellet victims<ctx#1.5>
+**
+
+
+Key: Event.headline, Value: 500 pellet victims aged under ? 20, most of them students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Among 1065 pellet victims admitted at general speciality SMHS Hospital and SKIMS Medical College, Srinagar, at least 500 of pellet victims in Kashmir are aged under-20 and a vast majority of pellet victims in Kashmir are students who are still recuperating,.
+Key: Event.location, Value: Srinagar;Kashmir
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: and among 1065 pellet victims aged under-20 students
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: srinagar
+Key: Predicate.name, Value: are
+Key: Object.name, Value: and among 1065 pellet victims aged under-20 students
+Key: Facet.name, Value: students<ctx#1.43>
+**
+
+
+Key: Event.headline, Value: 500 pellet victims aged under ? 20, most of them students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Among 1065 pellet victims admitted at general speciality SMHS Hospital and SKIMS Medical College, Srinagar, at least 500 of pellet victims in Kashmir are aged under-20 and a vast majority of pellet victims in Kashmir are students who are still recuperating,.
+Key: Event.location, Value: Srinagar;Kashmir
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: among 1065 pellet victims<ctx#1.5>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: srinagar
+Key: Predicate.name, Value: are
+Key: Object.name, Value: and among 1065 pellet victims aged under-20 students
+Key: Facet.name, Value: among 1065 pellet victims<ctx#1.5>
+**
+
+
+Key: Event.headline, Value: 500 pellet victims aged under ? 20, most of them students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Among 1065 pellet victims admitted at general speciality SMHS Hospital and SKIMS Medical College, Srinagar, at least 500 of pellet victims in Kashmir are aged under-20 and a vast majority of pellet victims in Kashmir are students who are still recuperating,.
+Key: Event.location, Value: Srinagar;Kashmir
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: among 1065 pellet victims<ctx#1.5>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: srinagar
+Key: Predicate.name, Value: are
+Key: Object.name, Value: and among 1065 pellet victims aged under-20 students
+Key: Facet.name, Value: students<ctx#1.43>
+**
+
+
+Key: Event.headline, Value: 500 pellet victims aged under ? 20, most of them students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Among 1065 pellet victims admitted at general speciality SMHS Hospital and SKIMS Medical College, Srinagar, at least 500 of pellet victims in Kashmir are aged under-20 and a vast majority of pellet victims in Kashmir are students who are still recuperating,.
+Key: Event.location, Value: Srinagar;Kashmir
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: a vast majority of pellet victims in kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a vast majority of pellet victims in kashmir
+Key: Predicate.name, Value: are
+Key: Object.name, Value: and students
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: 500 pellet victims aged under ? 20, most of them students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Data accessed by English Daily ?Greater Kashmir? threw up some startling figures about the number of students who have become victims of pellet hit by forces in Kashmir and are struggling to get some vision back in their affected eyes.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: victims of pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: have become
+Key: Object.name, Value: victims of pellet
+Key: Facet.name, Value: some startling figures about the number of students
+**
+
+
+Key: Event.headline, Value: 500 pellet victims aged under ? 20, most of them students ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Data accessed by English Daily ?Greater Kashmir? threw up some startling figures about the number of students who have become victims of pellet hit by forces in Kashmir and are struggling to get some vision back in their affected eyes.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 24-10-2016
+Key: Node.name, Value: of pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of pellet
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: by forces
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: In 114 Days, over 1600 hit by pellets in face, 1100 have eye injuries ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Hundreds of pellet hit people are waiting for vision corrective surgeries in a hope of undoing the damages caused by pellets perforating Hundreds of pellet eyes.
+Key: Event.location, Value: Bemina;Srinagar
+Key: Event.date, Value: 31-10-2016
+Key: Node.name, Value: hundreds of pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: hundreds of pellet
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Make the visit fruitful?  - (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Withdrawal of pellet guns, dropping cases against stone-pelters and release of political prisoners are some of the measures that need to be taken before the delegations lands in Srinagar.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 01-09-2016
+Key: Node.name, Value: of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of pellet guns
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: dropping cases against stone-pelters and release of political prisoners
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: J&K spends crores of rupees to procure pellet guns, and teargas shells; Figured among top buyers of tear-smoke canisters and other non-lethal weapons ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: At a time when Kashmir was seeking an end to use of pellet guns that wreaked havoc in the region, it has come to fore that crores of rupees had been spent over the years to procure these weapons in Jammu and Kashmir.
+Key: Event.location, Value: Kashmir;Jammu
+Key: Event.date, Value: 23-09-2016
+Key: Node.name, Value: of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: an end
+Key: Predicate.name, Value: use
+Key: Object.name, Value: of pellet guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Kashmir?s new symbol of resistance? ?  by Suhail Ahmed -(English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Referring to use of pellet guns by security forces to quell the street protests, the writer held that the pellet-ridden faces of children has come to symbolize the ruthless state repression.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-10-2016
+Key: Node.name, Value: of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the writer
+Key: Predicate.name, Value: use
+Key: Object.name, Value: of pellet guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Kashmir?s new symbol of resistance? ?  by Suhail Ahmed -(English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Referring to use of pellet guns by security forces to quell the street protests, the writer held that the pellet-ridden faces of children has come to symbolize the ruthless state repression.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-10-2016
+Key: Node.name, Value: of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the writer
+Key: Predicate.name, Value: use
+Key: Object.name, Value: of pellet guns
+Key: Facet.name, Value: security forces
+**
+
+
+Key: Event.headline, Value: ?Kashmir?s new symbol of resistance? ?  by Suhail Ahmed -(English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Referring to use of pellet guns by security forces to quell the street protests, the writer held that the pellet-ridden faces of children has come to symbolize the ruthless state repression.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-10-2016
+Key: Node.name, Value: the pellet-ridden faces of children
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the pellet-ridden faces of children
+Key: Predicate.name, Value: has come
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Kashmir?s new symbol of resistance? ?  by Suhail Ahmed -(English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: The photos partially or completely blinded young pellet victims, filling the hospital wards, were widely published, exposing the utter disregard of Kashmir for the life of people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-10-2016
+Key: Node.name, Value: young pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: young pellet victims
+Key: Predicate.name, Value: exposing
+Key: Object.name, Value: the utter disregard of kashmir
+Key: Facet.name, Value: the life of people
+**
+
+
+Key: Event.headline, Value: ?Kashmir?s new symbol of resistance? ?  by Suhail Ahmed -(English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: The photos partially or completely blinded young pellet victims, filling the hospital wards, were widely published, exposing the utter disregard of Kashmir for the life of people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-10-2016
+Key: Node.name, Value: young pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: young pellet victims
+Key: Predicate.name, Value: were published
+Key: Object.name, Value: null
+Key: Facet.name, Value: widely
+**
+
+
+Key: Event.headline, Value: ?Kashmir?s new symbol of resistance? ?  by Suhail Ahmed -(English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: The photos partially or completely blinded young pellet victims, filling the hospital wards, were widely published, exposing the utter disregard of Kashmir for the life of people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-10-2016
+Key: Node.name, Value: young pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: young pellet victims
+Key: Predicate.name, Value: filling
+Key: Object.name, Value: the hospital wards
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Kashmir?s new symbol of resistance? ?  by Suhail Ahmed -(English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Referring to use of pellet guns by security forces to quell the street protests, the writer held that the pellet-ridden faces of children has come to symbolize the ruthless state repression.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 15-10-2016
+Key: Node.name, Value: the pellet-ridden faces
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the pellet-ridden faces
+Key: Predicate.name, Value: symbolize
+Key: Object.name, Value: the ruthless state repression
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Dance of death? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Junaid Ahmad Akhoon (12 years), was at One more boy home in Saidapora, Srinagar when the Government forces pierced One more boy body with the pellets, which led to One more boy death.
+Key: Event.location, Value: Saidapora;Srinagar
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: the pellets<ctx#1.33>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the government forces
+Key: Predicate.name, Value: pierced
+Key: Object.name, Value: one more boy body
+Key: Facet.name, Value: the pellets<ctx#1.33>
+**
+
+
+Key: Event.headline, Value: ?Dance of death? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Junaid Ahmad Akhoon (12 years), was at One more boy home in Saidapora, Srinagar when the Government forces pierced One more boy body with the pellets, which led to One more boy death.
+Key: Event.location, Value: Saidapora;Srinagar
+Key: Event.date, Value: 10-10-2016
+Key: Node.name, Value: the pellets<ctx#1.33>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the government forces
+Key: Predicate.name, Value: pierced
+Key: Object.name, Value: one more boy body
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Change the mindset? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Government is firing pellets and bullets when Government should be applying balm on the wounds of The people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 06-10-2016
+Key: Node.name, Value: and firing pellets bullets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government
+Key: Predicate.name, Value: is
+Key: Object.name, Value: and firing pellets bullets
+Key: Facet.name, Value: bullets
+**
+
+
+Key: Event.headline, Value: ?Change the mindset? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Government is firing pellets and bullets when Government should be applying balm on the wounds of The people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 06-10-2016
+Key: Node.name, Value: firing pellets and bullets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government
+Key: Predicate.name, Value: should be applying
+Key: Object.name, Value: balm
+Key: Facet.name, Value: firing pellets and bullets
+**
+
+
+Key: Event.headline, Value: ?Change the mindset? ? (English Daily  - Greater Kashmir)
+Key: Event.sentence, Value: Government is firing pellets and bullets when Government should be applying balm on the wounds of The people.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 06-10-2016
+Key: Node.name, Value: firing pellets and bullets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government
+Key: Predicate.name, Value: should be applying
+Key: Object.name, Value: balm
+Key: Facet.name, Value: the wounds of the people
+**
+
+
+Key: Event.headline, Value: 40 days after pellet injury, Abdul Ahad sees only darkness ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Abdul Ahad Bhat, the 28-year-old electrician from Dardsun, Kupwara, who was injured by a volley of pellets fired by security forces, a few of perforated and injured both his eyes, has been rendered totally blind and the multiple surgeries that doctors carried out on his eyes have failed to yield any result.
+Key: Event.location, Value: Dardsun;Kupwara
+Key: Event.date, Value: 18-10-2016
+Key: Node.name, Value: by a volley of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: was injured
+Key: Object.name, Value: by a volley of pellets
+Key: Facet.name, Value: from dardsun kupwara
+**
+
+
+Key: Event.headline, Value: 40 days after pellet injury, Abdul Ahad sees only darkness ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Abdul Ahad Bhat, the 28-year-old electrician from Dardsun, Kupwara, who was injured by a volley of pellets fired by security forces, a few of perforated and injured both his eyes, has been rendered totally blind and the multiple surgeries that doctors carried out on his eyes have failed to yield any result.
+Key: Event.location, Value: Dardsun;Kupwara
+Key: Event.date, Value: 18-10-2016
+Key: Node.name, Value: of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of pellets
+Key: Predicate.name, Value: fired
+Key: Object.name, Value: by security forces
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) were the latest victims of pellet shot guns, all hit in eyes and all unable to see with Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) injured eyes.
+Key: Event.location, Value: Palhallan;Pattan;District Baramulla
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: haroon sheikh suail ganai jan muhammad and fayaz a. ganai from palhallan pattan
+Key: Predicate.name, Value: were
+Key: Object.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Facet.name, Value: all unable injured eyes
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) were the latest victims of pellet shot guns, all hit in eyes and all unable to see with Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) injured eyes.
+Key: Event.location, Value: Palhallan;Pattan;District Baramulla
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: haroon sheikh suail ganai jan muhammad and fayaz a. ganai from palhallan pattan
+Key: Predicate.name, Value: were
+Key: Object.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Facet.name, Value: all<ctx#1.30>
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) were the latest victims of pellet shot guns, all hit in eyes and all unable to see with Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) injured eyes.
+Key: Event.location, Value: Palhallan;Pattan;District Baramulla
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: haroon sheikh suail ganai jan muhammad and fayaz a. ganai from palhallan pattan
+Key: Predicate.name, Value: were
+Key: Object.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Facet.name, Value: pellet shot guns
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) were the latest victims of pellet shot guns, all hit in eyes and all unable to see with Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) injured eyes.
+Key: Event.location, Value: Palhallan;Pattan;District Baramulla
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: pellet shot guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: haroon sheikh suail ganai jan muhammad and fayaz a. ganai from palhallan pattan
+Key: Predicate.name, Value: were
+Key: Object.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Facet.name, Value: all unable injured eyes
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) were the latest victims of pellet shot guns, all hit in eyes and all unable to see with Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) injured eyes.
+Key: Event.location, Value: Palhallan;Pattan;District Baramulla
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: pellet shot guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: haroon sheikh suail ganai jan muhammad and fayaz a. ganai from palhallan pattan
+Key: Predicate.name, Value: were
+Key: Object.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Facet.name, Value: all<ctx#1.30>
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) were the latest victims of pellet shot guns, all hit in eyes and all unable to see with Haroon Sheikh, Suail Ganai, Jan Muhammad and Fayaz A. Ganai from Palhallan ? Pattan (District Baramulla) injured eyes.
+Key: Event.location, Value: Palhallan;Pattan;District Baramulla
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: pellet shot guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: haroon sheikh suail ganai jan muhammad and fayaz a. ganai from palhallan pattan
+Key: Predicate.name, Value: were
+Key: Object.name, Value: and the latest victims of pellet shot guns all all unable injured eyes
+Key: Facet.name, Value: pellet shot guns
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In the past 10 days, 16 people with pellets in eyes have been brought to SMHS Hospital, Srinagar with eyes perforated by pellets.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: 16 people with pellets in eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 16 people with pellets in eyes
+Key: Predicate.name, Value: have been brought
+Key: Object.name, Value: to smhs hospital
+Key: Facet.name, Value: in the past 10 days
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In the past 10 days, 16 people with pellets in eyes have been brought to SMHS Hospital, Srinagar with eyes perforated by pellets.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: 16 people with pellets in eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 16 people with pellets in eyes
+Key: Predicate.name, Value: have been brought
+Key: Object.name, Value: to smhs hospital
+Key: Facet.name, Value: eyes perforated by pellets
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In the past 10 days, 16 people with pellets in eyes have been brought to SMHS Hospital, Srinagar with eyes perforated by pellets.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: eyes perforated by pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 16 people with pellets in eyes
+Key: Predicate.name, Value: have been brought
+Key: Object.name, Value: to smhs hospital
+Key: Facet.name, Value: in the past 10 days
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In the past 10 days, 16 people with pellets in eyes have been brought to SMHS Hospital, Srinagar with eyes perforated by pellets.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: eyes perforated by pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 16 people with pellets in eyes
+Key: Predicate.name, Value: have been brought
+Key: Object.name, Value: to smhs hospital
+Key: Facet.name, Value: eyes perforated by pellets
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: In the past 10 days, 16 people with eye injuries due to pellets have been admitted at SMHS Hospital.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: 16 people with eye injuries due to pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 16 people with eye injuries due to pellets
+Key: Predicate.name, Value: have been admitted
+Key: Object.name, Value: at smhs hospital
+Key: Facet.name, Value: in the past 10 days
+**
+
+
+Key: Event.headline, Value: No end to pellet injuries; 6 youth with badly damaged eyes admitted at SMHS in a single day ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Doctors said that the continued pellet injuries were a cause of concern and no steps were being taken to replace these with some less lethal riot control gear.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 25-10-2016
+Key: Node.name, Value: the continued pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the continued pellet injuries
+Key: Predicate.name, Value: were
+Key: Object.name, Value: a cause of concern
+Key: Facet.name, Value: concern
+**
+
+
+Key: Event.headline, Value: ?I stand with Kashmiris: Malala?- (English Dailies ? Greater Kashmir/Rising Kashmir/Kashmir Images ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Malala was quoted by dawn newspaper and Geo news channel as saying that ?Dozens of unarmed protesters have been killed and thousands wounded, including hundred of people blinded by pellet guns used to put down demonstrations in recent months.
+Key: Event.location, Value: Pakistan;Kashmir
+Key: Event.date, Value: 07-09-2016
+Key: Node.name, Value: by pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of people
+Key: Predicate.name, Value: blinded
+Key: Object.name, Value: by pellet guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet Paradox: Unabated casualties belie Govt claims ? (English Dailies ? Rising Kashmir/Kashmir Times)
+Key: Event.sentence, Value: Pellet guns were supposed to be used in rarest of rare cases following the recommendation of an expert committee set up by Union Home Ministry, but the unabated civilian casualties inflicted by Pellet guns point to Pellet guns widespread and arbitrary use by government forces.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: by pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the unabated civilian casualties
+Key: Predicate.name, Value: inflicted
+Key: Object.name, Value: by pellet guns
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet Paradox: Unabated casualties belie Govt claims ? (English Dailies ? Rising Kashmir/Kashmir Times)
+Key: Event.sentence, Value: In the 94 days of uprising, 1878 people with pellet injuries in eyes and other parts of body have been treated at SMHS Hospital, Srinagar alone.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: 1878 people with pellet injuries in eyes and other parts of body
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 1878 people with pellet injuries in eyes and other parts of body
+Key: Predicate.name, Value: have been treated
+Key: Object.name, Value: at smhs hospital
+Key: Facet.name, Value: in the 94 days of uprising
+**
+
+
+Key: Event.headline, Value: Pellet Paradox: Unabated casualties belie Govt claims ? (English Dailies ? Rising Kashmir/Kashmir Times)
+Key: Event.sentence, Value: In the 94 days of uprising, 1878 people with pellet injuries in eyes and other parts of body have been treated at SMHS Hospital, Srinagar alone.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 12-10-2016
+Key: Node.name, Value: 1878 people with pellet injuries in eyes and other parts of body
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 1878 people with pellet injuries in eyes and other parts of body
+Key: Predicate.name, Value: have been treated
+Key: Object.name, Value: at smhs hospital
+Key: Facet.name, Value: alone
+**
+
+
+Key: Event.headline, Value: ?Kashmir on international turn? ? by Z.G. Muhammad (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Stories in New York Times and the Guardian on the use of pellet gun and epidemic of dead eyes in Kashmir and sympathies in Pakistan metamorphosed Nawaz Sharif?s ?goody goody? Kashmir policy bordering on inertia.
+Key: Event.location, Value: Kashmir;Pakistan
+Key: Event.date, Value: 17-10-2016
+Key: Node.name, Value: stories in new york times and the guardian on the use of pellet gun and epidemic of dead eyes in kashmir and sympathies in pakistan
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: stories in new york times and the guardian on the use of pellet gun and epidemic of dead eyes in kashmir and sympathies in pakistan
+Key: Predicate.name, Value: metamorphosed
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: A pellet victim?s plea to Chief Minister: Bring back my vision, will appear in exams; Another victim?s mother slammed Government for enacting exam drama to show normalcy - (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: But the blindness in his right eye, due to pellets hit by forces, is acting as a major obstacle to his desire to study like his other classmates.
+Key: Event.location, Value: Kashmir;Gundchabootra;North Kahsmir;Kupwara District
+Key: Event.date, Value: 20-10-2016
+Key: Node.name, Value: due to pellets<ctx#1.12>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the blindness in his right eye
+Key: Predicate.name, Value: is acting
+Key: Object.name, Value: as a major obstacle
+Key: Facet.name, Value: due to pellets<ctx#1.12>
+**
+
+
+Key: Event.headline, Value: A pellet victim?s plea to Chief Minister: Bring back my vision, will appear in exams; Another victim?s mother slammed Government for enacting exam drama to show normalcy - (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: But the blindness in his right eye, due to pellets hit by forces, is acting as a major obstacle to his desire to study like his other classmates.
+Key: Event.location, Value: Kashmir;Gundchabootra;North Kahsmir;Kupwara District
+Key: Event.date, Value: 20-10-2016
+Key: Node.name, Value: due to pellets<ctx#1.12>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the blindness in his right eye
+Key: Predicate.name, Value: is acting
+Key: Object.name, Value: as a major obstacle
+Key: Facet.name, Value: his desire<ctx#1.26>
+**
+
+
+Key: Event.headline, Value: A pellet victim?s plea to Chief Minister: Bring back my vision, will appear in exams; Another victim?s mother slammed Government for enacting exam drama to show normalcy - (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Khan, a student of Handwara Higher Secondary School, lost vision in his right eye when forces fired a volley of pellets at a volley of pellets and shattered his dream of studying hard and becoming something in life.
+Key: Event.location, Value: Kashmir;Gundchabootra;North Kahsmir;Kupwara District
+Key: Event.date, Value: 20-10-2016
+Key: Node.name, Value: a volley of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: forces
+Key: Predicate.name, Value: fired
+Key: Object.name, Value: a volley of pellets
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: A pellet victim?s plea to Chief Minister: Bring back my vision, will appear in exams; Another victim?s mother slammed Government for enacting exam drama to show normalcy - (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Khan, a student of Handwara Higher Secondary School, lost vision in his right eye when forces fired a volley of pellets at a volley of pellets and shattered his dream of studying hard and becoming something in life.
+Key: Event.location, Value: Kashmir;Gundchabootra;North Kahsmir;Kupwara District
+Key: Event.date, Value: 20-10-2016
+Key: Node.name, Value: a volley of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: forces
+Key: Predicate.name, Value: fired
+Key: Object.name, Value: a volley of pellets
+Key: Facet.name, Value: a volley of pellets
+**
+
+
+Key: Event.headline, Value: A pellet victim?s plea to Chief Minister: Bring back my vision, will appear in exams; Another victim?s mother slammed Government for enacting exam drama to show normalcy - (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Khan, a student of Handwara Higher Secondary School, lost vision in his right eye when forces fired a volley of pellets at a volley of pellets and shattered his dream of studying hard and becoming something in life.
+Key: Event.location, Value: Kashmir;Gundchabootra;North Kahsmir;Kupwara District
+Key: Event.date, Value: 20-10-2016
+Key: Node.name, Value: a volley of pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: forces
+Key: Predicate.name, Value: fired
+Key: Object.name, Value: a volley of pellets
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: The youth with pellet-hit eyes are sad about losing vision but display the bandage on The youth with pellet-hit eyes eyes like souvenirs.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: the youth with pellet-hit eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the youth with pellet-hit eyes
+Key: Predicate.name, Value: display
+Key: Object.name, Value: the bandage
+Key: Facet.name, Value: the youth with pellet-hit eyes eyes like souvenirs
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: The youth with pellet-hit eyes are sad about losing vision but display the bandage on The youth with pellet-hit eyes eyes like souvenirs.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: the youth with pellet-hit eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the youth with pellet-hit eyes
+Key: Predicate.name, Value: display
+Key: Object.name, Value: the bandage
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: The youth with pellet-hit eyes are sad about losing vision but display the bandage on The youth with pellet-hit eyes eyes like souvenirs.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: the youth with pellet-hit eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the youth with pellet-hit eyes
+Key: Predicate.name, Value: losing
+Key: Object.name, Value: vision
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: The youth with pellet-hit eyes are sad about losing vision but display the bandage on The youth with pellet-hit eyes eyes like souvenirs.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: the youth with pellet-hit eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the youth with pellet-hit eyes
+Key: Predicate.name, Value: are
+Key: Object.name, Value: but sad display on the youth with pellet-hit eyes eyes like souvenirs
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: The youth with pellet-hit eyes are sad about losing vision but display the bandage on The youth with pellet-hit eyes eyes like souvenirs.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: the youth with pellet-hit eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the youth with pellet-hit eyes
+Key: Predicate.name, Value: are
+Key: Object.name, Value: but sad display on the youth with pellet-hit eyes eyes like souvenirs
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: The youth with pellet-hit eyes are sad about losing vision but display the bandage on The youth with pellet-hit eyes eyes like souvenirs.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: the youth with pellet-hit eyes eyes like souvenirs
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the youth with pellet-hit eyes
+Key: Predicate.name, Value: display
+Key: Object.name, Value: the bandage
+Key: Facet.name, Value: the youth with pellet-hit eyes eyes like souvenirs
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: The youth with pellet-hit eyes are sad about losing vision but display the bandage on The youth with pellet-hit eyes eyes like souvenirs.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: the youth with pellet-hit eyes eyes like souvenirs
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the youth with pellet-hit eyes
+Key: Predicate.name, Value: display
+Key: Object.name, Value: the bandage
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Each day, pellet victims wake up losing more eyesight; Handwara girl developed cataract; Shopian youth woke up to hazy vision ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: In the same Ward 8 of the Hospital where Masarat awaits her surgery, Farooq Ahmad, 22, a pellet victim whose both eyes had been perforated by pellets on the eve of Eid-ul- Adha, and who had come to SMHS Hospital for a check-up, has also been admitted for a surgery.
+Key: Event.location, Value: SMHS Hospital
+Key: Event.date, Value: 28-09-2016
+Key: Node.name, Value: pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: both eyes
+Key: Predicate.name, Value: had been
+Key: Object.name, Value: perforated by pellets on the eve of eid-ul
+Key: Facet.name, Value: the eve of eid-ul
+**
+
+
+Key: Event.headline, Value: Each day, pellet victims wake up losing more eyesight; Handwara girl developed cataract; Shopian youth woke up to hazy vision ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: In the same Ward 8 of the Hospital where Masarat awaits her surgery, Farooq Ahmad, 22, a pellet victim whose both eyes had been perforated by pellets on the eve of Eid-ul- Adha, and who had come to SMHS Hospital for a check-up, has also been admitted for a surgery.
+Key: Event.location, Value: SMHS Hospital
+Key: Event.date, Value: 28-09-2016
+Key: Node.name, Value: pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: both eyes
+Key: Predicate.name, Value: had been
+Key: Object.name, Value: perforated by pellets on the eve of eid-ul
+Key: Facet.name, Value: a pellet victim<ctx#1.28>
+**
+
+
+Key: Event.headline, Value: Each day, pellet victims wake up losing more eyesight; Handwara girl developed cataract; Shopian youth woke up to hazy vision ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: In the same Ward 8 of the Hospital where Masarat awaits her surgery, Farooq Ahmad, 22, a pellet victim whose both eyes had been perforated by pellets on the eve of Eid-ul- Adha, and who had come to SMHS Hospital for a check-up, has also been admitted for a surgery.
+Key: Event.location, Value: SMHS Hospital
+Key: Event.date, Value: 28-09-2016
+Key: Node.name, Value: pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: both eyes
+Key: Predicate.name, Value: had been
+Key: Object.name, Value: perforated by pellets on the eve of eid-ul
+Key: Facet.name, Value: pellets
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: Ninteen-year-old Adil from Kareemabad, Pulwama became an overnight hero since Ninteen-year-old Adil from Kareemabad lost Ninteen-year-old Adil from Kareemabad vision to pellets.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: ninteen-year-old adil from kareemabad
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: ninteen-year-old adil
+Key: Facet.name, Value: pellets
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: Ninteen-year-old Adil from Kareemabad, Pulwama became an overnight hero since Ninteen-year-old Adil from Kareemabad lost Ninteen-year-old Adil from Kareemabad vision to pellets.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: ninteen-year-old adil from kareemabad
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: ninteen-year-old adil
+Key: Facet.name, Value: kareemabad vision
+**
+
+
+Key: Event.headline, Value: Pellet victims wear injuries as symbol of sacrifice and badge of honour?  - (English Daily - Rising Kashmir)
+Key: Event.sentence, Value: Ninteen-year-old Adil from Kareemabad, Pulwama became an overnight hero since Ninteen-year-old Adil from Kareemabad lost Ninteen-year-old Adil from Kareemabad vision to pellets.
+Key: Event.location, Value: Kareemabad;Pulwama
+Key: Event.date, Value: 08-10-2016
+Key: Node.name, Value: pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: ninteen-year-old adil from kareemabad
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: ninteen-year-old adil
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?4 youth  lost both eyes to pellets during Eid days; 84 more people admitted at SMHS Hospital, Srinagar ? over 30 with pellets in eyes? ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: Doctors said that the Ophthalmology Wards of the Hospital were occupied to the full capacity on Eid with 36 injured already admitted there while more and more injured with pellets in eyes kept pouring in.
+Key: Event.location, Value: 
+Key: Event.date, Value: 16-09-2016
+Key: Node.name, Value: more and more injured with pellets in eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: more and more injured with pellets in eyes
+Key: Predicate.name, Value: pouring
+Key: Object.name, Value: in
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?4 youth  lost both eyes to pellets during Eid days; 84 more people admitted at SMHS Hospital, Srinagar ? over 30 with pellets in eyes? ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: Doctors said that the Ophthalmology Wards of the Hospital were occupied to the full capacity on Eid with 36 injured already admitted there while more and more injured with pellets in eyes kept pouring in.
+Key: Event.location, Value: 
+Key: Event.date, Value: 16-09-2016
+Key: Node.name, Value: more and more injured with pellets in eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: more and more injured with pellets in eyes
+Key: Predicate.name, Value: kept
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?4 youth  lost both eyes to pellets during Eid days; 84 more people admitted at SMHS Hospital, Srinagar ? over 30 with pellets in eyes? ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: For the past three days, 30 new admissions with pellet injuries in eyes were made at the Hospital.
+Key: Event.location, Value: 
+Key: Event.date, Value: 16-09-2016
+Key: Node.name, Value: 30 new admissions with pellet injuries in eyes
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 30 new admissions with pellet injuries in eyes
+Key: Predicate.name, Value: were made
+Key: Object.name, Value: at the hospital
+Key: Facet.name, Value: for the past three days
+**
+
+
+Key: Event.headline, Value: Each day, pellet victims wake up losing more eyesight; Handwara girl developed cataract; Shopian youth woke up to hazy vision ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: In the same Ward 8 of the Hospital where Masarat awaits her surgery, Farooq Ahmad, 22, a pellet victim whose both eyes had been perforated by pellets on the eve of Eid-ul- Adha, and who had come to SMHS Hospital for a check-up, has also been admitted for a surgery.
+Key: Event.location, Value: SMHS Hospital
+Key: Event.date, Value: 28-09-2016
+Key: Node.name, Value: and her surgery farooq ahmad 22 a pellet victim come to smhs hospital for a check-up
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: masarat
+Key: Predicate.name, Value: awaits
+Key: Object.name, Value: and her surgery farooq ahmad 22 a pellet victim come to smhs hospital for a check-up
+Key: Facet.name, Value: 8 of the hospital
+**
+
+
+Key: Event.headline, Value: Each day, pellet victims wake up losing more eyesight; Handwara girl developed cataract; Shopian youth woke up to hazy vision ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: In the same Ward 8 of the Hospital where Masarat awaits her surgery, Farooq Ahmad, 22, a pellet victim whose both eyes had been perforated by pellets on the eve of Eid-ul- Adha, and who had come to SMHS Hospital for a check-up, has also been admitted for a surgery.
+Key: Event.location, Value: SMHS Hospital
+Key: Event.date, Value: 28-09-2016
+Key: Node.name, Value: a pellet victim<ctx#1.28>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: both eyes
+Key: Predicate.name, Value: had been
+Key: Object.name, Value: perforated by pellets on the eve of eid-ul
+Key: Facet.name, Value: the eve of eid-ul
+**
+
+
+Key: Event.headline, Value: Each day, pellet victims wake up losing more eyesight; Handwara girl developed cataract; Shopian youth woke up to hazy vision ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: In the same Ward 8 of the Hospital where Masarat awaits her surgery, Farooq Ahmad, 22, a pellet victim whose both eyes had been perforated by pellets on the eve of Eid-ul- Adha, and who had come to SMHS Hospital for a check-up, has also been admitted for a surgery.
+Key: Event.location, Value: SMHS Hospital
+Key: Event.date, Value: 28-09-2016
+Key: Node.name, Value: a pellet victim<ctx#1.28>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: both eyes
+Key: Predicate.name, Value: had been
+Key: Object.name, Value: perforated by pellets on the eve of eid-ul
+Key: Facet.name, Value: a pellet victim<ctx#1.28>
+**
+
+
+Key: Event.headline, Value: Each day, pellet victims wake up losing more eyesight; Handwara girl developed cataract; Shopian youth woke up to hazy vision ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: In the same Ward 8 of the Hospital where Masarat awaits her surgery, Farooq Ahmad, 22, a pellet victim whose both eyes had been perforated by pellets on the eve of Eid-ul- Adha, and who had come to SMHS Hospital for a check-up, has also been admitted for a surgery.
+Key: Event.location, Value: SMHS Hospital
+Key: Event.date, Value: 28-09-2016
+Key: Node.name, Value: a pellet victim<ctx#1.28>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: both eyes
+Key: Predicate.name, Value: had been
+Key: Object.name, Value: perforated by pellets on the eve of eid-ul
+Key: Facet.name, Value: pellets
+**
+
+
+Key: Event.headline, Value: GMC students protested use of pellet guns ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Students of Government Medical College (GMC), Srinagar protested against the excessive force on civilians and demanded ban on pellet guns.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: srinagar
+Key: Predicate.name, Value: demanded
+Key: Object.name, Value: ban
+Key: Facet.name, Value: pellet guns
+**
+
+
+Key: Event.headline, Value: GMC students protested use of pellet guns ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Students of Government Medical College (GMC), Srinagar protested against the excessive force on civilians and demanded ban on pellet guns.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: srinagar
+Key: Predicate.name, Value: demanded
+Key: Object.name, Value: ban
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: The Court also declined a plea by a body of Kashmir lawyers seeking ban on use of pellet guns for crowd control to prosecute officers who took the decision of using pellets at protestors and those who actually fired pellets.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: use of pellet guns for crowd control
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the court
+Key: Predicate.name, Value: seeking
+Key: Object.name, Value: ban
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: The Court also declined a plea by a body of Kashmir lawyers seeking ban on use of pellet guns for crowd control to prosecute officers who took the decision of using pellets at protestors and those who actually fired pellets.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: use of pellet guns for crowd control
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the court
+Key: Predicate.name, Value: seeking
+Key: Object.name, Value: ban
+Key: Facet.name, Value: use of pellet guns for crowd control
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: The Court also declined a plea by a body of Kashmir lawyers seeking ban on use of pellet guns for crowd control to prosecute officers who took the decision of using pellets at protestors and those who actually fired pellets.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: use of pellet guns for crowd control
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the court
+Key: Predicate.name, Value: seeking
+Key: Object.name, Value: ban
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: The Court rejected a plea by a body of Kashmir lawyers seeking ban on use of pellet guns for crowd control.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: use of pellet guns for crowd control
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the court
+Key: Predicate.name, Value: seeking
+Key: Object.name, Value: ban
+Key: Facet.name, Value: use of pellet guns for crowd control
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: The Court rejected a plea by a body of Kashmir lawyers seeking ban on use of pellet guns for crowd control.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: use of pellet guns for crowd control
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the court
+Key: Predicate.name, Value: seeking
+Key: Object.name, Value: ban
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: A division bench of Chief Justice N. Paul Vasanthakumar and Justice Ali Muhammad Magray in The Court order said, ?Having regard to the ground situation prevailing  as of now and the fact that Government of India, Ministry of Home Affairs, has already constituted a committee of experts for exploring other alternatives to Pellets Guns - before filing the report by the Expert Committee and a decision taken at the Government level - we are not inclined  to prohibit use of pellet guns in rare and extreme situations.?
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: pellets guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government of india
+Key: Predicate.name, Value: exploring
+Key: Object.name, Value: other alternatives
+Key: Facet.name, Value: the expert committee and a decision<ctx#1.70>
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: A division bench of Chief Justice N. Paul Vasanthakumar and Justice Ali Muhammad Magray in The Court order said, ?Having regard to the ground situation prevailing  as of now and the fact that Government of India, Ministry of Home Affairs, has already constituted a committee of experts for exploring other alternatives to Pellets Guns - before filing the report by the Expert Committee and a decision taken at the Government level - we are not inclined  to prohibit use of pellet guns in rare and extreme situations.?
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: pellets guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government of india
+Key: Predicate.name, Value: exploring
+Key: Object.name, Value: other alternatives
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: A division bench of Chief Justice N. Paul Vasanthakumar and Justice Ali Muhammad Magray in The Court order said, ?Having regard to the ground situation prevailing  as of now and the fact that Government of India, Ministry of Home Affairs, has already constituted a committee of experts for exploring other alternatives to Pellets Guns - before filing the report by the Expert Committee and a decision taken at the Government level - we are not inclined  to prohibit use of pellet guns in rare and extreme situations.?
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: pellets guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government of india
+Key: Predicate.name, Value: exploring
+Key: Object.name, Value: other alternatives
+Key: Facet.name, Value: pellets guns
+**
+
+
+Key: Event.headline, Value: HC refused to ban use of pellet guns; Also declined to allow prosecution of officers who decided to use pellets for crowd control ? (English Dailies- Greater Kashmir/ Rising Kashmir/Kashmir Times ? Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: A division bench of Chief Justice N. Paul Vasanthakumar and Justice Ali Muhammad Magray in The Court order said, ?Having regard to the ground situation prevailing  as of now and the fact that Government of India, Ministry of Home Affairs, has already constituted a committee of experts for exploring other alternatives to Pellets Guns - before filing the report by the Expert Committee and a decision taken at the Government level - we are not inclined  to prohibit use of pellet guns in rare and extreme situations.?
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: pellets guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: government of india
+Key: Predicate.name, Value: exploring
+Key: Object.name, Value: other alternatives
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: After losing eyesight, pellet victims deprived of homes too; They feared arrest if they stayed with their family members ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: After losing their eyesight, the pellet victims were being deprived of living in the pellet victims homes too.
+Key: Event.location, Value: Santan;Bijbehara
+Key: Event.date, Value: 23-09-2016
+Key: Node.name, Value: the pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the pellet victims
+Key: Predicate.name, Value: living
+Key: Object.name, Value: in the pellet victims homes
+Key: Facet.name, Value: too
+**
+
+
+Key: Event.headline, Value: After losing eyesight, pellet victims deprived of homes too; They feared arrest if they stayed with their family members ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: After losing their eyesight, the pellet victims were being deprived of living in the pellet victims homes too.
+Key: Event.location, Value: Santan;Bijbehara
+Key: Event.date, Value: 23-09-2016
+Key: Node.name, Value: the pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the pellet victims
+Key: Predicate.name, Value: were being deprived
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: After losing eyesight, pellet victims deprived of homes too; They feared arrest if they stayed with their family members ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: After losing their eyesight, the pellet victims were being deprived of living in the pellet victims homes too.
+Key: Event.location, Value: Santan;Bijbehara
+Key: Event.date, Value: 23-09-2016
+Key: Node.name, Value: the pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the pellet victims
+Key: Predicate.name, Value: losing
+Key: Object.name, Value: their eyesight
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Amid outrage over use of pellet guns, Police got fresh consignment of 6.3 crore pellets? - (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Amid massive outrage over use of pellet guns in Kashmir, the J&K Police recently received a fresh consignment of one lakh pellet cartridges ? a lethal weapon used to deal with the ongoing protests in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 02-09-2016
+Key: Node.name, Value: amid massive outrage over use of pellet guns in kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the j&k police
+Key: Predicate.name, Value: received
+Key: Object.name, Value: a lethal weapon
+Key: Facet.name, Value: amid massive outrage over use of pellet guns in kashmir
+**
+
+
+Key: Event.headline, Value: ?Amid outrage over use of pellet guns, Police got fresh consignment of 6.3 crore pellets? - (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Amid massive outrage over use of pellet guns in Kashmir, the J&K Police recently received a fresh consignment of one lakh pellet cartridges ? a lethal weapon used to deal with the ongoing protests in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 02-09-2016
+Key: Node.name, Value: amid massive outrage over use of pellet guns in kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the j&k police
+Key: Predicate.name, Value: received
+Key: Object.name, Value: a lethal weapon
+Key: Facet.name, Value: recently
+**
+
+
+Key: Event.headline, Value: ?Amid outrage over use of pellet guns, Police got fresh consignment of 6.3 crore pellets? - (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Amid massive outrage over use of pellet guns in Kashmir, the J&K Police recently received a fresh consignment of one lakh pellet cartridges ? a lethal weapon used to deal with the ongoing protests in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 02-09-2016
+Key: Node.name, Value: lakh pellet cartridges
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: lakh pellet cartridges
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: fresh consignment of one
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Pellet promise? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Only a day later, in indiscriminate use of the pellets, a youth lost a youth life at Seer-Hamdan in Anantnag.
+Key: Event.location, Value: Seer-Hamdan;Anantnag
+Key: Event.date, Value: 08-09-2016
+Key: Node.name, Value: in indiscriminate use of the pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a youth
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: a youth life
+Key: Facet.name, Value: only a day later
+**
+
+
+Key: Event.headline, Value: ?Pellet promise? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Only a day later, in indiscriminate use of the pellets, a youth lost a youth life at Seer-Hamdan in Anantnag.
+Key: Event.location, Value: Seer-Hamdan;Anantnag
+Key: Event.date, Value: 08-09-2016
+Key: Node.name, Value: in indiscriminate use of the pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a youth
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: a youth life
+Key: Facet.name, Value: in indiscriminate use of the pellets
+**
+
+
+Key: Event.headline, Value: ?Pellet promise? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Only a day later, in indiscriminate use of the pellets, a youth lost a youth life at Seer-Hamdan in Anantnag.
+Key: Event.location, Value: Seer-Hamdan;Anantnag
+Key: Event.date, Value: 08-09-2016
+Key: Node.name, Value: in indiscriminate use of the pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a youth
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: a youth life
+Key: Facet.name, Value: anantnag
+**
+
+
+Key: Event.headline, Value: ?Pellet promise? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: Only a day later, in indiscriminate use of the pellets, a youth lost a youth life at Seer-Hamdan in Anantnag.
+Key: Event.location, Value: Seer-Hamdan;Anantnag
+Key: Event.date, Value: 08-09-2016
+Key: Node.name, Value: in indiscriminate use of the pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: a youth
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: a youth life
+Key: Facet.name, Value: seer-hamdan
+**
+
+
+Key: Event.headline, Value: ?Pellet promise? ? (English Daily ? Rising Kashmir)
+Key: Event.sentence, Value: The promise by the Home Minster that PAVA shells would work as an alternative to the pellets was torn to shreds by the forces which have been deployed on the ground.
+Key: Event.location, Value: Kashmir;Seer-Hamdan;Anantnag
+Key: Event.date, Value: 08-09-2016
+Key: Node.name, Value: the pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pava shells
+Key: Predicate.name, Value: would work
+Key: Object.name, Value: as an alternative
+Key: Facet.name, Value: the pellets
+**
+
+
+Key: Event.headline, Value: ?ZAKAT initiative evokes good response, To provide medical treatment to pellet victims? ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: Zainnab-All-Khair-e-Aam Trust of ZAKAT has been receiving good public response for Zainnab-All-Khair-e-Aam Trust of ZAKAT ?Pellet Victim Relief Fund? set up for providing medical treatment to the pellet victims in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 13-09-2016
+Key: Node.name, Value: zainnab-all-khair-e-aam trust of zakat pellet victim relief fund
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: zainnab-all-khair-e-aam trust of zakat pellet victim relief fund
+Key: Predicate.name, Value: providing
+Key: Object.name, Value: medical treatment
+Key: Facet.name, Value: the pellet victims in kashmir
+**
+
+
+Key: Event.headline, Value: ?ZAKAT initiative evokes good response, To provide medical treatment to pellet victims? ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: Zainnab-All-Khair-e-Aam Trust of ZAKAT has been receiving good public response for Zainnab-All-Khair-e-Aam Trust of ZAKAT ?Pellet Victim Relief Fund? set up for providing medical treatment to the pellet victims in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 13-09-2016
+Key: Node.name, Value: zainnab-all-khair-e-aam trust of zakat pellet victim relief fund
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: zainnab-all-khair-e-aam trust of zakat pellet victim relief fund
+Key: Predicate.name, Value: set up
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?ZAKAT initiative evokes good response, To provide medical treatment to pellet victims? ? (English Daily - Greater Kashmir)
+Key: Event.sentence, Value: Zainnab-All-Khair-e-Aam Trust of ZAKAT has been receiving good public response for Zainnab-All-Khair-e-Aam Trust of ZAKAT ?Pellet Victim Relief Fund? set up for providing medical treatment to the pellet victims in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 13-09-2016
+Key: Node.name, Value: the pellet victims in kashmir
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: zainnab-all-khair-e-aam trust of zakat pellet victim relief fund
+Key: Predicate.name, Value: providing
+Key: Object.name, Value: medical treatment
+Key: Facet.name, Value: the pellet victims in kashmir
+**
+
+
+Key: Event.headline, Value: ?Make the visit fruitful?  - (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: Withdrawal of pellet guns, dropping cases against stone-pelters and release of political prisoners are some of the measures that need to be taken before the delegations lands in Srinagar.
+Key: Event.location, Value: Srinagar
+Key: Event.date, Value: 01-09-2016
+Key: Node.name, Value: withdrawal of pellet guns
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: withdrawal of pellet guns
+Key: Predicate.name, Value: are
+Key: Object.name, Value: some of the measures
+Key: Facet.name, Value: the measures<ctx#1.21>
+**
+
+
+Key: Event.headline, Value: ?As Govt justified pellets, 9 youth killed, so far? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: While the State Government justified use of pellet guns as non-lethal and modern crowd control tool in the High Court recently, at least nine youth lost least nine youth lives to the deadly pellets in past 64 days of uprising in Kashmir.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 12-09-2016
+Key: Node.name, Value: the state government justified use of pellet guns as non-lethal and modern crowd control tool in the high court recently
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: at least nine youth
+Key: Predicate.name, Value: lost
+Key: Object.name, Value: null
+Key: Facet.name, Value: the state government justified use of pellet guns as non-lethal and modern crowd control tool in the high court recently
+**
+
+
+Key: Event.headline, Value: Over 300 new pellet victims admitted at SMHS Hospital in 11 days; Over 150 targeted in eyes ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Despite announcement of restraint in the use of pellet guns by security forces, over 300 admissions of civilians with pellet injuries have been made at SMHS Hospital Srinagar in the past 11 days.
+Key: Event.location, Value: SMHS Hospital Srinagar
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: over 300 admissions of civilians with pellet injuries
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: over 300 admissions of civilians with pellet injuries
+Key: Predicate.name, Value: have been made
+Key: Object.name, Value: at smhs hospital srinagar in the past 11 days
+Key: Facet.name, Value: despite announcement of restraint in the use of pellet guns by security forces
+**
+
+
+Key: Event.headline, Value: Over 300 new pellet victims admitted at SMHS Hospital in 11 days; Over 150 targeted in eyes ? (English Daily- Greater Kashmir)
+Key: Event.sentence, Value: Despite announcement of restraint in the use of pellet guns by security forces, over 300 admissions of civilians with pellet injuries have been made at SMHS Hospital Srinagar in the past 11 days.
+Key: Event.location, Value: SMHS Hospital Srinagar
+Key: Event.date, Value: 22-09-2016
+Key: Node.name, Value: despite announcement of restraint in the use of pellet guns by security forces
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: over 300 admissions of civilians with pellet injuries
+Key: Predicate.name, Value: have been made
+Key: Object.name, Value: at smhs hospital srinagar in the past 11 days
+Key: Facet.name, Value: despite announcement of restraint in the use of pellet guns by security forces
+**
+
+
+Key: Event.headline, Value: ?HCBA slammed Rajnath Singh:  Are 11,000 injuries and 73 killings Insaniyat?, Geelani and other leaders were within their rights not to meet APD members? ? (English Dailies ? Greater Kashmir/Kashmir Rider)
+Key: Event.sentence, Value: When members of Parliamentary delegation went to meet Geelani and other leaders, right  at that time, more than 600 persons received injuries, by use of pellets and bullets by the ruthless forces
+Key: Event.location, Value: Palpora;Srinagar;Jhelum
+Key: Event.date, Value: 06-09-2016
+Key: Node.name, Value: use of pellets and bullets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: more 600 persons
+Key: Predicate.name, Value: received
+Key: Object.name, Value: injuries
+Key: Facet.name, Value: the ruthless forces
+**
+
+
+Key: Event.headline, Value: ?HCBA slammed Rajnath Singh:  Are 11,000 injuries and 73 killings Insaniyat?, Geelani and other leaders were within their rights not to meet APD members? ? (English Dailies ? Greater Kashmir/Kashmir Rider)
+Key: Event.sentence, Value: When members of Parliamentary delegation went to meet Geelani and other leaders, right  at that time, more than 600 persons received injuries, by use of pellets and bullets by the ruthless forces
+Key: Event.location, Value: Palpora;Srinagar;Jhelum
+Key: Event.date, Value: 06-09-2016
+Key: Node.name, Value: use of pellets and bullets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: more 600 persons
+Key: Predicate.name, Value: received
+Key: Object.name, Value: injuries
+Key: Facet.name, Value: use of pellets and bullets
+**
+
+
+Key: Event.headline, Value: ?HCBA slammed Rajnath Singh:  Are 11,000 injuries and 73 killings Insaniyat?, Geelani and other leaders were within their rights not to meet APD members? ? (English Dailies ? Greater Kashmir/Kashmir Rider)
+Key: Event.sentence, Value: When members of Parliamentary delegation went to meet Geelani and other leaders, right  at that time, more than 600 persons received injuries, by use of pellets and bullets by the ruthless forces
+Key: Event.location, Value: Palpora;Srinagar;Jhelum
+Key: Event.date, Value: 06-09-2016
+Key: Node.name, Value: use of pellets and bullets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: more 600 persons
+Key: Predicate.name, Value: received
+Key: Object.name, Value: injuries
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Pellets killed 7 youth in two months? Non-lethal weapon continued its lethality? ? (English Daily ?Kashmir Times)
+Key: Event.sentence, Value: With number of deaths and several hundred persons left blinded and grievously injured in pellet firing by forces during the current turmoil, the resentment against the use of pellet guns on protesters in Valley Valley had been growing louder and shouter.
+Key: Event.location, Value: Valley Valley
+Key: Event.date, Value: 09-09-2016
+Key: Node.name, Value: the resentment against the use of pellet guns on protesters in valley valley
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the resentment against the use of pellet guns on protesters in valley valley
+Key: Predicate.name, Value: had been growing
+Key: Object.name, Value: louder
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Pellets killed 7 youth in two months? Non-lethal weapon continued its lethality? ? (English Daily ?Kashmir Times)
+Key: Event.sentence, Value: With number of deaths and several hundred persons left blinded and grievously injured in pellet firing by forces during the current turmoil, the resentment against the use of pellet guns on protesters in Valley Valley had been growing louder and shouter.
+Key: Event.location, Value: Valley Valley
+Key: Event.date, Value: 09-09-2016
+Key: Node.name, Value: the resentment against the use of pellet guns on protesters in valley valley
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: the resentment against the use of pellet guns on protesters in valley valley
+Key: Predicate.name, Value: had been growing
+Key: Object.name, Value: louder
+Key: Facet.name, Value: shouter
+**
+
+
+Key: Event.headline, Value: First bullets, then pellets, now exam, Students across Kashmir protested; resolved ?no schooling, no exam, only Azaadi? ? (English Dailies - Greater Kashmir/Rising Kashmir/Kashmir Reader ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Students of class 10 and 12 across Kashmir vowed to boycott examination to show solidarity with Insha (a small girl who was blinded by a pellet earlier), demanding justice for pellet survivors, students jailed and pellet survivors brothers killed by forces.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: and solidarity with insha students pellet survivors brothers
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: 12
+Key: Predicate.name, Value: show
+Key: Object.name, Value: and solidarity with insha students pellet survivors brothers
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: First bullets, then pellets, now exam, Students across Kashmir protested; resolved ?no schooling, no exam, only Azaadi? ? (English Dailies - Greater Kashmir/Rising Kashmir/Kashmir Reader ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Students of class 10 and 12 across Kashmir vowed to boycott examination to show solidarity with Insha (a small girl who was blinded by a pellet earlier), demanding justice for pellet survivors, students jailed and pellet survivors brothers killed by forces.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: solidarity with insha students and pellet survivors brothers
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: solidarity with insha students and pellet survivors brothers
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: a small girl
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: First bullets, then pellets, now exam, Students across Kashmir protested; resolved ?no schooling, no exam, only Azaadi? ? (English Dailies - Greater Kashmir/Rising Kashmir/Kashmir Reader ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Students of class 10 and 12 across Kashmir vowed to boycott examination to show solidarity with Insha (a small girl who was blinded by a pellet earlier), demanding justice for pellet survivors, students jailed and pellet survivors brothers killed by forces.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: solidarity with insha students and pellet survivors brothers
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: solidarity with insha students and pellet survivors brothers
+Key: Predicate.name, Value: demanding
+Key: Object.name, Value: justice for pellet survivors
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: First bullets, then pellets, now exam, Students across Kashmir protested; resolved ?no schooling, no exam, only Azaadi? ? (English Dailies - Greater Kashmir/Rising Kashmir/Kashmir Reader ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Students of class 10 and 12 across Kashmir vowed to boycott examination to show solidarity with Insha (a small girl who was blinded by a pellet earlier), demanding justice for pellet survivors, students jailed and pellet survivors brothers killed by forces.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: pellet survivors brothers  and
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet survivors brothers  and
+Key: Predicate.name, Value: killed
+Key: Object.name, Value: by forces
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: First bullets, then pellets, now exam, Students across Kashmir protested; resolved ?no schooling, no exam, only Azaadi? ? (English Dailies - Greater Kashmir/Rising Kashmir/Kashmir Reader ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Students of class 10 and 12 across Kashmir were carrying placards reading, ?Will not appear in exams until Kashmir issue is resolved?, ?Save children save future?, ?Don?t pellet my exams?, ?No exams till resolution of Kashmir?, ?First pellets, then bullets, now exam? and ?Boycott exams?.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: first pellets then
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets
+Key: Predicate.name, Value: will not appear
+Key: Object.name, Value: in exams
+Key: Facet.name, Value: first pellets then
+**
+
+
+Key: Event.headline, Value: First bullets, then pellets, now exam, Students across Kashmir protested; resolved ?no schooling, no exam, only Azaadi? ? (English Dailies - Greater Kashmir/Rising Kashmir/Kashmir Reader ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Students of class 10 and 12 across Kashmir were carrying placards reading, ?Will not appear in exams until Kashmir issue is resolved?, ?Save children save future?, ?Don?t pellet my exams?, ?No exams till resolution of Kashmir?, ?First pellets, then bullets, now exam? and ?Boycott exams?.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: first pellets then
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets
+Key: Predicate.name, Value: will not appear
+Key: Object.name, Value: in exams
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: First bullets, then pellets, now exam, Students across Kashmir protested; resolved ?no schooling, no exam, only Azaadi? ? (English Dailies - Greater Kashmir/Rising Kashmir/Kashmir Reader ? Urdu Dailies ? Srinagar Times/Aftab/Kashmir Uzma/Uqab)
+Key: Event.sentence, Value: Students of class 10 and 12 across Kashmir were carrying placards reading, ?Will not appear in exams until Kashmir issue is resolved?, ?Save children save future?, ?Don?t pellet my exams?, ?No exams till resolution of Kashmir?, ?First pellets, then bullets, now exam? and ?Boycott exams?.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 30-09-2016
+Key: Node.name, Value: first pellets then
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bullets
+Key: Predicate.name, Value: will not appear
+Key: Object.name, Value: in exams
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Pellet plight: 1 of two victims hit in eyes aged under 20;  Hundreds of teenagers, including schoolboys, maimed for life; 60 face blindness? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: According to official records, half of Kashmir?s pellet victims ? who are facing disability due to visual impairment ? are teenagers.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-09-2016
+Key: Node.name, Value: according official records pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: half of kashmir
+Key: Predicate.name, Value: s
+Key: Object.name, Value: according official records pellet victims
+Key: Facet.name, Value: according official records
+**
+
+
+Key: Event.headline, Value: ?Pellet plight: 1 of two victims hit in eyes aged under 20;  Hundreds of teenagers, including schoolboys, maimed for life; 60 face blindness? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: According to official records, half of Kashmir?s pellet victims ? who are facing disability due to visual impairment ? are teenagers.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-09-2016
+Key: Node.name, Value: according official records pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: are facing
+Key: Object.name, Value: disability
+Key: Facet.name, Value: visual impairment<ctx#1.21>
+**
+
+
+Key: Event.headline, Value: ?Pellet plight: 1 of two victims hit in eyes aged under 20;  Hundreds of teenagers, including schoolboys, maimed for life; 60 face blindness? ? (English Daily ? Greater Kashmir)
+Key: Event.sentence, Value: According to official records, half of Kashmir?s pellet victims ? who are facing disability due to visual impairment ? are teenagers.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 07-09-2016
+Key: Node.name, Value: according official records pellet victims
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: who
+Key: Predicate.name, Value: are facing
+Key: Object.name, Value: disability
+Key: Facet.name, Value: according official records pellet victims
+**
+
+
+Key: Event.headline, Value: ?Class 4 student left ?half blind?: Forces perforate another kid?s eye with ?some object?? ? (English Daily ? Kashmir Monitor)
+Key: Event.sentence, Value: At the tertiary care SMHS hospital, Srinagar, where most of the pellet hit victims of the prevailing unrest were undergoing treatment, a 10-year-old boy from Kupwara village lying on a bed at War No.
+Key: Event.location, Value: Srinagar;Kupwara
+Key: Event.date, Value: 08-09-2016
+Key: Node.name, Value: most of the pellet
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: most of the pellet
+Key: Predicate.name, Value: hit
+Key: Object.name, Value: victims of the prevailing unrest
+Key: Facet.name, Value: srinagar
+**
+
+
+Key: Event.headline, Value: ?We will succeed? ? by Sabzar Zaidi, Muzaffarabad (PoK) ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Perhaps dust has blinded the eyes of people having lust for power, because people are not able to see the youth standing with open chests in front of bullets and pellets.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-04-2017
+Key: Node.name, Value: open chests in front of bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: people
+Key: Predicate.name, Value: see
+Key: Object.name, Value: the youth standing
+Key: Facet.name, Value: open chests in front of bullets and pellets
+**
+
+
+Key: Event.headline, Value: ?We will succeed? ? by Sabzar Zaidi, Muzaffarabad (PoK) ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: Perhaps dust has blinded the eyes of people having lust for power, because people are not able to see the youth standing with open chests in front of bullets and pellets.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 08-04-2017
+Key: Node.name, Value: open chests in front of bullets and pellets
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: people
+Key: Predicate.name, Value: see
+Key: Object.name, Value: the youth standing
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Goli aur Boli? ---- Familiarity  with realities needed? ? (Urdu Daily ? Kashmir Uzma)
+Key: Event.sentence, Value: It can be implemented when the process of abuses and taunts is stopped and use of bullets and pellets against Kashmiris comes to end.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 16-08-2017
+Key: Node.name, Value: use of bullets and pellets against kashmiris
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: use of bullets and pellets against kashmiris
+Key: Predicate.name, Value: comes
+Key: Object.name, Value: null
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Slogan of ?Democracy, Kashmiriyat and Humanity? proved as joke: Gani Vakil ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: On the contrary, pressure tactics, pellet guns, arrests and killing of innocents have been continuing in the Valley; and no confidence building measures have been taken either by Modi Government or by Mehbooba Government, Abdul Gani Vakil added.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 29-08-2017
+Key: Node.name, Value: pressure tactics pellet guns arrests and killing of innocents
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pressure tactics pellet guns arrests and killing of innocents
+Key: Predicate.name, Value: have been continuing
+Key: Object.name, Value: in the valley
+Key: Facet.name, Value: on the contrary
+**
+
+
+Key: Event.headline, Value: Slogan of ?Democracy, Kashmiriyat and Humanity? proved as joke: Gani Vakil ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: On the contrary, pressure tactics, pellet guns, arrests and killing of innocents have been continuing in the Valley; and no confidence building measures have been taken either by Modi Government or by Mehbooba Government, Abdul Gani Vakil added.
+Key: Event.location, Value: Valley
+Key: Event.date, Value: 29-08-2017
+Key: Node.name, Value: pressure tactics pellet guns arrests and killing of innocents
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pressure tactics pellet guns arrests and killing of innocents
+Key: Predicate.name, Value: have been continuing
+Key: Object.name, Value: in the valley
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Several resistance groups appealed world institutions to take steps for stopping alleged human rights violations in the State ? (Urdu Dailies ? Aftab/Kashmir Uzma/Srinagar Times)
+Key: Event.sentence, Value: In this connection, a function was held at the residence of Chairman of J&K Salvation Movement, Zaffar Akbar Bhat, who is under house arrest, in which Javed Ahmed Mir (Chairman of JKLF/R), Rouf Ahmed Khan of Voice of Victims, Ruqaya Baji of Women?s Wing, Bashir Ahmed of Pellet Victims Association, Naseema Jan of Affected Families and activists of Salvation Movement participated.
+Key: Event.location, Value: Kashmir;India;Valley
+Key: Event.date, Value: 11-12-2017
+Key: Node.name, Value: bashir ahmed of pellet victims association
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: bashir ahmed of pellet victims association
+Key: Predicate.name, Value: participated
+Key: Object.name, Value: in this connection
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Several resistance groups appealed world institutions to take steps for stopping alleged human rights violations in the State ? (Urdu Dailies ? Aftab/Kashmir Uzma/Srinagar Times)
+Key: Event.sentence, Value: In this connection, a function was held at the residence of Chairman of J&K Salvation Movement, Zaffar Akbar Bhat, who is under house arrest, in which Javed Ahmed Mir (Chairman of JKLF/R), Rouf Ahmed Khan of Voice of Victims, Ruqaya Baji of Women?s Wing, Bashir Ahmed of Pellet Victims Association, Naseema Jan of Affected Families and activists of Salvation Movement participated.
+Key: Event.location, Value: Kashmir;India;Valley
+Key: Event.date, Value: 11-12-2017
+Key: Node.name, Value: of pellet victims association
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: of pellet victims association
+Key: Predicate.name, Value: <be>
+Key: Object.name, Value: naseema jan of affected families and activists of salvation movement
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: Pellet guns are not being used in any other part of the world; World nations should take note of serious situation in the State: JKLF (R) ? (Urdu Daily ? Srinagar Times)
+Key: Event.sentence, Value: In a statement on World Human Rights day (December 10), Qureshi said that pellet gun is not being used against people in any other part of the world.
+Key: Event.location, Value: Kashmir
+Key: Event.date, Value: 10-12-2017
+Key: Node.name, Value: pellet gun
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: pellet gun
+Key: Predicate.name, Value: is not being used
+Key: Object.name, Value: against people in any other part of the world
+Key: Facet.name, Value: null
+**
+
+
+Key: Event.headline, Value: ?Litmus test of interlocutor, Dineshwar Sharma? ? (Urdu Daily ? Chattan)
+Key: Event.sentence, Value: Dineshwar Sharma should also pay attention towards improper use of pellet gun, which might provide some relief to the people.
+Key: Event.location, Value: Shopian
+Key: Event.date, Value: 27-12-2017
+Key: Node.name, Value: improper use of pellet gun<ctx#1.16>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dineshwar sharma
+Key: Predicate.name, Value: should pay
+Key: Object.name, Value: attention
+Key: Facet.name, Value: improper use of pellet gun<ctx#1.16>
+**
+
+
+Key: Event.headline, Value: ?Litmus test of interlocutor, Dineshwar Sharma? ? (Urdu Daily ? Chattan)
+Key: Event.sentence, Value: Dineshwar Sharma should also pay attention towards improper use of pellet gun, which might provide some relief to the people.
+Key: Event.location, Value: Shopian
+Key: Event.date, Value: 27-12-2017
+Key: Node.name, Value: improper use of pellet gun<ctx#1.16>
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: dineshwar sharma
+Key: Predicate.name, Value: should pay
+Key: Object.name, Value: attention
+Key: Facet.name, Value: also
+**
+
+
+Key: Event.headline, Value: ?Litmus test of interlocutor, Dineshwar Sharma? ? (Urdu Daily ? Chattan)
+Key: Event.sentence, Value: Dineshwar Sharma should also pay attention towards improper use of pellet gun, which might provide some relief to the people.
+Key: Event.location, Value: Shopian
+Key: Event.date, Value: 27-12-2017
+Key: Node.name, Value: of pellet gun
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: might provide
+Key: Object.name, Value: some relief
+Key: Facet.name, Value: the people
+**
+
+
+Key: Event.headline, Value: ?Litmus test of interlocutor, Dineshwar Sharma? ? (Urdu Daily ? Chattan)
+Key: Event.sentence, Value: Dineshwar Sharma should also pay attention towards improper use of pellet gun, which might provide some relief to the people.
+Key: Event.location, Value: Shopian
+Key: Event.date, Value: 27-12-2017
+Key: Node.name, Value: of pellet gun
+Key: Node.dbid, Value: null
+Key: Subject.name, Value: which
+Key: Predicate.name, Value: might provide
+Key: Object.name, Value: some relief
+Key: Facet.name, Value: of pellet gun
+**
+
+

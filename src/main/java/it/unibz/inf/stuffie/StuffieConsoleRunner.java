@@ -168,7 +168,7 @@ public class StuffieConsoleRunner {
 		    String location_file = getSentencesFromFile(orig_file,writefile);
 		    
 		    
-		    
+		    // DATABASE CREDENTIALS
 		    AccessDatabase("bolt://localhost:7687", "neo4j", "123456");
 			
 			neo4j_id = process_file(neo4j_id,location_file,args,modes,stuffie,heidelTime);
