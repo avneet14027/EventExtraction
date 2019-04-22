@@ -5,7 +5,7 @@ Download the project as zip file , unzip it and open the command prompt inside "
 Run following commands one by one.
 For the demo purpose, we have a file named "/Preprocess/TestCoref2016/April2016/April 15,2016_1.txt" which contains a news article with the headline as first line and content(input to our program)
 
-Further, this running project would require HeidelTime and TreeTagger to be set up beforehand.
+Further, running this project would require HeidelTime and TreeTagger to be set up beforehand.
 
 #### Step1. Coreference Resolution:
 Run the following command:
@@ -20,7 +20,7 @@ Run the following command:
 input_to_stuffie.csv will be generated in which each row corresponds to a single sentence.
 
 #### Step4. This csv will be input to the stuffie.
-Place the csv file in DBTest folder. Update 'orig_file', 'writefile' , and 'folder' path in the main function in StuffieConsoleRunner.java file according to your workspace.
+Place the csv file in DBTest folder. Update 'orig_file', 'writefile' , and 'folder' path in the main function in StuffieConsoleRunner.java file according to your workspace. Also update, HeidelTime config.props file path in main function of the same file.
 
 #### Step5. Start Neo4j Database.
 Create an empty graph database indtance  in Neo4j Desktop Version 1.1.17 . Start the database instace. Update the authorization credentials in StuffieConsoleRunner.java file in the main function, in AccessDatabase function call. 
