@@ -152,7 +152,7 @@ public class StuffieConsoleRunner {
 		//String file = "C:\\Users\\Reen\\Desktop\\stuffie-master\\stuffie-master\\resource\\SentencesApril2018Try.csv";
 		//String file = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBNew\\Locations\\SentencesDecember2017V2.csv";
 		
-		File folder = new File("C:\\Users\\Reen\\Desktop\\DBFiles\\DBTest\\");
+		File folder = new File("C:\\Users\\Reen\\Desktop\\stuffie-master\\stuffie-master\\DBTest");
 		File[] listOfFiles = folder.listFiles();
 		
 		int neo4j_id = 1;
@@ -163,8 +163,8 @@ public class StuffieConsoleRunner {
 		    //neo4j
 		    //String file = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBNew\\Locations\\2016\\" + listOfFiles[i].getName().toString();
 			
-		    String orig_file = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBTest\\" + listOfFiles[i].getName().toString();
-		    String writefile = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBTest\\Locations" + listOfFiles[i].getName().toString();
+		    String orig_file = "C:\\Users\\Reen\\Desktop\\stuffie-master\\stuffie-master\\DBTest\\" + listOfFiles[i].getName().toString();
+		    String writefile = "C:\\Users\\Reen\\Desktop\\stuffie-master\\stuffie-master\\DBTest\\Locations\\" + listOfFiles[i].getName().toString();
 		    String location_file = getSentencesFromFile(orig_file,writefile);
 		    
 		    
