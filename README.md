@@ -5,12 +5,12 @@ Download the project as zip file , unzip it and open the command prompt inside "
 Run following commands one by one.
 For the demo purpose, we have a file named "/Preprocess/TestCoref2016/April2016/April 15,2016_1.txt" which contains a news article with the headline as first line and content(input to our program)
 
-Further, running this project would require 
+Further, running this project would require the following to be set up beforehand. 
  - HeidelTime Standalone Version 2.2.1 
  - Neo4j Desktop Version 1.1.17
  - Spacy library Python.
+ - Stanford CoreNLP
  - NeuralCoref 4.0 for coreference resolution. 
- to be set up beforehand. 
 
 #### Step1. Coreference Resolution:
 Run the following command:
