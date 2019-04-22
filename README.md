@@ -5,17 +5,22 @@ Download the project as zip file , unzip it and open the command prompt inside "
 Run following commands one by one.
 For the demo purpose, we have a file named "/Preprocess/TestCoref2016/April2016/April 15,2016_1.txt" which contains a news article with the headline as first line and content(input to our program)
 
-Further, running this project would require HeidelTime Standalone Version 2.2.1 and Neo4j Desktop Version 1.1.17 to be set up beforehand.
+Further, running this project would require 
+ - HeidelTime Standalone Version 2.2.1 
+ - Neo4j Desktop Version 1.1.17
+ - Spacy library Python.
+ - NeuralCoref 4.0 for coreference resolution. 
+ to be set up beforehand. 
 
 #### Step1. Coreference Resolution:
 Run the following command:
->Python3 CoreferenceResolveDBV2.py  ./TestCoref2016/April2016/April 15,2016_1.txt  ./TestCoref2016/April2016/preprocess_coref.txt
+>python3 CoreferenceResolveDBV2.py  ./TestCoref2016/April2016/April 15,2016_1.txt  ./TestCoref2016/April2016/preprocess_coref.txt
 
 the data in April 15,2016_1.txt has been preprocessed with coreference resolution and is stored in preprocess_coref.txt
 
 #### Step2. Splitting the data obtained in previous step into sentences:
 Run the following command:
->Python3 tokenize_sent.py ./TestCoref2016/April2016/preprocess_coref.txt ./TestCoref2016/April2016/input_to_stuffie.csv
+> python3 tokenize_sent.py ./TestCoref2016/April2016/preprocess_coref.txt ./TestCoref2016/April2016/input_to_stuffie.csv
 
 input_to_stuffie.csv will be generated in which each row corresponds to a single sentence.
 
