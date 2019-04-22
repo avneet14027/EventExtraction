@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # StuffIE
 
 StuffIE is an open information extraction tool that extracts nested relations enriched with facets.
@@ -50,3 +51,6 @@ If you use StuffIE in your academic work, please cite it with the following Bibt
 ### Upcoming features
 - Integrated model for facet labeling
 - Inter-sentence nested relation and facet extraction
+=======
+# EventExtraction
+>>>>>>> branch 'master' of https://github.com/avneet14027/EventExtraction.git

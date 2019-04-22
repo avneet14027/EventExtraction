@@ -14,11 +14,14 @@ import java.nio.file.Paths;
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.LinkedHashMap;
 import java.util.List;
+import java.util.Map;
 import java.util.Properties;
 import java.util.Scanner;
-import java.util.regex.*;  
+import java.util.regex.*;
+import java.util.stream.Collectors;
 
 import com.opencsv.CSVReader;
 import com.opencsv.CSVWriter;
@@ -29,6 +32,28 @@ import edu.stanford.nlp.pipeline.StanfordCoreNLP;
 
 import org.neo4j.driver.v1.*;
 import static org.neo4j.driver.v1.Values.parameters;
+
+
+// for heideltime
+import java.io.StringReader;
+import java.text.ParseException;
+import java.text.SimpleDateFormat;
+import java.util.ArrayList;
+import java.util.Date;
+
+import javax.xml.parsers.DocumentBuilder;
+import javax.xml.parsers.DocumentBuilderFactory;
+
+import org.w3c.dom.Document;
+import org.w3c.dom.Element;
+import org.w3c.dom.Node;
+import org.w3c.dom.NodeList;
+import org.xml.sax.InputSource;
+
+import de.unihd.dbs.heideltime.standalone.*;
+import de.unihd.dbs.heideltime.standalone.exceptions.*;
+import de.unihd.dbs.uima.annotator.heideltime.resources.Language;
+
 
 public class StuffieConsoleRunner {
 	
@@ -121,18 +146,48 @@ public class StuffieConsoleRunner {
 		Mode[] modes = getCustomModes(args);
 		Stuffie stuffie = new Stuffie(modes);
 
+		HeidelTimeStandalone heidelTime = new HeidelTimeStandalone(Language.ENGLISH,DocumentType.COLLOQUIAL,OutputType.TIMEML,"C:\\Users\\Reen\\Desktop\\HT\\heideltime-standalone-2.2.1\\heideltime-standalone\\config.props",POSTagger.TREETAGGER, true);
+		
+		
 		//String file = "C:\\Users\\Reen\\Desktop\\stuffie-master\\stuffie-master\\resource\\SentencesApril2018Try.csv";
+		//String file = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBNew\\Locations\\SentencesDecember2017V2.csv";
 		
-		String file = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBNew\\SentencesOctober2017.csv";
+		File folder = new File("C:\\Users\\Reen\\Desktop\\DBFiles\\DBTest\\");
+		File[] listOfFiles = folder.listFiles();
+		
+		int neo4j_id = 1;
+		for (int i = 0; i < listOfFiles.length; i++) {
+		  if (listOfFiles[i].isFile()) {
+		    System.out.println("File " + listOfFiles[i].getName());
+		    
+		    //neo4j
+		    //String file = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBNew\\Locations\\2016\\" + listOfFiles[i].getName().toString();
+			
+		    String orig_file = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBTest\\" + listOfFiles[i].getName().toString();
+		    String writefile = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBTest\\Locations" + listOfFiles[i].getName().toString();
+		    String location_file = getSentencesFromFile(orig_file,writefile);
+		    
+		    
+		    
+		    AccessDatabase("bolt://localhost:7687", "neo4j", "123456");
+			
+			neo4j_id = process_file(neo4j_id,location_file,args,modes,stuffie,heidelTime);
+			
+			//neo4j
+			closeDatabase();
+		  } 
+		}
+		
 		
 		
 		//neo4j
-		AccessDatabase("bolt://localhost:7687", "neo4j", "123456");
+		//AccessDatabase("bolt://localhost:7687", "neo4j", "123456");
 		
-		process_file(file,args,modes,stuffie);
+		//int neo4j_id = 54656;
+		//neo4j_id = process_file(neo4j_id,file,args,modes,stuffie,heidelTime);
 		
 		//neo4j
-		closeDatabase();
+		//closeDatabase();
 		
 		/*Scanner reader = new Scanner(System.in);
 		String text = "";
@@ -262,7 +317,7 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
     }
     
 
-	public static void process_file(String file,String[] args, Mode[] modes, Stuffie stuffie) throws InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, NoSuchMethodException, SecurityException   {
+	public static int process_file(int neo4j_id,String file,String[] args, Mode[] modes, Stuffie stuffie,HeidelTimeStandalone heideltime) throws InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, NoSuchMethodException, SecurityException   {
 		
 		//String dest = "C:\\Users\\Reen\\Desktop\\stuffie-master\\stuffie-master\\resource\\OutputforSentencesV1_try.txt";
 
@@ -275,7 +330,7 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 		    	
 		    	//FileWriter fstream = new FileWriter(dest, true);
 		    	//BufferedWriter out = new BufferedWriter(fstream);
-		    	int neo4j_id = 30251;
+		    	//int neo4j_id = 19976;
 		    	
 				while ((cell = csvReader.readNext()) != null) {
 		            // use comma as separator
@@ -283,12 +338,30 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 
 					//System.out.println(00000000);
 		            System.out.println( cell[0] + "\n" + cell[1] + "\n" + cell[2].toString() + "**********");
-		            String date = cell[0];
+		            
+		            
+		            
+		            
 		            String headline = cell[1];
 		            String sentence = cell[2];
 		            
-		            String locations = findLocations(sentence);
-		            System.out.println(locations);
+		            
+		            String date="";
+		            date = processDates(cell[0],sentence,heideltime);
+					
+		            
+					//get Locations and remove duplicates
+		            //String locations = findLocations(sentence);
+		            String locations = cell[3];
+		            if(locations!="") {
+		            String[] result_array = locations.split(";");
+        			List<String> result_list = Arrays.asList(result_array);
+        			List<String> newList = result_list.stream().distinct().collect(Collectors.toList());
+        			locations = String.join(";", newList);
+		            }
+		            
+		            
+		            //System.out.println(locations);
 					try {
 						
 						//get stuffie output
@@ -333,15 +406,16 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 							
 							
 							//get date
-							date = date.replace( "\\", " " );
+							/*date = date.replace( "\\", " " );
 							String[] date_comps = date.split("-");
 							String day = date_comps[0];
 							String month = date_comps[1];
 							String year = date_comps[2];
 							String new_date = (year + month + day);
 							//int final_date = Integer.parseInt(new_date);
-							//System.out.println(new_date);
-							addNode(event_dbid,new_date,"date");
+							//System.out.println(new_date);*/
+							
+							addNode(event_dbid,date,"date");
 							
 							//add sentence as property
 							addNode(event_dbid,sentence,"sentence");
@@ -512,38 +586,9 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 		        e.printStackTrace();
 		    }
 		    
-			return;
+			return neo4j_id;
 	}
 	
-	public static String findLocations(String sentence) {
-		
-		String output = "";
-		Properties props = new Properties();
-	    props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner");
-	    props.setProperty("ner.applyFineGrained", "false");
-	    StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
-	    CoreDocument doc = new CoreDocument(sentence);
-	    pipeline.annotate(doc);
-	    System.out.println("---");
-	    System.out.println("entities found");
-	    try {
-	    for (CoreEntityMention em : doc.entityMentions()) {
-	    	if(em.entityType().contentEquals("LOCATION")) {
-	    		if(output.contentEquals("")) {
-	    			output = em.text().toString();
-	    		}
-	    		else {
-		    		output = output + " ; " + em.text().toString();
-	    		}
-	    		//System.out.println("\tdetected entity: is a location"+em.text()+"\t"+em.entityType());
-	    	}
-	    }
-	    }catch(Exception e){
-	    	e.printStackTrace();
-	    }
-	    return output;
-		
-	}
 	
 	public static void process_facet(String connector, String target, String event_dbid, HashMap<String,String> tripleids_dbids) {
 		
@@ -604,6 +649,101 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 		
 	}
 	
+	public static String processDates(String refdate,String text,HeidelTimeStandalone heidelTime) {
+		String date = "";
+		
+		
+		
+		//String text = "I tried out many options yesterday, but failed. I can't plan this day after "
+				//+ "tomorrow, so I have to do this today or tomorrow ";
+		try {
+		Date refDate= new SimpleDateFormat("dd-MM-yyyy").parse(refdate);
+		String xmlDoc = heidelTime.process(text, refDate);
+		
+		System.out.println(xmlDoc);
+		ArrayList<String> listDates = getDates(xmlDoc,refdate);
+		//System.out.println(listDates);
+		
+		
+		if(listDates.size()==1) {
+			return listDates.get(0).toString();
+		}
+		else {
+			return refdate;
+		}
+		}catch(Exception e) {
+			e.printStackTrace();
+			return refdate;
+		}
+		
+	}
+	
+	public static ArrayList<String> getDates(String xmlDoc,String refdate){
+		
+		//process xmlDoc to get rid of meta tags
+		String[] list = xmlDoc.split("\n");
+		StringBuilder processedDoc = new StringBuilder();
+		for(int i=2;i<list.length;i++) {
+			processedDoc.append(list[i]);
+		}
+			
+		System.out.println(processedDoc.toString());
+		
+		/* list of dates to be returned  */
+		ArrayList<String> dates = new ArrayList<String>();
+	    try {
+			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
+			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
+			Document doc = dBuilder.parse(new InputSource(new StringReader(processedDoc.toString())));
+					
+			NodeList nList = doc.getElementsByTagName("TimeML");
+	
+			for (int temp = 0; temp < nList.getLength(); temp++) {
+				Node nNode = nList.item(temp);					
+				System.out.println("\nCurrent Element :" + nNode.getNodeName());
+				
+				if (nNode.getNodeType() == Node.ELEMENT_NODE) {
+					Element eElement = (Element) nNode;
+					NodeList x3List = eElement.getElementsByTagName("TIMEX3");
+					
+					for (int i = 0; i < x3List.getLength(); i++) {
+						Node x3Node = x3List.item(i);								
+						System.out.println("\nCurrent Element :" + x3Node.getNodeName());
+							
+						if (x3Node.getNodeType() == Node.ELEMENT_NODE) {
+							Element x3Element = (Element) x3Node;							
+							System.out.println("Name : " + x3Element.getTextContent());
+							System.out.println("Date : " + x3Element.getAttribute("value"));
+							
+							/* convert date in string format to Date object
+							 */
+							 String str_date = x3Element.getAttribute("value");
+							 SimpleDateFormat formatter = new SimpleDateFormat("dd-MM-YYYY");
+							 
+							 String[] date_check = str_date.split("-");
+							 if(date_check.length>2) {
+								 Date date=new SimpleDateFormat("yyyy-MM-dd").parse(str_date);
+								 String strDate= formatter.format(date);
+								 dates.add(strDate);
+							 }
+							 else {
+								 str_date = str_date.replace("W", "");
+								 Date date=new SimpleDateFormat("yyyy-ww").parse(str_date);
+								 String strDate= formatter.format(date);
+								 dates.add(strDate);
+							 }
+						}
+					}
+				}
+			}
+	    } catch (Exception e) {
+	    	e.printStackTrace();
+	    	dates.add(refdate);
+	    	return dates;		
+	    }
+	    return dates;
+	  }
+	
 	 public static void AccessDatabase(String uri, String user, String password){
 	        driver = GraphDatabase.driver(uri, AuthTokens.basic(user, password));
 	 }
@@ -616,15 +756,15 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 	            try (Transaction tx = session.beginTransaction())
 	            {
 	                if(type.contentEquals("subject")) {
-	                	tx.run("MERGE (n:EntityNode {name: {x}, lemma:{lemma_form}})", parameters("x", name,"lemma_form",lemma));
+	                	tx.run("MERGE (n:EntityNode {name: {x}})" + "SET n.lemma = {lemma_form}" + "RETURN n", parameters("x", name,"lemma_form",lemma));
 	                	tx.run("MATCH (a:Event {dbid: {myid} }),(b:EntityNode {name: {name}})" + "MERGE (a)-[r:HAS_SUBJECT]->(b)" + "RETURN a,b",parameters("myid",id,"name",name));
 	                }
 	                else if(type.contentEquals("object")) {
-	                	tx.run("MERGE (n:EntityNode {name: {x}, lemma:{lemma_form}})", parameters("x", name,"lemma_form",lemma));
+	                	tx.run("MERGE (n:EntityNode {name: {x}})" + "SET n.lemma = {lemma_form}" + "RETURN n", parameters("x", name,"lemma_form",lemma));
 	                	tx.run("MATCH (a:Event {dbid: {myid} }),(b:EntityNode {name: {name}})" + "MERGE (a)-[r:HAS_OBJECT]->(b)" + "RETURN a,b",parameters("myid",id,"name",name));
 	                }
 	                else if(type.contentEquals("predicate")) {
-	                	tx.run("MERGE (n:Predicate {name: {x}, lemma:{lemma_form}})", parameters("x", name,"lemma_form",lemma));
+	                	tx.run("MERGE (n:Predicate {name: {x}})" + "SET n.lemma = {lemma_form}" + "RETURN n", parameters("x", name,"lemma_form",lemma));
 	                	tx.run("MATCH (a:Event {dbid: {myid} }),(b:Predicate {name: {name}})" + "MERGE (a)-[r:HAS_PREDICATE]->(b)" + "RETURN a,b",parameters("myid",id,"name",name));
 	                }
 	            	
@@ -634,6 +774,7 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 	            session.close();
 	        }
 	 }
+	 
 	 
 	 private static void addNode(String id, String name, String type){
 	        // Sessions are lightweight and disposable connection wrappers.
@@ -649,8 +790,9 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 	                }
 	                
 	                else if(type.contentEquals("date")) {
-	                	int date = Integer.parseInt(name);
+	                	String date = name;
 	                	tx.run("MERGE (n:Event {dbid: {x}})" + "SET n.date = {y}" + "RETURN n",parameters("x",id,"y",date));
+	                	//tx.run("MERGE (n:Event {dbid: {x}})" + "SET n.date = {y}" + "RETURN n",parameters("x",id,"y",date));
 	                }
 	                
 	                else if(type.contentEquals("sentence")) {
@@ -684,7 +826,7 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 	    		try (Transaction tx = session.beginTransaction())
 	            {
 	    			if(type.contentEquals("facet")) {
-	                	tx.run("MERGE (n:Facet {name: {x}, lemma:{lemma_form}})", parameters("x", target,"lemma_form",lemma));
+	                	tx.run("MERGE (n:Facet {name: {x}})" + "SET n.lemma = {lemma_form}" + "RETURN n", parameters("x", target,"lemma_form",lemma));
 	                	tx.run("MATCH (a:Event {dbid: {myid} }),(b:Facet {name: {facet_name}})" + "MERGE (a)-[r:CONNECTING_CLAUSE {name:{rel_name}}]->(b)" + "RETURN a,b",parameters("myid",id,"facet_name",target,"rel_name",connector));
 	                }
 	    			tx.success(); 
@@ -725,11 +867,246 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 	 			session.close();
 	        }
 	 	}
+	 	
+	 	
+	 	
+	 	//locations function
+	 	public static void iterateOver(HashMap<String, ArrayList<ArrayList<String>>> map,String writefile) {
+			
+			// headline is key, [date,sentence,location,1/0]
+			
+			Iterator it = map.entrySet().iterator();
+		    while (it.hasNext()) {
+		    	
+		    	
+		    	Map.Entry pair = (Map.Entry)it.next();
+		    	String headline = pair.getKey().toString();
+		    	
+		    	ArrayList<ArrayList<String>> array_values = (ArrayList<ArrayList<String>>) pair.getValue();
+		    	
+		    	int count_index = 0;
+		    	
+		    	for(ArrayList<String> array: array_values) {
+		    		//System.out.println(array.get(3));
+		    		//if location does not exist
+		    		if(array.get(3)!="1") {
+		    			//System.out.println("Not found");
+		    			int f_low = count_index + 1;
+		    			int f_high = array_values.size();
+		        		String f_result = checkForward(array_values,f_low,f_high);
+		        		
+		        		int b_low = 0;
+		        		int b_high = count_index - 1;
+		        		String b_result = checkBackward(array_values,b_low,b_high);
+		        		
+		        		
+		        		if(f_result!="" && b_result!="") {
+		        			String result = f_result + ";" + b_result;
+		        			
+		        			String[] result_array = result.split(";");
+		        			List<String> result_list = Arrays.asList(result_array);
+		        			List<String> newList = result_list.stream().distinct().collect(Collectors.toList());
+		        			String loc = String.join(";", newList);
+		        			
+		        			array.set(2,loc);
+		        		}
+		        		else if(f_result=="" && b_result!="") {
+		        			//System.out.println(b_result+ " "+ array.get(0));
+		        			array.set(2, b_result);
+		        		}
+		        		else if(f_result!="" && b_result=="") {
+		        			//System.out.println(f_result+ " "+ array.get(0));
+		        			array.set(2, f_result);
+		        		}
+		        		else if(f_result=="" && b_result=="") {
+		        			//System.out.println(b_result+"))))))))))"+f_result);
+		        			//System.out.println("##########");
+		        			//System.out.println(array + " " + array_values);
+		        			
+		        		}
+		        	
+		        	write_to_csv(array.get(0),headline,array.get(1),array.get(2),writefile);
+		        	//System.out.println(array);	
+		        	}
+		    		else {
+		    			write_to_csv(array.get(0),headline,array.get(1),array.get(2),writefile);
+		    			//System.out.println(array.get(2) + "************"+array.get(0));
+		    		}
+		        	count_index+=1;
+		    		//System.out.println("\n");
+		        } 
+		    
+		    	it.remove();
+		    }
+		}
+	 	
+	 	public static String checkForward(ArrayList<ArrayList<String>> array, int low, int high) {
+			String result = "";
+			
+			if(low<=high) {
+				for (int i = low; i<high; i++ ) {
+					if(array.get(i).get(3)=="1") {
+						return array.get(i).get(2);
+					}
+				    //System.out.println(array.get(i));
+				}
+			}
+			
+			return result;
+		}
+		
+		public static String checkBackward(ArrayList<ArrayList<String>> array, int low, int high) {
+			String result = "";
+			
+			if(low<=high) {
+				for (int i = high; i>=low; i-- ) {
+					if(array.get(i).get(3)=="1") {
+						return array.get(i).get(2);
+					}
+				    //System.out.println(array.get(i));
+				}
+			}
+			
+			return result; 
+		}
+		
+		public static String findLocations(String sentence) {
+			
+			String output = "";
+			Properties props = new Properties();
+		    props.setProperty("annotators", "tokenize,ssplit,pos,lemma,ner");
+		    props.setProperty("ner.applyFineGrained", "false");
+		    StanfordCoreNLP pipeline = new StanfordCoreNLP(props);
+		    CoreDocument doc = new CoreDocument(sentence);
+		    pipeline.annotate(doc);
+		    //System.out.println("---");
+		    //System.out.println("entities found");
+		    try {
+		    for (CoreEntityMention em : doc.entityMentions()) {
+		    	if(em.entityType().contentEquals("LOCATION")) {
+		    		if(output.contentEquals("")) {
+		    			output = em.text().toString();
+		    		}
+		    		else {
+			    		output = output + ";" + em.text().toString();
+		    		}
+		    		//System.out.println("\tdetected entity: is a location"+em.text()+"\t"+em.entityType());
+		    	}
+		    }
+		    }catch(Exception e){
+		    	e.printStackTrace();
+		    }
+		    //System.out.println(output);
+		    return output;
+			
+		}
+	 	
 	 
+		public static void printMap(Map mp) {
+		    Iterator it = mp.entrySet().iterator();
+		    while (it.hasNext()) {
+		        Map.Entry pair = (Map.Entry)it.next();
+		        System.out.println(pair.getKey());
+		        //System.out.println(pair.getKey() + " = " + pair.getValue());
+		        ArrayList<ArrayList<String>> value = (ArrayList<ArrayList<String>>) pair.getValue();
+		        for(ArrayList<String> array: value) {
+		        	for(String item: array) {
+		        		System.out.println(item + "*****");
+		        	}
+		        	System.out.println("\n");
+		        }
+		        System.out.println("Next Item");
+		        it.remove(); // avoids a ConcurrentModificationException
+		    }
+		}
+		
+		public static String getSentencesFromFile(String filename,String writefile) throws InstantiationException, IllegalAccessException, IllegalArgumentException, InvocationTargetException, NoSuchMethodException, SecurityException,IOException {
+			
+			HashMap<String, ArrayList<ArrayList<String>>> map = new HashMap<String, ArrayList<ArrayList<String>>>(); 
+			
+			BufferedReader in = new BufferedReader(new InputStreamReader(new FileInputStream(filename), "UTF8"));
+	    	CSVReader csvReader = new CSVReader(in); 
+	    	String[] cell;
+	    	
+			while ((cell = csvReader.readNext()) != null) {
+				
+				String date = cell[0];
+	            String headline = cell[1];
+	            String sentence = cell[2];  
+	            String locations = findLocations(sentence) ;
+	            
+	            ArrayList<String> instance = new ArrayList<String>();
+	            instance.add(date);
+	            instance.add(sentence);
+	            instance.add(locations);
+	            System.out.println(date+ " " +locations);
+	            
+	            //check locations null
+	            if(locations.contentEquals("") || locations==null) {
+	            	//System.out.println("yes");
+	            	instance.add("0");
+	            }
+	            else {
+	            	instance.add("1");
+	            }
+	            
+	            
+	            //check in map
+	            if(map.containsKey(headline)) {
+	            	ArrayList<ArrayList<String>> this_list = map.get(headline);
+	            	this_list.add(instance);
+	            	map.put(headline, this_list);
+	            }
+	            else {
+	            	ArrayList<ArrayList<String>> new_list = new ArrayList<ArrayList<String>>();
+	            	new_list.add(instance);
+	            	map.put(headline,new_list);
+	            }
+	            
+			}
+
+			//printMap(map);
+			iterateOver(map,writefile);
+			
+			in.close();
+			csvReader.close();
+			
+			return writefile;
+		}
+		
+		public static void write_to_csv(String date, String headline, String sentence, String location, String filename) {
+			//String filename = "C:\\Users\\Reen\\Desktop\\DBFiles\\DBNew\\Locations\\SentencesFebruary2016V2.csv";
+			File file = new File(filename); 
+			try { 
+		        FileWriter outputfile = new FileWriter(file,true); 
+		  
+		        CSVWriter writer = new CSVWriter(outputfile); 
+		  
+		        String[] data = {date,headline,sentence,location};
+		        writer.writeNext(data);
+		        /*String[] header = { "Name", "Class", "Marks" }; 
+		        writer.writeNext(header); 
+		  
+		        String[] data1 = { "Aman", "10", "620" }; 
+		        writer.writeNext(data1); 
+		        String[] data2 = { "Suraj", "10", "630" }; 
+		        writer.writeNext(data2);*/
+		  
+		        writer.close();
+		        outputfile.close();
+		    } 
+		    catch (IOException e) { 
+		        // TODO Auto-generated catch block 
+		        e.printStackTrace(); 
+		    } 
+			
+		}
+		
 	    public static void closeDatabase(){
 	        // Closing a driver immediately shuts down all open connections.
 	        driver.close();
 	    }
+	    
 	   
 	
 }
