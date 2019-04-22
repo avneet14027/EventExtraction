@@ -34,6 +34,7 @@ Finally run the StuffieConsoleRunner.java file. This will start creating the dat
 #### Step6. Querying the database
 Run QueryDB.java file to test a few queries. Alternatively, run the queries using Neo4j browser.
 
+Sample Outputs have been generated and added to the SampleOutputs folder for the query keywords "death, strike, protest, bomb meet, stone pelt, pellet". 
 
 
 
