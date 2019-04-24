@@ -38,8 +38,9 @@ Sample Outputs have been generated and added to the SampleOutputs folder for the
 
 ### Citations:
 StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction. 
+  To illustrate and document this format, we use a corresponding BibTeX entry taken and modified from a [real example](https://doi.org/10.5281/zenodo.15991)). Note that all data/software BibTeX entries should be of the `@misc` type: 
 
- @misc{lia_corrales_2015_15991,
+    @misc{lia_corrales_2015_15991,
         author       = {Lia Corrales},
         title        = {{dust: Calculate the intensity of dust scattering halos in the X-ray}},
         month        = mar,
