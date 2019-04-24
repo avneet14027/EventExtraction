@@ -1,5 +1,7 @@
 ## Process of Extracting events from News Articles(A demo on processing of data at different phase):
 
+We have used StuffIE[1] in our project. 
+
 Download the project as zip file , unzip it and open the command prompt inside "/EventExtraction-new-b/Preprocess". 
 
 Run following commands one by one.
@@ -37,17 +39,14 @@ Run QueryDB.java file to test a few queries. Alternatively, run the queries usin
 Sample Outputs have been generated and added to the SampleOutputs folder for the query keywords "death, strike, protest, bomb meet, stone pelt, pellet". 
 
 ### Citations:
-StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction. 
-  To illustrate and document this format, we use a corresponding BibTeX entry taken and modified from a [real example](https://doi.org/10.5281/zenodo.15991)). Note that all data/software BibTeX entries should be of the `@misc` type: 
+[1] StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction. url: https://gitlab.inf.unibz.it/rprasojo/stuffie/blob/master/README.md
 
-    @misc{lia_corrales_2015_15991,
-        author       = {Lia Corrales},
-        title        = {{dust: Calculate the intensity of dust scattering halos in the X-ray}},
-        month        = mar,
-        year         = 2015,
-        doi          = {10.5281/zenodo.15991},
-        version      = {1.0},
-        publisher    = {Zenodo},
-        url          = {https://doi.org/10.5281/zenodo.15991}
+    @inproceedings{prasojo2018stuffie,
+        title={StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction},
+        author={Prasojo, Radityo Eko and Kacimi, Mouna and Nutt, Werner},
+        booktitle={Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+        pages={467--476},
+        year={2018},
+        organization={ACM}
         }
 
