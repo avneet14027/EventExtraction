@@ -39,7 +39,7 @@ Run QueryDB.java file to test a few queries. Alternatively, run the queries usin
 Sample Outputs have been generated and added to the SampleOutputs folder for the query keywords "death, strike, protest, bomb meet, stone pelt, pellet". 
 
 ### Citations:
-[1] StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction. url: https://gitlab.inf.unibz.it/rprasojo/stuffie/blob/master/README.md
+[1] StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction. https://gitlab.inf.unibz.it/rprasojo/stuffie/blob/master/README.md
 
     @inproceedings{prasojo2018stuffie,
         title={StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction},
