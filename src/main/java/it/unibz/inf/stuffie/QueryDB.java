@@ -1,11 +1,14 @@
 package it.unibz.inf.stuffie;
-
+import com.fasterxml.jackson.core.JsonProcessingException;
+import com.fasterxml.jackson.core.type.TypeReference;
+import com.fasterxml.jackson.databind.ObjectMapper;
 import static org.neo4j.driver.v1.Values.parameters;
 
 import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
+import java.util.ArrayList;
 import java.util.Map;
 
 import org.neo4j.driver.v1.AuthTokens;
@@ -22,11 +25,11 @@ public class QueryDB {
 
 	static Driver driver;
 	
-	 public static void main(String args[]) {
+	 public static void main(String args[]) throws JsonProcessingException {
 		
 			AccessDatabase("bolt://localhost:7687", "neo4j", "123456");
 			
-			String query1 = "MATCH (Node) where Node.lemma contains 'pellet' " + "OPTIONAL MATCH (Event)--(Node) " + "OPTIONAL MATCH (Event)-[r:HAS_SUBJECT]-(Subject) " + "OPTIONAL MATCH (Event)-[r1:HAS_OBJECT]-(Object) " 
+			String query1 = "MATCH (Node) where Node.lemma contains 'death' " + "OPTIONAL MATCH (Event)--(Node) " + "OPTIONAL MATCH (Event)-[r:HAS_SUBJECT]-(Subject) " + "OPTIONAL MATCH (Event)-[r1:HAS_OBJECT]-(Object) " 
 					+ "OPTIONAL MATCH (Event)-[r2:HAS_PREDICATE]-(Predicate)"
 					+ "OPTIONAL MATCH (Event)-[r3:CONNECTING_CLAUSE]-(Facet)" +  "return Event.headline,Event.sentence,Event.location,Event.date,Node.name,Node.dbid,Subject.name,Predicate.name,Object.name,Facet.name";
 			String query2 = "MATCH (n) where n.lemma contains 'protest' " + "OPTIONAL MATCH (x)--(n) " + "return x.location,x.date,x.sentence,n.name,x.dbid";
@@ -40,7 +43,10 @@ public class QueryDB {
 			String query8 = "MATCH (n) where n.location contains 'Kashmir' " + "return n.sentence,n.date,n.location,n.dbid,n.headline";
 			
 			
-			tryQuery(query1);
+			ArrayList<Map<String, Object>> dataMap = tryQuery(query1);
+			ObjectMapper objectMapper = new ObjectMapper();
+			String json = objectMapper.writeValueAsString(dataMap);
+			System.out.println(json);
 			
 			closeDatabase();
 	 }
@@ -49,9 +55,10 @@ public class QueryDB {
 	        driver = GraphDatabase.driver(uri, AuthTokens.basic(user, password));
 	 }
 	 
-	 public static Map<String,Object> tryQuery(String query) {
+	 public static ArrayList<Map<String, Object>> tryQuery(String query) {
 		 String query_result = "";
 		 Map<String,Object> map = null;
+		 ArrayList<Map<String, Object>> dataMap = new ArrayList<Map<String, Object>>();
 		 try (Session session = driver.session())
 	        {
 	             
@@ -59,24 +66,25 @@ public class QueryDB {
 	    	        while (result.hasNext()){
 	    	        	Record record = result.next();
 	    	        	map = record.asMap();
-	    	        	for (Map.Entry<String,Object> entry : map.entrySet())  
+	    	        	/*for (Map.Entry<String,Object> entry : map.entrySet())  
 	    	                System.out.println("Key: " + entry.getKey() + 
-	    	                                 ", Value: " + entry.getValue()); 
-	    	        	System.out.println("\n\n");
-	    	        	write_to_file(map);
+	    	                                 ", Value: " + entry.getValue());*/ 
+	    	        	dataMap.add(map);
+	    	        	//System.out.println("\n\n");
+	    	        	//write_to_file(map);
 	    	        	//query_result = record.toString();
 		    	        //System.out.println(query_result);
 	    	        }
 	                    	    	        
 	    		session.close();
 	        }
-		 return map;
+		 return dataMap;
 	 }
 	 
 	 public static void write_to_file(Map<String,Object> map) {
 			
 		
-		 	String file = "C:\\Users\\Reen\\Desktop\\output7.txt";
+		 	String file = "C:\\Users\\Reen\\Desktop\\output1.txt";
 	        // If the file doesn't exists, create and write to it
 			// If the file exists, truncate (remove all content) and write to it
 	        try (FileWriter writer = new FileWriter(file,true);
