@@ -1,21 +1,28 @@
 ## Process of Extracting events from News Articles(A demo on processing of data at different phase):
 
+We have used StuffIE[1] in our project. 
+
 Download the project as zip file , unzip it and open the command prompt inside "/EventExtraction-new-b/Preprocess". 
 
 Run following commands one by one.
 For the demo purpose, we have a file named "/Preprocess/TestCoref2016/April2016/April 15,2016_1.txt" which contains a news article with the headline as first line and content(input to our program)
 
-Further, running this project would require HeidelTime Standalone Version 2.2.1 and Neo4j Desktop Version 1.1.17 to be set up beforehand.
+Further, running this project would require the following to be set up beforehand. 
+ - HeidelTime Standalone Version 2.2.1 
+ - Neo4j Desktop Version 1.1.17
+ - Spacy library Python.
+ - Stanford CoreNLP
+ - NeuralCoref 4.0 for coreference resolution. 
 
 #### Step1. Coreference Resolution:
 Run the following command:
->Python3 CoreferenceResolveDBV2.py  ./TestCoref2016/April2016/April 15,2016_1.txt  ./TestCoref2016/April2016/preprocess_coref.txt
+>python3 CoreferenceResolveDBV2.py  ./TestCoref2016/April2016/April 15,2016_1.txt  ./TestCoref2016/April2016/preprocess_coref.txt
 
 the data in April 15,2016_1.txt has been preprocessed with coreference resolution and is stored in preprocess_coref.txt
 
 #### Step2. Splitting the data obtained in previous step into sentences:
 Run the following command:
->Python3 tokenize_sent.py ./TestCoref2016/April2016/preprocess_coref.txt ./TestCoref2016/April2016/input_to_stuffie.csv
+> python3 tokenize_sent.py ./TestCoref2016/April2016/preprocess_coref.txt ./TestCoref2016/April2016/input_to_stuffie.csv
 
 input_to_stuffie.csv will be generated in which each row corresponds to a single sentence.
 
@@ -29,7 +36,17 @@ Finally run the StuffieConsoleRunner.java file. This will start creating the dat
 #### Step6. Querying the database
 Run QueryDB.java file to test a few queries. Alternatively, run the queries using Neo4j browser.
 
+Sample Outputs have been generated and added to the SampleOutputs folder for the query keywords "death, strike, protest, bomb meet, stone pelt, pellet". 
 
+### Citations:
+[1] StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction. https://gitlab.inf.unibz.it/rprasojo/stuffie/blob/master/README.md
 
-
+    @inproceedings{prasojo2018stuffie,
+        title={StuffIE: Semantic Tagging of Unlabeled Facets Using Fine-Grained Information Extraction},
+        author={Prasojo, Radityo Eko and Kacimi, Mouna and Nutt, Werner},
+        booktitle={Proceedings of the 27th ACM International Conference on Information and Knowledge Management},
+        pages={467--476},
+        year={2018},
+        organization={ACM}
+        }
 
