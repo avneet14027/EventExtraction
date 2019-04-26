@@ -346,9 +346,13 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
 		            String sentence = cell[2];
 		            
 		            
-		            String date="";
-		            date = processDates(cell[0],sentence,heideltime);
-					
+		            String try_date="";
+		            try_date = processDates(cell[0],sentence,heideltime);
+		            String[] date_comps = try_date.split("-");
+					String day = date_comps[0];
+					String month = date_comps[1];
+					String year = date_comps[2];
+					String date = (year + "-" + month + "-" + day);
 		            
 					//get Locations and remove duplicates
 		            //String locations = findLocations(sentence);
