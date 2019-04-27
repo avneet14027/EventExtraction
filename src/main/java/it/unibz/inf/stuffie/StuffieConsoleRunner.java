@@ -362,6 +362,7 @@ public static ArrayList<RelationInstance> run_stuffie(String[] args,String text,
         			List<String> result_list = Arrays.asList(result_array);
         			List<String> newList = result_list.stream().distinct().collect(Collectors.toList());
         			locations = String.join(";", newList);
+        			locations = locations.toLowerCase();
 		            }
 		            
 		            
